@@ -31,44 +31,49 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 - 2017년 12월 13일 : https://swiftkorea.github.io/meetup/2#
 
 
-# Realm 아카데미 iOS 세션들 : https://academy.realm.io/kr/section/apple/
-(아래는 한국어 세션중 일부..)
+## Realm 아카데미 iOS 세션들
+- 전체 : https://academy.realm.io/kr/section/apple/
 
+### 오토 레이아웃
 - Jul 18 2017, 오토 레이아웃 기초 1 (입문자용 중요)
 https://academy.realm.io/kr/posts/ios-layoutmargins/
 
 - Apr 18 2017, 오토 레이아웃 기초 2 (입문자용 중요)
 https://academy.realm.io/kr/posts/ios-autolayout/
 
+### 메모리
 - Jul 19 2016, (매우 중요!) Swift 성능 이해하기: Value 타입, Protocol과 스위프트의 성능 최적화
 : https://academy.realm.io/kr/posts/letswift-swift-performance/
-
-- Apr 18 2017, 오토 레이아웃으로 iOS 앱 쉽게 개발하기
-: https://academy.realm.io/kr/posts/ios-autolayout/
 
 - Aug 16 2016, Swift Internals- LLVM, Type system, Swift Foundation을 중심으로
 : https://academy.realm.io/kr/posts/swift-internals-llvm-type-system-swift-foundation/
 
+### Swift 기본 활용
 - Jun 8 2017, Swift의 네임스페이스와 typealias
 : https://academy.realm.io/kr/posts/swift-namespace-typealias/
 
+### Playground
 - Jun 21 2017, Playground 100% 활용하기
 : https://academy.realm.io/kr/posts/swift-playground/
 
+### 단축기
 - Jun 30 2017, Xcode와 MacOS의 단축키로 마우스 움직임 최소화하기
 : https://academy.realm.io/kr/posts/xcode-shortcuts/
 : 스피커님 블러그 >> https://learnswiftwithbob.com/
 
+### 세션 투어
 - Jun 27 2017, try! Swift Tokyo 2017 후기
 : https://academy.realm.io/kr/posts/try-swift-tokyo-2017-review/
 
+### Realm
 - Apr 13 2017, 프알못의 Realm 사용기 + 라이브 코딩 데모
 : https://academy.realm.io/kr/posts/realm-swift-live-coding-beginner/
 
+### 서버 사이드
 - Jun 14 2017, Swift 서버 사이드 프레임워크 비교 분석
 : https://academy.realm.io/kr/posts/swift-server-side-framework/
 
-고급자용 (rxswift)
+### RxSwift
 - Jul 14 2016, RxSwift 시작하기
 : https://academy.realm.io/kr/posts/letswift-rxswift/
 
