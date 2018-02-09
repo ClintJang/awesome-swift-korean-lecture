@@ -1,9 +1,14 @@
-# Awesome-Swift-Korean-Lecture
+# Awesome Swift Korean Lecture
 [![Swift 4](https://img.shields.io/badge/Swift-4.0-orange.svg?style=flat)](https://swift.org) 
 
 ## About
-Awesome Swift Korean lecture information
-(훌륭한 Swift 한국어 동영상 강의 정보 링크 모음)
+훌륭한 Swift 한국어 동영상 강의 정보 링크 모음
+(Awesome Swift Korean lecture information)
+
+iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다. 
+입문 용, 찾기 힘든 주제별, 그리고 iOS(swift) 세션 및 행사 진행 후 결과 링크 등을 모았습니다.
+카테고리에는 사전 설정된 순서의 항목이 없으며, 편하게 찾을 수 있도록 계속 수정 중에 있습니다.
+가능하면 가이드까지? 작성해보겠습니다.
 
 # Info
 ## 강의 (입문자용)
