@@ -1,5 +1,5 @@
 # Awesome Swift Korean Lecture
-[![Swift 4](https://img.shields.io/badge/Swift-4.0-orange.svg?style=flat)](https://swift.org) 
+[![Swift 4](https://img.shields.io/badge/Swift-Lecture-orange.svg?style=flat)](https://swift.org) 
 
 ## About
 훌륭한 Swift 한국어 동영상 강의 정보 링크 모음
