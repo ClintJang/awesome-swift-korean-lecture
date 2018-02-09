@@ -23,7 +23,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 - 2017 가을 세션 : https://iosdevkor.github.io/let_us_go_2017_fall_review/
 
 ## letswift 
-- 2016 : http://letswift.kr/2016/index.html
+- 2016 : http://letswift.kr/2016/
 - 2017 : http://letswift.kr/2017/
 
 ## meetup
