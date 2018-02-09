@@ -18,7 +18,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 - 인프런(Swift)https://www.inflearn.com/course/swift4-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-ios-%EA%B0%9C%EB%B0%9C/
 
 ## Let us:Go! (iOS Developer KR)
-- 2017 봄 세션 ; https://iosdevkor.github.io/let_us_go_2017_spring_review/
+- 2017 봄 세션 : https://iosdevkor.github.io/let_us_go_2017_spring_review/
 - 2017 여름 세션 : https://iosdevkor.github.io/let_us_go_2017_summer_review/
 - 2017 가을 세션 : https://iosdevkor.github.io/let_us_go_2017_fall_review/
 
