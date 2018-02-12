@@ -48,6 +48,9 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 ## Realm 아카데미 iOS 세션들
 <pre>
  Realm 아카데미는 항상 감사합니다.
+
+ 아래는 대부분 Realm 세션이지만, 그렇치 않은 세션도 존재합니다.
+ 카테고리를 분류하다보니 함께 정리하였습니다.
 </pre>
 - [전체 - Realm 아카데미 Apple(iOS) 탭](https://academy.realm.io/kr/section/apple/) : Apple 세션들이 다양하게 있습니다.
 
@@ -86,6 +89,8 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
  RxSwift는 중급 이상이라 생각됩니다. 
  함수형 프로그래밍에 관심이 있다면, rxswift 의 세계에 관심가져야된다고 생각합니다.
 </pre>
+- **☆** [Functional Reactive Programming Paradigm](https://www.youtube.com/watch?v=cXi_CmZuBgg&feature=youtu.be) : 왜? rxswift를 해야되는 지, 기본이 되는 용어에 대해 좋은 설명을 해주십니다. 
+
 - [Jul 14 2016, RxSwift 시작하기](https://academy.realm.io/kr/posts/letswift-rxswift/)
 
 - [Feb 23 2017, RxSwift 예제로 감잡기 : RxSwift 시작을 위한 간단한 예제들 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-use-rxswift-with-simple-examples-ios-techtalk/)
