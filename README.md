@@ -50,7 +50,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 <pre>
  Realm 아카데미는 항상 감사합니다.
 </pre>
-- [전체 - Realm 아카데미 Apple(iOS) 탭](https://academy.realm.io/kr/section/apple/) : Apple 세션들이 다양하게 있습니다.
+- [https://academy.realm.io/kr/section/apple/](https://academy.realm.io/kr/section/apple/) : 전체 - Realm 아카데미 Apple(iOS) 탭, Apple 세션들이 다양하게 있습니다.
 
 ---------------------------------------
 
