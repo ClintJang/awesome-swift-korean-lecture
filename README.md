@@ -2,7 +2,7 @@
 [![Swift 4](https://img.shields.io/badge/Swift-Lecture-orange.svg?style=flat)](https://swift.org) 
 
 ## About
-Swift 개발언어를 공부하기 위한 훌륭한 한국어 동영상 강의 정보 링크 모음
+Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 정보 링크 모음
 > (Awesome Swift Korean lecture information)
 
 <pre>
