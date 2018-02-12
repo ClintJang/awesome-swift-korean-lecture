@@ -51,11 +51,11 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 <pre>
  Realm 아카데미는 항상 감사합니다.
 </pre>
-- [https://academy.realm.io/kr/section/apple/](https://academy.realm.io/kr/section/apple/) : 전체 - Realm 아카데미 Apple(iOS) 탭, Apple 세션들이 다양하게 있습니다.
+- [https://academy.realm.io/kr/section/apple/](https://academy.realm.io/kr/section/apple/) : Realm 아카데미 Apple(iOS) 탭, Apple 세션들이 다양하게 있습니다.
 
 ---------------------------------------
 
-# 카테고리별
+# **카테고리별**
 <pre>
  주제별로 상세 링크를 정리해보았습니다.
  대부분 Realm 아카데미 링크입니다.
@@ -145,4 +145,4 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 동영상은 아니지만, 동영상 처럼 편하게 입문 시점에서 읽어두면 좋은 링크라고 생각되는 것을 모아보겠습니다.
 </pre>
 - [개발자 회고 모음](https://github.com/oaksong/developers-retrospective) : 개발 년차가 별로 되지 않으시는 분들은 알찬 회고 내용을 읽으면 개발 세계에 대해 좀 더 알아가는 좋은 지름길이 되지 않을 까 싶습니다.
-- [마크다운](https://gist.github.com/ihoneymon/652be052a0727ad59601) : github를 이용하신다면 마크다운에 대해 조금씩 알아가시면 좋습니다. 라는 생각에 ... 뭐 저도 잘 모릅니다.^^;;;
+- [마크다운 링크 1](http://sergeswin.com/1013), [마크다운 링크 2](https://gist.github.com/ihoneymon/652be052a0727ad59601) : github를 이용하신다면 마크다운에 대해 조금씩 알아가시면 좋습니다. 라는 생각에 ... 뭐 저도 잘 모릅니다.^^;;;
