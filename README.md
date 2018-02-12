@@ -74,17 +74,41 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 - **☆** [Jun 30 2017, Xcode와 MacOS의 단축키로 마우스 움직임 최소화하기](https://academy.realm.io/kr/posts/xcode-shortcuts/)
     - 스피커님 블러그 : https://learnswiftwithbob.com/
 
+## iOS 활용
+- [iOS 앱의 접근성 향상하기](https://www.youtube.com/watch?v=A80LVHABk-k&feature=youtu.be)
+
 ## Swift 기본 활용
 - [Jun 8 2017, Swift의 네임스페이스와 typealias](https://academy.realm.io/kr/posts/swift-namespace-typealias/) 
+- **☆** [인터페이스 : 유연하게 설계하기](https://www.youtube.com/watch?v=Au3EgsG4re4&feature=youtu.be)
+- [Jul 25 2017, Swift Protocol 적재적소에 사용하기](https://academy.realm.io/kr/posts/understanding-swift-protocol/)
+- **☆** [Apr 27 2017, Swift의 클로저 및 고차 함수 이해하기](https://academy.realm.io/kr/posts/closure-and-higher-order-functions-of-swift/)
+- [May 4 2017, Swift 함수에 커링 사용하기](https://academy.realm.io/kr/posts/currying-on-the-swift-functions/)
+
+## 내부 Framework 활용
+- [Core ML 시작하기](https://www.youtube.com/watch?v=ADtw_Ez5qWA&feature=youtu.be)
 
 ## Playground
 - [Jun 21 2017, Playground 100% 활용하기](https://academy.realm.io/kr/posts/swift-playground/)
 
+## 디자인패턴
+- [디자인 패턴 적용기](https://www.youtube.com/watch?v=MXSKM6aQ7Wo&feature=youtu.be) : 디자인 패턴이 어렵게 여기지 않으셔도 될 것 같습니다. 개발자와 소통하기 위한 한 수단이 될 수 있습니다. 
+- [Aug 8 2017, 자주 사용하는 템플릿을 커스터마이징하기 - 커스텀 Xcode 템플릿](https://academy.realm.io/kr/posts/custom-xcode-template/)
+
+## 알고리즘
+- [Jul 27 2017, Swift로 꼬리 재귀 사용하기](https://academy.realm.io/kr/posts/swift-tail-recursion/)
+
 ## 세션 투어
 - [Jun 27 2017, try! Swift Tokyo 2017 후기](https://academy.realm.io/kr/posts/try-swift-tokyo-2017-review/)
 
+## WWDC
+- [Aug 14 2017, WWDC 2017 톺아보기](https://academy.realm.io/kr/posts/wwdc-2017-review/)
+
 ## Realm
 - [Apr 13 2017, 프알못의 Realm 사용기 + 라이브 코딩 데모](https://academy.realm.io/kr/posts/realm-swift-live-coding-beginner/)
+
+
+## Tool?좋은 개발을 위한 도구? 활용
+- [May 11 2017, 지속적인 전달을 위한 자동화 도구, fastlane: 데모와 함께 알아보기](https://academy.realm.io/kr/posts/ios-fastlane-demos/)
 
 ## 서버 사이드
 - [Jun 14 2017, Swift 서버 사이드 프레임워크 비교 분석](https://academy.realm.io/kr/posts/swift-server-side-framework/)
@@ -102,10 +126,11 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 
 - [Jul 4 2017, RxSwift로 반응형 프로그래밍하기](https://academy.realm.io/kr/posts/reactive-programming-with-rxswift/)
 
+* * *
 
 # 기타 링크
 <pre>
 동영상은 아니지만, 동영상 처럼 편하게 입문 시점에서 읽어두면 좋은 링크라고 생각되는 것을 모아보겠습니다.
 </pre>
 - [개발자 회고 모음](https://github.com/oaksong/developers-retrospective) : 개발 년차가 별로 되지 않으시는 분들은 알찬 회고 내용을 읽으면 개발 세계에 대해 좀 더 알아가는 좋은 지름길이 되지 않을 까 싶습니다.
-- [마크다운](https://gist.github.com/ihoneymon/652be052a0727ad59601) : github를 이용하신다면 마크다운에 대해 조금씩 알아가시면 좋습니다.
+- [마크다운](https://gist.github.com/ihoneymon/652be052a0727ad59601) : github를 이용하신다면 마크다운에 대해 조금씩 알아가시면 좋습니다. 라는 생각에 ... 뭐 저도 잘 모릅니다.^^;;;
