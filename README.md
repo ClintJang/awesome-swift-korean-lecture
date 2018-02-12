@@ -14,7 +14,8 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 가능하면 가이드까지? 작성해보겠습니다.
 계속 추가하겠습니다. 
 
-☆ 표시는 지극히 개인적인 생각입니다.
+☆ 표시는 지극히 개인적인 생각입니다. 초기에 보시기 좋은 내용이거나 중요하다 생각되는 것을 표시했습니다.
+목표 : 하루에 한개씩 볼 수 있도록 노력합시다.
 </pre>
 
 # 입문자용
@@ -22,7 +23,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 처음하실 때, 아래 세션 중에 오토 레이아웃 관련 세션은 UI 구현하는 방법이라서 기본을 익히면서 들으시면 좋습니다.
 </pre>
 - **☆** [iOS Swift입문 - programmers.co.kr](https://programmers.co.kr/learn/courses/4) : Swift의 기본부터 iOS 앱 개발까지 배울 수 있습니다. (무료강의로 알고 있습니다.)
-- **☆** [인프런(스탠퍼드)](https://www.inflearn.com/course/stanford-ios-한글자막-강의/) : 스탠퍼드 swift 강의, swift 2.0 이지만 MVC등 필수 내용이 가득합니다. (무료강의)
+- **☆** [인프런(스탠퍼드)](https://www.inflearn.com/course/stanford-ios-한글자막-강의/) : 스탠퍼드 swift 강의, swift 2.0 기반이지만, 단순 문법외에 MVC, swift의 기본적인 필수 내용이 가득합니다. (무료강의)
 - [인프런(야곰님)]( https://www.inflearn.com/course/스위프트-기본-문법/) : swift 기본 문법을 익히는 강의 입니다. (미리보기, 유료강의)
 - [인프런(Swift)](https://www.inflearn.com/course/swift4-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-ios-%EA%B0%9C%EB%B0%9C/) : 기본 부터 설명이 되고 있습니다. (미리보기, 유료강의)
 
@@ -106,4 +107,5 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 <pre>
 동영상은 아니지만, 동영상 처럼 편하게 입문 시점에서 읽어두면 좋은 링크라고 생각되는 것을 모아보겠습니다.
 </pre>
-- [개발자 회고 모음](https://github.com/oaksong/developers-retrospective)
+- [개발자 회고 모음](https://github.com/oaksong/developers-retrospective) : 개발 년차가 별로 되지 않으시는 분들은 알찬 회고 내용을 읽으면 개발 세계에 대해 좀 더 알아가는 좋은 지름길이 되지 않을 까 싶습니다.
+- [마크다운](https://gist.github.com/ihoneymon/652be052a0727ad59601) : github를 이용하신다면 마크다운에 대해 조금씩 알아가시면 좋습니다.
