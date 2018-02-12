@@ -3,19 +3,33 @@
 
 ## About
 훌륭한 Swift 한국어 동영상 강의 정보 링크 모음
-(Awesome Swift Korean lecture information)
+> (Awesome Swift Korean lecture information)
 
+<pre>
 iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다. 
 입문 용, 찾기 힘든 주제별, 그리고 iOS(swift) 세션 및 행사 진행 후 결과 링크 등을 모았습니다.
-카테고리에는 사전 설정된 순서의 항목이 없으며, 편하게 찾을 수 있도록 계속 수정 중에 있습니다.
+카테고리에는 사전 설정된 순서는 입문자용, 좋은 세션으로 구성되어있습니다.
+편하게 찾을 수 있도록 계속 고민해보겠습니다.
 가능하면 가이드까지? 작성해보겠습니다.
+계속 추가하겠습니다. 
 
-# Info
-## 강의 (입문자용)
-- [iOS Swift입문 - programmers.co.kr](https://programmers.co.kr/learn/courses/4) : Swift의 기본부터 iOS 앱 개발까지 배울 수 있습니다. (무료강의로 알고 있습니다.)
-- [인프런(스탠퍼드)](https://www.inflearn.com/course/stanford-ios-한글자막-강의/) : 스탠퍼드 swift 강의, swift 2.0 이지만 MVC등 필수 내용이 가득합니다. (무료강의)
+☆ 표시는 지극히 개인적인 생각입니다.
+</pre>
+
+# 입문자용
+<pre>
+처음하실 때, 아래 세션 중에 오토 레이아웃 관련 세션은 UI 구현하는 방법이라서 기본을 익히면서 들으시면 좋습니다.
+</pre>
+- **☆** [iOS Swift입문 - programmers.co.kr](https://programmers.co.kr/learn/courses/4) : Swift의 기본부터 iOS 앱 개발까지 배울 수 있습니다. (무료강의로 알고 있습니다.)
+- **☆** [인프런(스탠퍼드)](https://www.inflearn.com/course/stanford-ios-한글자막-강의/) : 스탠퍼드 swift 강의, swift 2.0 이지만 MVC등 필수 내용이 가득합니다. (무료강의)
 - [인프런(야곰님)]( https://www.inflearn.com/course/스위프트-기본-문법/) : swift 기본 문법을 익히는 강의 입니다. (미리보기, 유료강의)
 - [인프런(Swift)](https://www.inflearn.com/course/swift4-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-ios-%EA%B0%9C%EB%B0%9C/) : 기본 부터 설명이 되고 있습니다. (미리보기, 유료강의)
+
+# 좋은 세션
+<pre>
+피가 되고 살이되는 세션들입니다. 반복해서 들으시면 좋습니다.
+아침 시작전, 점심 후 소화시키며, 저녁 개인공부겸.. :)
+</pre>
 
 ## Let us:Go! (iOS Developer KR)
 - 2017 봄 세션 : https://iosdevkor.github.io/let_us_go_2017_spring_review/
@@ -35,23 +49,23 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 - 전체 : https://academy.realm.io/kr/section/apple/
 
 ### 오토 레이아웃
-- Jul 18 2017, 오토 레이아웃 기초 1 (입문자용 중요)
+- **☆** Jul 18 2017, 오토 레이아웃 기초 1 (입문자용 중요)
 https://academy.realm.io/kr/posts/ios-layoutmargins/
 
-- Apr 18 2017, 오토 레이아웃 기초 2 (입문자용 중요)
+- **☆** Apr 18 2017, 오토 레이아웃 기초 2 (입문자용 중요)
 https://academy.realm.io/kr/posts/ios-autolayout/
 
 ### 메모리
-- Jul 19 2016, (매우 중요!) Swift 성능 이해하기: Value 타입, Protocol과 스위프트의 성능 최적화
+- **☆** Jul 19 2016, (매우 중요!) Swift 성능 이해하기: Value 타입, Protocol과 스위프트의 성능 최적화
 : https://academy.realm.io/kr/posts/letswift-swift-performance/
 
 - Aug 16 2016, Swift Internals- LLVM, Type system, Swift Foundation을 중심으로
 : https://academy.realm.io/kr/posts/swift-internals-llvm-type-system-swift-foundation/
 
-### 단축기
-- Jun 30 2017, Xcode와 MacOS의 단축키로 마우스 움직임 최소화하기
+### 단축키
+- **☆** Jun 30 2017, Xcode와 MacOS의 단축키로 마우스 움직임 최소화하기
 : https://academy.realm.io/kr/posts/xcode-shortcuts/
-: 스피커님 블러그 >> https://learnswiftwithbob.com/
+    - 스피커님 블러그 : https://learnswiftwithbob.com/
 
 ### Swift 기본 활용
 - Jun 8 2017, Swift의 네임스페이스와 typealias
@@ -73,7 +87,7 @@ https://academy.realm.io/kr/posts/ios-autolayout/
 - Jun 14 2017, Swift 서버 사이드 프레임워크 비교 분석
 : https://academy.realm.io/kr/posts/swift-server-side-framework/
 
-### RxSwift
+### **☆** RxSwift
 - Jul 14 2016, RxSwift 시작하기
 : https://academy.realm.io/kr/posts/letswift-rxswift/
 
@@ -82,3 +96,6 @@ https://academy.realm.io/kr/posts/ios-autolayout/
 
 - Jul 4 2017, RxSwift로 반응형 프로그래밍하기
 : https://academy.realm.io/kr/posts/reactive-programming-with-rxswift/
+
+
+# 기타
