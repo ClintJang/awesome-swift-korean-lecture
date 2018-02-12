@@ -90,12 +90,17 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 ## Playground
 - [Jun 21 2017, Playground 100% 활용하기](https://academy.realm.io/kr/posts/swift-playground/)
 
-## 디자인패턴
+## 디자인패턴 & 코드 스타일
 - [디자인 패턴 적용기](https://www.youtube.com/watch?v=MXSKM6aQ7Wo&feature=youtu.be) : 디자인 패턴이 어렵게 여기지 않으셔도 될 것 같습니다. 개발자와 소통하기 위한 한 수단이 될 수 있습니다. 
 - [Aug 8 2017, 자주 사용하는 템플릿을 커스터마이징하기 - 커스텀 Xcode 템플릿](https://academy.realm.io/kr/posts/custom-xcode-template/)
 
+- [스위프트를 여행하는 히치하이커를 위한 스타일 안내서](https://www.youtube.com/watch?v=d1eA-r_Cd2Y&feature=youtu.be)
+
 ## 알고리즘
 - [Jul 27 2017, Swift로 꼬리 재귀 사용하기](https://academy.realm.io/kr/posts/swift-tail-recursion/)
+
+## 네트워킹
+- [프로토콜을 활용한 비동기 네트워킹 로직 테스팅](https://www.youtube.com/watch?v=R3Bp3c8O3WM&feature=youtu.be)
 
 ## 세션 투어
 - [Jun 27 2017, try! Swift Tokyo 2017 후기](https://academy.realm.io/kr/posts/try-swift-tokyo-2017-review/)
@@ -106,12 +111,17 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 ## Realm
 - [Apr 13 2017, 프알못의 Realm 사용기 + 라이브 코딩 데모](https://academy.realm.io/kr/posts/realm-swift-live-coding-beginner/)
 
-
 ## Tool?좋은 개발을 위한 도구? 활용
+- [Simulator Customizing & Testing](https://www.youtube.com/watch?v=4i2EBnmUMcs&feature=youtu.be)
+
 - [May 11 2017, 지속적인 전달을 위한 자동화 도구, fastlane: 데모와 함께 알아보기](https://academy.realm.io/kr/posts/ios-fastlane-demos/)
+
 
 ## 서버 사이드
 - [Jun 14 2017, Swift 서버 사이드 프레임워크 비교 분석](https://academy.realm.io/kr/posts/swift-server-side-framework/)
+
+## 딥러닝 
+- [iOS와 케라스의 만남](https://www.youtube.com/watch?v=V4uRLSz9Ou0&feature=youtu.be)
 
 ## **☆** RxSwift
 <pre>
@@ -123,6 +133,8 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 - [Jul 14 2016, RxSwift 시작하기](https://academy.realm.io/kr/posts/letswift-rxswift/)
 
 - [Feb 23 2017, RxSwift 예제로 감잡기 : RxSwift 시작을 위한 간단한 예제들 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-use-rxswift-with-simple-examples-ios-techtalk/)
+
+- [ReSwift로 리액티브 프로그래밍 구현하기](https://www.youtube.com/watch?v=H0WPEAnC5YQ&feature=youtu.be)
 
 - [Jul 4 2017, RxSwift로 반응형 프로그래밍하기](https://academy.realm.io/kr/posts/reactive-programming-with-rxswift/)
 
