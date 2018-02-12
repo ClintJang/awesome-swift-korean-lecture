@@ -12,7 +12,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 
 # Info
 ## 강의 (입문자용)
-- iOS Swift입문 : https://programmers.co.kr/learn/courses/4
+- [iOS Swift입문](https://programmers.co.kr/learn/courses/4)
 - 인프런(스탠포드) : https://www.inflearn.com/course/stanford-ios-한글자막-강의/
 - 인프런(야곰님) : https://www.inflearn.com/course/스위프트-기본-문법/
 - 인프런(Swift)https://www.inflearn.com/course/swift4-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-ios-%EA%B0%9C%EB%B0%9C/
