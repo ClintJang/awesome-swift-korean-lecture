@@ -86,8 +86,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 - [Apr 13 2017, 프알못의 Realm 사용기 + 라이브 코딩 데모](https://academy.realm.io/kr/posts/realm-swift-live-coding-beginner/)
 
 ## 서버 사이드
-- Jun 14 2017, Swift 서버 사이드 프레임워크 비교 분석
-: https://academy.realm.io/kr/posts/swift-server-side-framework/
+- [Jun 14 2017, Swift 서버 사이드 프레임워크 비교 분석](https://academy.realm.io/kr/posts/swift-server-side-framework/)
 
 ## **☆** RxSwift
 <pre>
@@ -105,6 +104,6 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 
 # 기타 링크
 <pre>
-동영상은 아니지만, 입문 시점에서 읽을만하거나 좋은 링크라고 생각되는 링크입니다.
+동영상은 아니지만, 동영상 처럼 편하게 입문 시점에서 읽어두면 좋은 링크라고 생각되는 것을 모아보겠습니다.
 </pre>
 - [개발자 회고 모음](https://github.com/oaksong/developers-retrospective)
