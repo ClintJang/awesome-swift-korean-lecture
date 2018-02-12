@@ -12,10 +12,10 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 
 # Info
 ## 강의 (입문자용)
-- [iOS Swift입문 - programmers.co.kr](https://programmers.co.kr/learn/courses/4) : Swift의 기본부터 iOS 앱 개발까지 배울 수 있습니다.
-- 인프런(스탠포드) : https://www.inflearn.com/course/stanford-ios-한글자막-강의/
-- 인프런(야곰님) : https://www.inflearn.com/course/스위프트-기본-문법/
-- 인프런(Swift)https://www.inflearn.com/course/swift4-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-ios-%EA%B0%9C%EB%B0%9C/
+- [iOS Swift입문 - programmers.co.kr](https://programmers.co.kr/learn/courses/4) : Swift의 기본부터 iOS 앱 개발까지 배울 수 있습니다. (무료강의로 알고 있습니다.)
+- [인프런(스탠퍼드)](https://www.inflearn.com/course/stanford-ios-한글자막-강의/) : 스탠퍼드 swift 강의, swift 2.0 이지만 MVC등 필수 내용이 가득합니다. (무료강의)
+- [인프런(야곰님)]( https://www.inflearn.com/course/스위프트-기본-문법/) : swift 기본 문법을 익히는 강의 입니다. (미리보기, 유료강의)
+- [인프런(Swift)](https://www.inflearn.com/course/swift4-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-ios-%EA%B0%9C%EB%B0%9C/) : 기본 부터 설명이 되고 있습니다. (미리보기, 유료강의)
 
 ## Let us:Go! (iOS Developer KR)
 - 2017 봄 세션 : https://iosdevkor.github.io/let_us_go_2017_spring_review/
