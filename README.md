@@ -48,6 +48,11 @@ https://academy.realm.io/kr/posts/ios-autolayout/
 - Aug 16 2016, Swift Internals- LLVM, Type system, Swift Foundation을 중심으로
 : https://academy.realm.io/kr/posts/swift-internals-llvm-type-system-swift-foundation/
 
+### 단축기
+- Jun 30 2017, Xcode와 MacOS의 단축키로 마우스 움직임 최소화하기
+: https://academy.realm.io/kr/posts/xcode-shortcuts/
+: 스피커님 블러그 >> https://learnswiftwithbob.com/
+
 ### Swift 기본 활용
 - Jun 8 2017, Swift의 네임스페이스와 typealias
 : https://academy.realm.io/kr/posts/swift-namespace-typealias/
@@ -55,11 +60,6 @@ https://academy.realm.io/kr/posts/ios-autolayout/
 ### Playground
 - Jun 21 2017, Playground 100% 활용하기
 : https://academy.realm.io/kr/posts/swift-playground/
-
-### 단축기
-- Jun 30 2017, Xcode와 MacOS의 단축키로 마우스 움직임 최소화하기
-: https://academy.realm.io/kr/posts/xcode-shortcuts/
-: 스피커님 블러그 >> https://learnswiftwithbob.com/
 
 ### 세션 투어
 - Jun 27 2017, try! Swift Tokyo 2017 후기
