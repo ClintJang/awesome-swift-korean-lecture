@@ -2,7 +2,7 @@
 [![Swift 4](https://img.shields.io/badge/Swift-Lecture-orange.svg?style=flat)](https://swift.org) 
 
 ## About
-훌륭한 Swift 한국어 동영상 강의 정보 링크 모음
+Swift 개발언어를 공부하기 위한 훌륭한 한국어 동영상 강의 정보 링크 모음
 > (Awesome Swift Korean lecture information)
 
 <pre>
@@ -29,6 +29,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 <pre>
 피가 되고 살이되는 세션들입니다. 반복해서 들으시면 좋습니다.
 아침 시작전, 점심 후 소화시키며, 저녁 개인공부겸.. :)
+링크 안에 강의 동영상을 볼 수 있는 링크가 있습니다.
 </pre>
 
 ## Let us:Go! (iOS Developer KR)
