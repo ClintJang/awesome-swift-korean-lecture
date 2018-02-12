@@ -45,52 +45,55 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 - 2017년 4월 28일 : https://swiftkorea.github.io/meetup/1#
 - 2017년 12월 13일 : https://swiftkorea.github.io/meetup/2#
 
-
 ## Realm 아카데미 iOS 세션들
 <pre>
  Realm 아카데미는 항상 감사합니다.
-
- 아래는 대부분 Realm 세션이지만, 그렇치 않은 세션도 존재합니다.
- 카테고리를 분류하다보니 함께 정리하였습니다.
 </pre>
 - [전체 - Realm 아카데미 Apple(iOS) 탭](https://academy.realm.io/kr/section/apple/) : Apple 세션들이 다양하게 있습니다.
 
-### 오토 레이아웃
+---------------------------------------
+
+# 카테고리별
+<pre>
+ 주제별로 상세 링크를 정리해보았습니다.
+ 대부분 Realm 아카데미 링크입니다.
+</pre>
+## 오토 레이아웃
 - **☆** [Jul 18 2017, 오토 레이아웃 기초 1(입문자용 중요)](https://academy.realm.io/kr/posts/ios-layoutmargins/)
 
 - **☆** [Apr 18 2017, 오토 레이아웃 기초 2 (입문자용 중요)](https://academy.realm.io/kr/posts/ios-autolayout/)
 
-### 메모리
+## 메모리
 - **☆** [Jul 19 2016, (매우 중요!) Swift 성능 이해하기](https://academy.realm.io/kr/posts/letswift-swift-performance/) : Value 타입, Protocol과 스위프트의 성능 최적화
 
 - [Aug 16 2016, Swift Internals- LLVM, Type system, Swift Foundation을 중심으로](https://academy.realm.io/kr/posts/swift-internals-llvm-type-system-swift-foundation/)
 
-### 단축키
+## 단축키
 - **☆** [Jun 30 2017, Xcode와 MacOS의 단축키로 마우스 움직임 최소화하기](https://academy.realm.io/kr/posts/xcode-shortcuts/)
     - 스피커님 블러그 : https://learnswiftwithbob.com/
 
-### Swift 기본 활용
+## Swift 기본 활용
 - [Jun 8 2017, Swift의 네임스페이스와 typealias](https://academy.realm.io/kr/posts/swift-namespace-typealias/) 
 
-### Playground
+## Playground
 - [Jun 21 2017, Playground 100% 활용하기](https://academy.realm.io/kr/posts/swift-playground/)
 
-### 세션 투어
+## 세션 투어
 - [Jun 27 2017, try! Swift Tokyo 2017 후기](https://academy.realm.io/kr/posts/try-swift-tokyo-2017-review/)
 
-### Realm
+## Realm
 - [Apr 13 2017, 프알못의 Realm 사용기 + 라이브 코딩 데모](https://academy.realm.io/kr/posts/realm-swift-live-coding-beginner/)
 
-### 서버 사이드
+## 서버 사이드
 - Jun 14 2017, Swift 서버 사이드 프레임워크 비교 분석
 : https://academy.realm.io/kr/posts/swift-server-side-framework/
 
-### **☆** RxSwift
+## **☆** RxSwift
 <pre>
  RxSwift는 중급 이상이라 생각됩니다. 
  함수형 프로그래밍에 관심이 있다면, rxswift 의 세계에 관심가져야된다고 생각합니다.
 </pre>
-- **☆** [Functional Reactive Programming Paradigm](https://www.youtube.com/watch?v=cXi_CmZuBgg&feature=youtu.be) : 왜? rxswift를 해야되는 지, 기본이 되는 용어에 대해 좋은 설명을 해주십니다. 
+- **☆** [Functional Reactive Programming Paradigm](https://www.youtube.com/watch?v=cXi_CmZuBgg&feature=youtu.be) : 왜? rxswift를 해야되는 지, 기본이 되는 용어에 대해 좋은 설명을 해주십니다. 꼭 보셔요~ 
 
 - [Jul 14 2016, RxSwift 시작하기](https://academy.realm.io/kr/posts/letswift-rxswift/)
 
