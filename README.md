@@ -65,7 +65,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 - **☆** [Apr 18 2017, 오토 레이아웃 기초 2 (입문자용 중요)](https://academy.realm.io/kr/posts/ios-autolayout/)
 
 ## 메모리
-- **☆** [Jul 19 2016, (매우 중요!) Swift 성능 이해하기](https://academy.realm.io/kr/posts/letswift-swift-performance/) : Value 타입, Protocol과 스위프트의 성능 최적화
+- **☆☆** [Jul 19 2016, Swift 성능 이해하기](https://academy.realm.io/kr/posts/letswift-swift-performance/) : Value 타입, Protocol과 스위프트의 성능 최적화
 
 - [Aug 16 2016, Swift Internals- LLVM, Type system, Swift Foundation을 중심으로](https://academy.realm.io/kr/posts/swift-internals-llvm-type-system-swift-foundation/)
 
@@ -94,7 +94,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 - [Aug 8 2017, 자주 사용하는 템플릿을 커스터마이징하기 - 커스텀 Xcode 템플릿](https://academy.realm.io/kr/posts/custom-xcode-template/)
 
 - [스위프트를 여행하는 히치하이커를 위한 스타일 안내서](https://www.youtube.com/watch?v=d1eA-r_Cd2Y&feature=youtu.be)
-	- [스위프트 API 가이드라인](https://gist.github.com/godrm/d07ae33973bf71c5324058406dfe42dd) : 스피커님의 관련 설명 문서 링크
+	
 
 - **☆** [Aug 9 2016, Swift에서 프로토콜 중심 프로그래밍(POP)하기](https://academy.realm.io/kr/posts/protocol-oriented-programming-in-swift/)
 
@@ -146,5 +146,8 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 <pre>
 동영상은 아니지만, 동영상 처럼 편하게 입문 시점에서 읽어두면 좋은 링크라고 생각되는 것을 모아보겠습니다.
 </pre>
-- [개발자 회고 모음](https://github.com/oaksong/developers-retrospective) : 개발 년차가 별로 되지 않으시는 분들은 알찬 회고 내용을 읽으면 개발 세계에 대해 좀 더 알아가는 좋은 지름길이 되지 않을 까 싶습니다.
-- [마크다운 링크 1](http://sergeswin.com/1013), [마크다운 링크 2](https://gist.github.com/ihoneymon/652be052a0727ad59601) : github를 이용하신다면 마크다운에 대해 조금씩 알아가시면 좋습니다. 라는 생각에 ... 뭐 저도 잘 모릅니다.^^;;;
+- **☆** [개발자 회고 모음](https://github.com/oaksong/developers-retrospective) : 개발 년차가 별로 되지 않으시는 분들은 알찬 회고 내용을 읽으면 개발 세계에 대해 좀 더 알아가는 좋은 지름길이 되지 않을 까 싶습니다.
+
+- **☆☆** [스위프트 API 가이드라인](https://gist.github.com/godrm/d07ae33973bf71c5324058406dfe42dd) : 스위프트 문법을 사용해서 코딩을 할 때, 어떻게 네이밍을 하면 바르게 apple에서 생각하는 지 가이드를 제시하였습니다. 그 apple 영문 문서를 보기 쉽게 번역해 주셨네요. 한번 꼭 읽어봅시다.
+
+- [마크다운 링크 1](http://sergeswin.com/1013), [마크다운 링크 2](https://gist.github.com/ihoneymon/652be052a0727ad59601) : github를 이용하신다면 마크다운에 대해 조금씩 알아가시면 좋습니다. 라는 생각에 ... 뭐 저도 잘 모릅니다.^^;;; 
