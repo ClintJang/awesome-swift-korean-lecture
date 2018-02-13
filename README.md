@@ -95,6 +95,8 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 
 - [스위프트를 여행하는 히치하이커를 위한 스타일 안내서](https://www.youtube.com/watch?v=d1eA-r_Cd2Y&feature=youtu.be)
 
+- **☆** [Aug 9 2016, Swift에서 프로토콜 중심 프로그래밍(POP)하기](https://academy.realm.io/kr/posts/protocol-oriented-programming-in-swift/)
+
 ## 알고리즘
 - [Jul 27 2017, Swift로 꼬리 재귀 사용하기](https://academy.realm.io/kr/posts/swift-tail-recursion/)
 
