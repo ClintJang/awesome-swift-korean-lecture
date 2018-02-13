@@ -64,7 +64,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 
 - **☆** [Apr 18 2017, 오토 레이아웃 기초 2 (입문자용 중요)](https://academy.realm.io/kr/posts/ios-autolayout/)
 
-## 메모리
+## 메모리 & 컴파일러
 - **☆☆** [Jul 19 2016, Swift 성능 이해하기](https://academy.realm.io/kr/posts/letswift-swift-performance/) : Value 타입, Protocol과 스위프트의 성능 최적화
 
 - [Aug 16 2016, Swift Internals- LLVM, Type system, Swift Foundation을 중심으로](https://academy.realm.io/kr/posts/swift-internals-llvm-type-system-swift-foundation/)
@@ -89,6 +89,8 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 
 - **☆** [Swift 4의 Codable 활용](https://www.youtube.com/watch?v=NO6wQabhCy8&feature=youtu.be)
 
+- [Objective-C에서 Swift로 - iOS Tech Talk](https://academy.realm.io/kr/posts/from-objective-c-to-swift-ios-techtalk/)
+
 ## 내부 Framework 활용
 - [Core ML 시작하기](https://www.youtube.com/watch?v=ADtw_Ez5qWA&feature=youtu.be)
 
@@ -105,11 +107,16 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 
 - [Test Driven Development](https://www.youtube.com/watch?v=eX_y33jHSHs&feature=youtu.be)
 
+- [Mar 15 2017, iOS에서 TDD(Test-Driven Development)하기](https://academy.realm.io/kr/posts/ios-tdd-test-driven-development/)
+
 ## 알고리즘
 - [Jul 27 2017, Swift로 꼬리 재귀 사용하기](https://academy.realm.io/kr/posts/swift-tail-recursion/)
 
 ## 네트워킹
 - [프로토콜을 활용한 비동기 네트워킹 로직 테스팅](https://www.youtube.com/watch?v=R3Bp3c8O3WM&feature=youtu.be)
+
+## 개발경험
+- [기획, 디자인 변경에 강한 카드뷰 만들기 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-make-cardview-ios-tech-talk/)
 
 ## 세션 투어
 - [Jun 27 2017, try! Swift Tokyo 2017 후기](https://academy.realm.io/kr/posts/try-swift-tokyo-2017-review/)
@@ -119,6 +126,12 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 
 ## Realm
 - [Apr 13 2017, 프알못의 Realm 사용기 + 라이브 코딩 데모](https://academy.realm.io/kr/posts/realm-swift-live-coding-beginner/)
+
+- [Apr 6 2017, 좌충우돌 Realm 모바일 플랫폼 사용기](https://academy.realm.io/kr/posts/develop-app-in-3-days-with-rmp/)
+
+- [Apr 6 2017, 실시간 데이터베이스 비교: Realm 모바일 플랫폼 vs. Firebase](https://academy.realm.io/kr/posts/welcome-to-reactive-world/)
+
+- [Sep 11 2016, Swift 모바일데이터베이스 : Realm](https://academy.realm.io/kr/posts/realm-swift-mobile-database/)
 
 ## Tool?좋은 개발을 위한 도구? 활용
 - [Simulator Customizing & Testing](https://www.youtube.com/watch?v=4i2EBnmUMcs&feature=youtu.be)
