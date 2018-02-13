@@ -1,7 +1,7 @@
 # Awesome Swift Korean Lecture
-[![Swift 4](https://img.shields.io/badge/Swift-Lecture-orange.svg?style=flat)](https://swift.org) 
+[![License](http://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://github.com/clintjang/JWSBoltsSwiftSample/blob/master/LICENSE) [![Swift 4](https://img.shields.io/badge/Swift-Lecture-orange.svg?style=flat)](https://swift.org) 
 
-## About
+## 개요
 Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 정보 링크 모음
 > (Awesome Swift Korean lecture information)
 
@@ -94,6 +94,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 - [Aug 8 2017, 자주 사용하는 템플릿을 커스터마이징하기 - 커스텀 Xcode 템플릿](https://academy.realm.io/kr/posts/custom-xcode-template/)
 
 - [스위프트를 여행하는 히치하이커를 위한 스타일 안내서](https://www.youtube.com/watch?v=d1eA-r_Cd2Y&feature=youtu.be)
+	- [스위프트 API 가이드라인](https://gist.github.com/godrm/d07ae33973bf71c5324058406dfe42dd) : 스피커님의 관련 설명 문서 링크
 
 - **☆** [Aug 9 2016, Swift에서 프로토콜 중심 프로그래밍(POP)하기](https://academy.realm.io/kr/posts/protocol-oriented-programming-in-swift/)
 
@@ -135,7 +136,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 
 - [Feb 23 2017, RxSwift 예제로 감잡기 : RxSwift 시작을 위한 간단한 예제들 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-use-rxswift-with-simple-examples-ios-techtalk/)
 
-- [ReSwift로 리액티브 프로그래밍 구현하기](https://www.youtube.com/watch?v=H0WPEAnC5YQ&feature=youtu.be)
+- [RxSwift로 리액티브 프로그래밍 구현하기](https://www.youtube.com/watch?v=H0WPEAnC5YQ&feature=youtu.be)
 
 - [Jul 4 2017, RxSwift로 반응형 프로그래밍하기](https://academy.realm.io/kr/posts/reactive-programming-with-rxswift/)
 
