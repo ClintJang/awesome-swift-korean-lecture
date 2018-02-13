@@ -116,7 +116,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 - [프로토콜을 활용한 비동기 네트워킹 로직 테스팅](https://www.youtube.com/watch?v=R3Bp3c8O3WM&feature=youtu.be)
 
 ## 개발경험
-- [기획, 디자인 변경에 강한 카드뷰 만들기 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-make-cardview-ios-tech-talk/)
+- [Feb 28 2017, 기획, 디자인 변경에 강한 카드뷰 만들기 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-make-cardview-ios-tech-talk/)
 
 ## 세션 투어
 - [Jun 27 2017, try! Swift Tokyo 2017 후기](https://academy.realm.io/kr/posts/try-swift-tokyo-2017-review/)
