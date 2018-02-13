@@ -78,10 +78,16 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 
 ## Swift 기본 활용
 - [Jun 8 2017, Swift의 네임스페이스와 typealias](https://academy.realm.io/kr/posts/swift-namespace-typealias/) 
+
 - **☆** [인터페이스 : 유연하게 설계하기](https://www.youtube.com/watch?v=Au3EgsG4re4&feature=youtu.be)
+
 - [Jul 25 2017, Swift Protocol 적재적소에 사용하기](https://academy.realm.io/kr/posts/understanding-swift-protocol/)
+
 - **☆** [Apr 27 2017, Swift의 클로저 및 고차 함수 이해하기](https://academy.realm.io/kr/posts/closure-and-higher-order-functions-of-swift/)
+
 - [May 4 2017, Swift 함수에 커링 사용하기](https://academy.realm.io/kr/posts/currying-on-the-swift-functions/)
+
+- **☆** [Swift 4의 Codable 활용](https://www.youtube.com/watch?v=NO6wQabhCy8&feature=youtu.be)
 
 ## 내부 Framework 활용
 - [Core ML 시작하기](https://www.youtube.com/watch?v=ADtw_Ez5qWA&feature=youtu.be)
@@ -94,9 +100,10 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 - [Aug 8 2017, 자주 사용하는 템플릿을 커스터마이징하기 - 커스텀 Xcode 템플릿](https://academy.realm.io/kr/posts/custom-xcode-template/)
 
 - [스위프트를 여행하는 히치하이커를 위한 스타일 안내서](https://www.youtube.com/watch?v=d1eA-r_Cd2Y&feature=youtu.be)
-	
 
 - **☆** [Aug 9 2016, Swift에서 프로토콜 중심 프로그래밍(POP)하기](https://academy.realm.io/kr/posts/protocol-oriented-programming-in-swift/)
+
+- [Test Driven Development](https://www.youtube.com/watch?v=eX_y33jHSHs&feature=youtu.be)
 
 ## 알고리즘
 - [Jul 27 2017, Swift로 꼬리 재귀 사용하기](https://academy.realm.io/kr/posts/swift-tail-recursion/)
