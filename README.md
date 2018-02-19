@@ -37,6 +37,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 - 2017 봄 세션 : https://iosdevkor.github.io/let_us_go_2017_spring_review/
 - 2017 여름 세션 : https://iosdevkor.github.io/let_us_go_2017_summer_review/
 - 2017 가을 세션 : https://iosdevkor.github.io/let_us_go_2017_fall_review/
+- 2018 봄 세션 : *3월 예정*
 
 ## letswift 
 - 2016 : http://letswift.kr/2016/
@@ -60,7 +61,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
  대부분 Realm 아카데미 링크입니다.
 </pre>
 ## 오토 레이아웃
-- **☆** [Jul 18 2017, 오토 레이아웃 기초 1(입문자용 중요)](https://academy.realm.io/kr/posts/ios-layoutmargins/)
+- **☆** [Jul 18 2017, 오토 레이아웃 기초 1 (입문자용 중요)](https://academy.realm.io/kr/posts/ios-layoutmargins/)
 
 - **☆** [Apr 18 2017, 오토 레이아웃 기초 2 (입문자용 중요)](https://academy.realm.io/kr/posts/ios-autolayout/)
 
@@ -146,9 +147,6 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 
 ## 딥러닝 
 - [iOS와 케라스의 만남](https://www.youtube.com/watch?v=V4uRLSz9Ou0&feature=youtu.be)
-
-## ReSwift
-
 
 ## **☆** RxSwift
 <pre>
