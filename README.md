@@ -105,9 +105,11 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 
 - **☆** [Aug 9 2016, Swift에서 프로토콜 중심 프로그래밍(POP)하기](https://academy.realm.io/kr/posts/protocol-oriented-programming-in-swift/)
 
-- [Test Driven Development](https://www.youtube.com/watch?v=eX_y33jHSHs&feature=youtu.be)
+- **☆** [Test Driven Development](https://www.youtube.com/watch?v=eX_y33jHSHs&feature=youtu.be) : TDD를 하시나요?
 
 - [Mar 15 2017, iOS에서 TDD(Test-Driven Development)하기](https://academy.realm.io/kr/posts/ios-tdd-test-driven-development/)
+
+- [ReSwift로 리액티브 프로그래밍 구현하기](https://www.youtube.com/watch?v=H0WPEAnC5YQ&feature=youtu.be) : swift로 단방향 데이터 흐름 아키텍처의 Redux와 유사하게 구현합니다.
 
 ## 알고리즘
 - [Jul 27 2017, Swift로 꼬리 재귀 사용하기](https://academy.realm.io/kr/posts/swift-tail-recursion/)
@@ -145,6 +147,9 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 ## 딥러닝 
 - [iOS와 케라스의 만남](https://www.youtube.com/watch?v=V4uRLSz9Ou0&feature=youtu.be)
 
+## ReSwift
+
+
 ## **☆** RxSwift
 <pre>
  RxSwift는 중급 이상이라 생각됩니다. 
@@ -158,8 +163,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 
 - [Jul 4 2017, RxSwift로 반응형 프로그래밍하기](https://academy.realm.io/kr/posts/reactive-programming-with-rxswift/)
 
-## ReSwift
-- [ReSwift로 리액티브 프로그래밍 구현하기](https://www.youtube.com/watch?v=H0WPEAnC5YQ&feature=youtu.be)
+
 
 * * *
 
