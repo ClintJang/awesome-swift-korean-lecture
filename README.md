@@ -33,7 +33,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 링크 안에 강의 동영상을 볼 수 있는 링크가 있습니다.
 </pre>
 
-## Let us:Go! (iOS Developer KR)
+## Let us:Go! ([iOS Developer KR](https://github.com/yoonhg84/iOSDeveloper))
 - 2017 봄 세션 : https://iosdevkor.github.io/let_us_go_2017_spring_review/
 - 2017 여름 세션 : https://iosdevkor.github.io/let_us_go_2017_summer_review/
 - 2017 가을 세션 : https://iosdevkor.github.io/let_us_go_2017_fall_review/
