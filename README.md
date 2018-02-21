@@ -37,7 +37,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 - 2017 봄 세션 : https://iosdevkor.github.io/let_us_go_2017_spring_review/
 - 2017 여름 세션 : https://iosdevkor.github.io/let_us_go_2017_summer_review/
 - 2017 가을 세션 : https://iosdevkor.github.io/let_us_go_2017_fall_review/
-- 2018 봄 세션 : *3월 예정*
+- 2018 봄 세션 (*3월 10일*) : 참가신청 링크! - https://festa.io/events/8
 
 ## letswift 
 - 2016 : http://letswift.kr/2016/
@@ -175,3 +175,4 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 - **☆☆** [스위프트 API 가이드라인](https://gist.github.com/godrm/d07ae33973bf71c5324058406dfe42dd) : 스위프트 문법을 사용해서 코딩을 할 때, 어떻게 네이밍을 하면 바른 것 인지, apple에서 생각하는 가이드를 제시하였습니다. 영문 문서를 보기 쉽게 번역해 주셨네요. 한번 꼭 읽어봅시다.
 
 - [마크다운 링크 1](http://sergeswin.com/1013), [마크다운 링크 2](https://gist.github.com/ihoneymon/652be052a0727ad59601) : github를 이용하신다면 마크다운에 대해 조금씩 알아가시면 좋습니다. 라는 생각에 ... 뭐 저도 잘 모릅니다.^^;;; 
+- [네이버 웹툰::코포자(코딩포기자)들의 다시 개발도전](http://comic.naver.com/challenge/detail.nhn?titleId=707782) : 웹툰이라 조금 생뚱맞을 수 있지만, 개발도전을 그린 내용입니다. 약간은 간접 경험을 할 수 있지 않을까요?;; 개발을 소재로 한 내용은 찾아보기 참 힘들어요..^^. 작가님을 응원합니다.
