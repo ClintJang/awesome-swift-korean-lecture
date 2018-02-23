@@ -148,6 +148,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 
 ## 딥러닝 
 - [iOS와 케라스의 만남](https://www.youtube.com/watch?v=V4uRLSz9Ou0&feature=youtu.be)
+- [모두를 위한 딥러닝 강좌 시즌 1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) : 스위프트는 아닙니다. 머신러닝 입분부터 종결은 여기를 참고해서 공부하세요. .. 교수님 감사합니다. (￣～￣)a
 
 ## **☆** RxSwift
 <pre>
