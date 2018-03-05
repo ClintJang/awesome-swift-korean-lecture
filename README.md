@@ -125,8 +125,10 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 ## 세션 투어
 - [Jun 27 2017, try! Swift Tokyo 2017 후기](https://academy.realm.io/kr/posts/try-swift-tokyo-2017-review/)
 
-## WWDC
+## WWDC & Apple
 - [Aug 14 2017, WWDC 2017 톺아보기](https://academy.realm.io/kr/posts/wwdc-2017-review/)
+
+- [Mar 16 2017, 2017년 애플 생태계의 변화](https://academy.realm.io/kr/posts/apple-trend-2017/)
 
 ## Realm
 - [Apr 13 2017, 프알못의 Realm 사용기 + 라이브 코딩 데모](https://academy.realm.io/kr/posts/realm-swift-live-coding-beginner/)
@@ -134,6 +136,8 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 - [Apr 6 2017, 좌충우돌 Realm 모바일 플랫폼 사용기](https://academy.realm.io/kr/posts/develop-app-in-3-days-with-rmp/)
 
 - [Apr 6 2017, 실시간 데이터베이스 비교: Realm 모바일 플랫폼 vs. Firebase](https://academy.realm.io/kr/posts/welcome-to-reactive-world/)
+
+- [Mar 30 2017, 데모와 함께 하는 Realm 모바일 플랫폼 따라잡기: Scanner, RealmPop 예제](https://academy.realm.io/kr/posts/realm-mobile-platform-demos/)
 
 - [Sep 11 2016, Swift 모바일데이터베이스 : Realm](https://academy.realm.io/kr/posts/realm-swift-mobile-database/)
 
