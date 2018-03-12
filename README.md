@@ -39,7 +39,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 - 2017 봄 세션 : https://iosdevkor.github.io/let_us_go_2017_spring_review/
 - 2017 여름 세션 : https://iosdevkor.github.io/let_us_go_2017_summer_review/
 - 2017 가을 세션 : https://iosdevkor.github.io/let_us_go_2017_fall_review/
-- 2018 봄 세션 : *일시 3월 10일* , 종료됨. ~~신청 → https://festa.io/events/8 ~~
+- 2018 봄 세션 : *일시 3월 10일* , 종료됨. ~~신청~~ → https://festa.io/events/8
 
 ## letswift 
 - 2016 : http://letswift.kr/2016/
