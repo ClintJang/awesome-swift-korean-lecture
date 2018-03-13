@@ -1,10 +1,6 @@
 # Awesome Swift Korean Lecture
 [![License](http://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://github.com/clintjang/JWSBoltsSwiftSample/blob/master/LICENSE) [![Swift 4](https://img.shields.io/badge/Swift-Lecture-orange.svg?style=flat)](https://swift.org) 
 
-## 개요
-Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 정보 링크 모음
-> (Awesome Swift Korean lecture information)
-
 <pre>
 iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다. 
 입문 용, 좋은 세션, 카테고리별, 그리고 기타 링크 등을 모았습니다.
@@ -16,6 +12,10 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 ☆ 표시는 지극히 개인적인 생각입니다. 초기에 보시기 좋은 내용이거나 중요하다 생각되는 것을 표시했습니다.
 목표 : 하루에 한개씩 볼 수 있도록 노력합시다.
 </pre>
+
+## 개요
+Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 정보 링크 모음
+> (Awesome Swift Korean lecture information)
 
 # 입문자용
 <pre>
@@ -39,6 +39,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 - 2017 봄 세션 : https://iosdevkor.github.io/let_us_go_2017_spring_review/
 - 2017 여름 세션 : https://iosdevkor.github.io/let_us_go_2017_summer_review/
 - 2017 가을 세션 : https://iosdevkor.github.io/let_us_go_2017_fall_review/
+- 2017 겨울 : 훈훈한 모임이 있었죠.. (강남 모 닭집)
 - 2018 봄 세션 : *일시 3월 10일* , 종료됨. ~~신청~~ → https://festa.io/events/8
 
 ## letswift 
