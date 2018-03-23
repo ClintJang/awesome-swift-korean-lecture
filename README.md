@@ -80,8 +80,12 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 ## iOS App 배포하기
 - [초보를 위한 iOS 앱 배포하기](https://www.youtube.com/watch?v=TPmHrv6eMZ8&feature=youtu.be)
 
-## iOS 활용
+## iOS 활용 및 팁
 - [iOS 앱의 접근성 향상하기](https://www.youtube.com/watch?v=A80LVHABk-k&feature=youtu.be)
+
+- [Haptic Feedback으로 시작하는 iOS 개발의 이모저모](https://www.youtube.com/watch?v=wouM0cQKx_w&feature=youtu.be)
+
+- [Universal Link 적용하기](https://www.youtube.com/watch?v=desZAId5DMU&feature=youtu.be)
 
 ## Swift 기본 활용
 - **☆** [Functional Programming 이 뭐하는 건가요?](https://www.youtube.com/watch?v=HZkqMiwT-5A&feature=youtu.be) : 함수형 프로그램이란? 아시나요? :)
@@ -102,7 +106,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 
 ## iOS 내부 구조 및 기본 Framework 활용
 - [The Sandbox Container Directory](https://www.youtube.com/watch?v=h0ROjqEEF50&feature=youtu.be)
-- 
+
 - [Core ML 시작하기](https://www.youtube.com/watch?v=ADtw_Ez5qWA&feature=youtu.be)
 
 ## Playground
