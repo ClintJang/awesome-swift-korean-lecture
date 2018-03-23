@@ -77,10 +77,15 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 - **☆** [Jun 30 2017, Xcode와 MacOS의 단축키로 마우스 움직임 최소화하기](https://academy.realm.io/kr/posts/xcode-shortcuts/)
     - 스피커님 블러그 : https://learnswiftwithbob.com/
 
+## iOS App 배포하기
+- [초보를 위한 iOS 앱 배포하기](https://www.youtube.com/watch?v=TPmHrv6eMZ8&feature=youtu.be)
+
 ## iOS 활용
 - [iOS 앱의 접근성 향상하기](https://www.youtube.com/watch?v=A80LVHABk-k&feature=youtu.be)
 
 ## Swift 기본 활용
+- **☆** [Functional Programming 이 뭐하는 건가요?](https://www.youtube.com/watch?v=HZkqMiwT-5A&feature=youtu.be) : 함수형 프로그램이란? 아시나요? :)
+
 - [Jun 8 2017, Swift의 네임스페이스와 typealias](https://academy.realm.io/kr/posts/swift-namespace-typealias/) 
 
 - **☆** [인터페이스 : 유연하게 설계하기](https://www.youtube.com/watch?v=Au3EgsG4re4&feature=youtu.be)
