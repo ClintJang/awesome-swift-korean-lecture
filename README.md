@@ -35,7 +35,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 링크 안에 강의 동영상을 볼 수 있는 링크가 있습니다.
 </pre>
 
-## Let us:Go! ([iOS Developer KR](https://github.com/yoonhg84/iOSDeveloper))
+## Let us:Go! ([iOS Developer KR](https://github.com/iOSDevKor))
 - 2017 봄 세션 : https://iosdevkor.github.io/let_us_go_2017_spring_review/
 - 2017 여름 세션 : https://iosdevkor.github.io/let_us_go_2017_summer_review/
 - 2017 가을 세션 : https://iosdevkor.github.io/let_us_go_2017_fall_review/
