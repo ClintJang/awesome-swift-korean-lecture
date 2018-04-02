@@ -1,5 +1,5 @@
 # Awesome Swift Korean Lecture
-[![License](http://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://github.com/clintjang/JWSBoltsSwiftSample/blob/master/LICENSE) [![Swift 4](https://img.shields.io/badge/Swift-Lecture-orange.svg?style=flat)](https://swift.org) 
+[![License](http://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://github.com/clintjang/awesome-swift-korean-lecture/blob/master/LICENSE) [![Swift 4](https://img.shields.io/badge/Swift-Lecture-orange.svg?style=flat)](https://swift.org) 
 
 <pre>
 iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다. 
@@ -21,7 +21,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 <pre>
 처음하실 때, 아래 세션 중에 오토 레이아웃 관련 세션은 UI 구현하는 방법이라서 기본을 익히면서 들으시면 좋습니다.
 </pre>
-- **☆** [야곰님의 유튜브 프로그래밍 채널](https://m.youtube.com/channel/UCkwWWEv3C-3ToeO57r5LCHQ) : 설명이 필요없죠? 감사합니다. 야곰님 :)
+- **☆☆** [야곰님의 유튜브 프로그래밍 채널](https://m.youtube.com/channel/UCkwWWEv3C-3ToeO57r5LCHQ) : 설명이 필요없죠? 감사합니다. 야곰님 :)
 - **☆** [iOS Swift입문 - programmers.co.kr](https://programmers.co.kr/learn/courses/4) : Swift의 기본부터 iOS 앱 개발까지 배울 수 있습니다. (무료강의로 알고 있습니다.)
 - **☆** [인프런(스탠퍼드)](https://www.inflearn.com/course/stanford-ios-한글자막-강의/) : 스탠퍼드 swift 강의, swift 2.0 기반이지만, 단순 문법외에 MVC, swift의 기본적인 필수 내용이 가득합니다. (무료강의)
 - [인프런(야곰님)]( https://www.inflearn.com/course/스위프트-기본-문법/) : swift 기본 문법을 익히는 강의 입니다. (미리보기, 유료강의)
