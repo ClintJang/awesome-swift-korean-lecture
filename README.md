@@ -62,7 +62,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 # **카테고리별**
 <pre>
  주제별로 상세 링크를 정리해보았습니다.
- 대부분 Realm 아카데미 링크입니다.
+ 대부분 Realm 아카데미와 유튜브 링크입니다.
 </pre>
 ## 오토 레이아웃
 - **☆** [Jul 18 2017, 오토 레이아웃 기초 1 (입문자용 중요)](https://academy.realm.io/kr/posts/ios-layoutmargins/)
@@ -115,7 +115,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 
 ## 디자인패턴 & 코드 스타일
 - [디자인 패턴 적용기](https://www.youtube.com/watch?v=MXSKM6aQ7Wo&feature=youtu.be) : 디자인 패턴이 어렵게 여기지 않으셔도 될 것 같습니다. 개발자와 소통하기 위한 한 수단이 될 수 있습니다. 
-- [Aug 8 2017, 자주 사용하는 템플릿을 커스터마이징하기 - 커스텀 Xcode 템플릿](https://academy.realm.io/kr/posts/custom-xcode-template/)
+- [Aug 8 2017, 자주 사용하는 템플릿을 커스터마이징하기 - 커스텀 Xcode 템플릿 (with VIPER)](https://academy.realm.io/kr/posts/custom-xcode-template/)
 
 - [스위프트를 여행하는 히치하이커를 위한 스타일 안내서](https://www.youtube.com/watch?v=d1eA-r_Cd2Y&feature=youtu.be)
 
