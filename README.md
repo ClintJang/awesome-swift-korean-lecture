@@ -177,12 +177,15 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 </pre>
 - **☆** [Functional Reactive Programming Paradigm](https://www.youtube.com/watch?v=cXi_CmZuBgg&feature=youtu.be) : 왜? rxswift를 해야되는 지, 기본이 되는 용어에 대해 좋은 설명을 해주십니다. 꼭 보셔요~ 
 
-- [Jul 14 2016, RxSwift 시작하기](https://academy.realm.io/kr/posts/letswift-rxswift/)
+- [Dec 20 2017, RxSwift 활용하기](https://www.youtube.com/watch?v=WN6s3xWZ3tw)
+
+- [Jul 4 2017, RxSwift로 반응형 프로그래밍하기](https://academy.realm.io/kr/posts/reactive-programming-with-rxswift/)
 
 - [Feb 23 2017, RxSwift 예제로 감잡기 : RxSwift 시작을 위한 간단한 예제들 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-use-rxswift-with-simple-examples-ios-techtalk/)
 
 - [Jul 4 2017, RxSwift로 반응형 프로그래밍하기](https://academy.realm.io/kr/posts/reactive-programming-with-rxswift/)
 
+- [Jul 14 2016, RxSwift 시작하기](https://academy.realm.io/kr/posts/letswift-rxswift/)
 
 
 * * *
@@ -196,4 +199,5 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 - **☆☆** [스위프트 API 가이드라인](https://gist.github.com/godrm/d07ae33973bf71c5324058406dfe42dd) : 스위프트 문법을 사용해서 코딩을 할 때, 어떻게 네이밍을 하면 바른 것 인지, apple에서 생각하는 가이드를 제시하였습니다. 영문 문서를 보기 쉽게 번역해 주셨네요. 한번 꼭 읽어봅시다.
 
 - [마크다운 링크 1](http://sergeswin.com/1013), [마크다운 링크 2](https://gist.github.com/ihoneymon/652be052a0727ad59601) : github를 이용하신다면 마크다운에 대해 조금씩 알아가시면 좋습니다. 라는 생각에 ... 뭐 저도 잘 모릅니다.^^;;; 
+
 - [네이버 웹툰::코포자(코딩포기자)들의 다시 개발도전](http://comic.naver.com/challenge/detail.nhn?titleId=707782) : 웹툰이라 조금 생뚱맞을 수 있지만, 개발도전을 그린 내용입니다. 약간은 간접 경험을 할 수 있지 않을까요?;; 개발을 소재로 한 내용은 찾아보기 참 힘들어요..^^. 작가님을 응원합니다.
