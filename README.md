@@ -22,11 +22,17 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 처음하실 때, 아래 세션 중에 오토 레이아웃 관련 세션은 UI 구현하는 방법이라서 기본을 익히면서 들으시면 좋습니다.
 </pre>
 - **☆☆** [야곰님의 유튜브 프로그래밍 채널](https://m.youtube.com/channel/UCkwWWEv3C-3ToeO57r5LCHQ) : 설명이 필요없죠? 감사합니다. 야곰님 :)
+	- [인프런(야곰님)]( https://www.inflearn.com/course/스위프트-기본-문법/) : swift 기본 문법을 익히는 강의 입니다. (미리보기, 유료강의)
+	- [구름edu(야곰님)](https://edu.goorm.io/lecture/1141/%EC%95%BC%EA%B3%B0%EC%9D%98-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) : (체험하기, 무료강의?로 보여짐) 신청해보면😭 추후에 업데이트 하겠습니다.
 - **☆** [iOS Swift입문 - programmers.co.kr](https://programmers.co.kr/learn/courses/4) : Swift의 기본부터 iOS 앱 개발까지 배울 수 있습니다. (무료강의로 알고 있습니다.)
 - **☆** [인프런(스탠퍼드)](https://www.inflearn.com/course/stanford-ios-한글자막-강의/) : 스탠퍼드 swift 강의, swift 2.0 기반이지만, 단순 문법외에 MVC, swift의 기본적인 필수 내용이 가득합니다. (무료강의)
-- [인프런(야곰님)]( https://www.inflearn.com/course/스위프트-기본-문법/) : swift 기본 문법을 익히는 강의 입니다. (미리보기, 유료강의)
 - [인프런(Swift)](https://www.inflearn.com/course/swift4-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-ios-%EA%B0%9C%EB%B0%9C/) : 기본 부터 설명이 되고 있습니다. (미리보기, 유료강의)
-- [구름edu(야곰님)](https://edu.goorm.io/lecture/1141/%EC%95%BC%EA%B3%B0%EC%9D%98-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) : (체험하기, 무료강의?로 보여짐) 신청해보고 추후에 업데이트 하겠습니다.
+- [T아카데미](https://www.youtube.com/watch?v=VJivCns4TAI) : T아카데미 Swift 프로그래밍 강의입니다. Swift 프로그래밍 1강 Swift 소개와 개발 환경 ~ 20강 파운데이션 4, 네트워크 기본, 리소스 얻기, JSON 다루기까지 있습니다. 유투브 무료강의 입니다. 
+	- [1강](https://www.youtube.com/watch?v=VJivCns4TAI), &nbsp; [2강](https://www.youtube.com/watch?v=eIdxnbT2uag), &nbsp; [3강](https://www.youtube.com/watch?v=_8LoENXbBaQ), &nbsp; [4강](https://www.youtube.com/watch?v=GdtoOIy_GDQ&t=901s), &nbsp; [5강](https://www.youtube.com/watch?v=FVsGL438P-I)
+	- [6강](https://www.youtube.com/watch?v=9wIIwCQnSOs), &nbsp; [7강](https://www.youtube.com/watch?v=w03UpLsF90U&t=121s), &nbsp; [8강](https://www.youtube.com/watch?v=kvCwXtpwNlE), &nbsp; [9강](https://www.youtube.com/watch?v=XGCiGyeKkOs), &nbsp; [10강](https://www.youtube.com/watch?v=t1W60-rU_JM)
+	- [11강](https://www.youtube.com/watch?v=_O6vjEgWBKY), &nbsp; [12강](https://www.youtube.com/watch?v=5B3jh42Vrwo), &nbsp; [13강](https://www.youtube.com/watch?v=kolg2dim3d4), &nbsp; [14강](https://www.youtube.com/watch?v=p1U5iI_QxV0), &nbsp; [15강](https://www.youtube.com/watch?v=CcfFLAkz2Y8)
+	- [16강](https://www.youtube.com/watch?v=CcfFLAkz2Y8), &nbsp; [17강](https://www.youtube.com/watch?v=96i_TQPQDIk), &nbsp; [18강](https://www.youtube.com/watch?v=mOHUQZuFibQ), &nbsp; [19강](https://www.youtube.com/watch?v=I5vjgXYAJGY), &nbsp; [20강](https://www.youtube.com/watch?v=Z78_Z5j7YxM)
+
 - [부스트코스 iOS Developer 과정](http://www.edwith.org/boostcourse-ios) : 주 10시간 학습 기준 총 6개월, 셀프 스터디 방식 같으며 과제 리뷰 시스템 유료가 될 것 같습니다. 리뷰도 받고 수료 후 경력에 추가할 수도 있는 방법인 것같습니다.
 
 # 좋은 세션
