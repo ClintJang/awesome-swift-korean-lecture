@@ -218,3 +218,5 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 - [Bool 변수 이름 제대로 짓기 위한 최소한의 영어 문법](https://soojin.ro/blog/naming-boolean-variables) : 변수명 정하기는 항상 어려워요.. 링크 내용을 읽으면서 한번 더 생각하게 되서 좋았습니다.
 
 - [Cocoapods를 활용해 봅시다.](https://github.com/ClintJang/cocoapods-tips) : 멋진 개발자님들께서 개발하신 라이브러리를 손쉽게 이용하게 해줍니다. 모르신다면 알아보세요. 안드로이드라면.. Maven과 Gradle과 같이 생각하시면 됩니다. 사용하면 편해집니다.
+
+- [Big-O와 Collection 타입에 대한 한국어 설명글](https://github.com/younatics/Collection-Data-Structures-Swift-KR) : 자료구조는 기본이죠. 면접 준비하실 때 도움이 되실것 같아서 추가했습니다.
