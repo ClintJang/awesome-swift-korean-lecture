@@ -51,7 +51,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 - 2017 가을 세션 : https://iosdevkor.github.io/let_us_go_2017_fall_review/
 - 2017 겨울 : 훈훈한 모임이 있었죠.. (강남 모 닭집)
 - 2018 봄 세션 : https://iosdevkor.github.io/let_us_go_2018_spring_review/
-- 2018 여름 세션 : 7월 예상 
+- 2018 여름 세션 : 7월 21일 토요일 (현재 스피커 모집 단계) 
 
 ## letswift 
 - 2016 : http://letswift.kr/2016/
@@ -118,9 +118,9 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 - [Objective-C에서 Swift로 - iOS Tech Talk](https://academy.realm.io/kr/posts/from-objective-c-to-swift-ios-techtalk/)
 
 ## iOS 내부 구조 및 기본 Framework 활용
-- [The Sandbox Container Directory](https://www.youtube.com/watch?v=h0ROjqEEF50&feature=youtu.be)
+- [Mar 10 2018, The Sandbox Container Directory](https://www.youtube.com/watch?v=h0ROjqEEF50&feature=youtu.be)
 
-- [Core ML 시작하기](https://www.youtube.com/watch?v=ADtw_Ez5qWA&feature=youtu.be)
+- [Mar 10 2018, Core ML 시작하기](https://www.youtube.com/watch?v=ADtw_Ez5qWA&feature=youtu.be)
 
 ## Playground
 - [Jun 21 2017, Playground 100% 활용하기](https://academy.realm.io/kr/posts/swift-playground/)
@@ -129,11 +129,11 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 - [Nov 4 2017, 디자인 패턴 적용기](https://www.youtube.com/watch?v=MXSKM6aQ7Wo&feature=youtu.be) : 디자인 패턴이 어렵게 여기지 않으셔도 될 것 같습니다. 개발자와 소통하기 위한 한 수단이 될 수 있습니다. 
 - [Aug 8 2017, 자주 사용하는 템플릿을 커스터마이징하기 - 커스텀 Xcode 템플릿 (with VIPER)](https://academy.realm.io/kr/posts/custom-xcode-template/)
 
-- [스위프트를 여행하는 히치하이커를 위한 스타일 안내서](https://www.youtube.com/watch?v=d1eA-r_Cd2Y&feature=youtu.be)
+- [Nov 4 2017, 스위프트를 여행하는 히치하이커를 위한 스타일 안내서](https://www.youtube.com/watch?v=d1eA-r_Cd2Y&feature=youtu.be)
 
 - **☆** [Aug 9 2016, Swift에서 프로토콜 중심 프로그래밍(POP)하기](https://academy.realm.io/kr/posts/protocol-oriented-programming-in-swift/)
 
-- [ReSwift로 리액티브 프로그래밍 구현하기](https://www.youtube.com/watch?v=H0WPEAnC5YQ&feature=youtu.be) : swift로 단방향 데이터 흐름 아키텍처의 Redux와 유사하게 구현합니다.
+- [Nov 4 2017, ReSwift로 리액티브 프로그래밍 구현하기](https://www.youtube.com/watch?v=H0WPEAnC5YQ&feature=youtu.be) : swift로 단방향 데이터 흐름 아키텍처의 Redux와 유사하게 구현합니다.
 
 ## TDD
 - **☆** [Nov 4 2017, Test Driven Development](https://www.youtube.com/watch?v=eX_y33jHSHs&feature=youtu.be) : TDD를 하시나요?
@@ -144,7 +144,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 - [Jul 27 2017, Swift로 꼬리 재귀 사용하기](https://academy.realm.io/kr/posts/swift-tail-recursion/)
 
 ## 네트워킹
-- [프로토콜을 활용한 비동기 네트워킹 로직 테스팅](https://www.youtube.com/watch?v=R3Bp3c8O3WM&feature=youtu.be)
+- [Nov 13 2017, 프로토콜을 활용한 비동기 네트워킹 로직 테스팅](https://www.youtube.com/watch?v=R3Bp3c8O3WM&feature=youtu.be)
 
 ## 개발경험
 - [Feb 28 2017, 기획, 디자인 변경에 강한 카드뷰 만들기 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-make-cardview-ios-tech-talk/)
