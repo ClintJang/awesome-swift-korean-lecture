@@ -51,7 +51,8 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 - 2017 가을 세션 : https://iosdevkor.github.io/let_us_go_2017_fall_review/
 - 2017 겨울 : 훈훈한 모임이 있었죠.. (강남 모 닭집)
 - 2018 봄 세션 : https://iosdevkor.github.io/let_us_go_2018_spring_review/
-- 2018 여름 세션 : 7월 21일 토요일 (현재 스피커 모집 단계) 
+- 2018 여름 세션 : 7월 21일 토요일
+	- 진행상태 : 6월 12일 오후 참여진행 링크 생성 예정
 
 ## letswift 
 - 2016 : http://letswift.kr/2016/
