@@ -52,7 +52,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 - 2017 겨울 : 훈훈한 모임이 있었죠.. (강남 모 닭집)
 - 2018 봄 세션 : https://iosdevkor.github.io/let_us_go_2018_spring_review/
 - 2018 여름 세션 : 7월 21일 토요일
-	- 진행상태 : 6월 12일 오후 참여진행 링크 생성 예정
+	- 6월 14일 오후 3시 모집공고 오픈 : https://iosdevkor.github.io/let_us_go_2018_summer/
 
 ## letswift 
 - 2016 : http://letswift.kr/2016/
@@ -76,37 +76,37 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
  대부분 Realm 아카데미와 유튜브 링크입니다.
 </pre>
 ## 오토 레이아웃
-- **☆** [Jul 18 2017, 오토 레이아웃 기초 1 (입문자용 중요)](https://academy.realm.io/kr/posts/ios-layoutmargins/)
+- **☆** [2017년 7월 18일, 오토 레이아웃 기초 1 (입문자용 중요)](https://academy.realm.io/kr/posts/ios-layoutmargins/)
 
-- **☆** [Apr 18 2017, 오토 레이아웃 기초 2 (입문자용 중요)](https://academy.realm.io/kr/posts/ios-autolayout/)
+- **☆** [2017년 4월 18일, 오토 레이아웃 기초 2 (입문자용 중요)](https://academy.realm.io/kr/posts/ios-autolayout/)
 
 ## 메모리 & 컴파일러
-- **☆☆** [Jul 19 2016, Swift 성능 이해하기](https://academy.realm.io/kr/posts/letswift-swift-performance/) : Value 타입, Protocol과 스위프트의 성능 최적화
+- **☆☆** [2016년 7월 19일, Swift 성능 이해하기](https://academy.realm.io/kr/posts/letswift-swift-performance/) : Value 타입, Protocol과 스위프트의 성능 최적화
 
 - [Aug 16 2016, Swift Internals- LLVM, Type system, Swift Foundation을 중심으로](https://academy.realm.io/kr/posts/swift-internals-llvm-type-system-swift-foundation/)
 
 ## 단축키
-- **☆** [Jun 30 2017, Xcode와 MacOS의 단축키로 마우스 움직임 최소화하기](https://academy.realm.io/kr/posts/xcode-shortcuts/)
+- **☆** [2017년 6월 30일, Xcode와 MacOS의 단축키로 마우스 움직임 최소화하기](https://academy.realm.io/kr/posts/xcode-shortcuts/)
     - 스피커님 블러그 : https://learnswiftwithbob.com/
 
 ## iOS App 배포하기
-- [Mar 10 2018, 초보를 위한 iOS 앱 배포하기](https://www.youtube.com/watch?v=TPmHrv6eMZ8&feature=youtu.be)
+- [2018년 3월 10일, 초보를 위한 iOS 앱 배포하기](https://www.youtube.com/watch?v=TPmHrv6eMZ8&feature=youtu.be)
 
 ## iOS 활용 및 팁
-- [Mar 10 2018, Haptic Feedback으로 시작하는 iOS 개발의 이모저모](https://www.youtube.com/watch?v=wouM0cQKx_w&feature=youtu.be)
+- [2018년 3월 10일, Haptic Feedback으로 시작하는 iOS 개발의 이모저모](https://www.youtube.com/watch?v=wouM0cQKx_w&feature=youtu.be)
 
-- [Mar 10 2018, Universal Link 적용하기](https://www.youtube.com/watch?v=desZAId5DMU&feature=youtu.be)
+- [2018년 3월 10일, Universal Link 적용하기](https://www.youtube.com/watch?v=desZAId5DMU&feature=youtu.be)
 
-- [Nov 4 2017, iOS 앱의 접근성 향상하기](https://www.youtube.com/watch?v=A80LVHABk-k&feature=youtu.be)
+- [2017년 11월 4일, iOS 앱의 접근성 향상하기](https://www.youtube.com/watch?v=A80LVHABk-k&feature=youtu.be)
 
 
 
 ## Swift 기본 활용
-- **☆** [Mar 10 2018, Functional Programming 이 뭐하는 건가요?](https://www.youtube.com/watch?v=HZkqMiwT-5A&feature=youtu.be) : 함수형 프로그램이란? 아시나요? :)
+- **☆** [2018년 3월 10일, Functional Programming 이 뭐하는 건가요?](https://www.youtube.com/watch?v=HZkqMiwT-5A&feature=youtu.be) : 함수형 프로그램이란? 아시나요? :)
 
-- [Jun 8 2017, Swift의 네임스페이스와 typealias](https://academy.realm.io/kr/posts/swift-namespace-typealias/) 
+- [2017년 6월 8일, Swift의 네임스페이스와 typealias](https://academy.realm.io/kr/posts/swift-namespace-typealias/) 
 
-- **☆** [Nov 4 2017, 인터페이스 : 유연하게 설계하기](https://www.youtube.com/watch?v=Au3EgsG4re4&feature=youtu.be)
+- **☆** [2017년 11월 4일, 인터페이스 : 유연하게 설계하기](https://www.youtube.com/watch?v=Au3EgsG4re4&feature=youtu.be)
 
 - [Jul 25 2017, Swift Protocol 적재적소에 사용하기](https://academy.realm.io/kr/posts/understanding-swift-protocol/)
 
@@ -114,30 +114,30 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 
 - [May 4 2017, Swift 함수에 커링 사용하기](https://academy.realm.io/kr/posts/currying-on-the-swift-functions/)
 
-- **☆** [Nov 4 2017, Swift 4의 Codable 활용](https://www.youtube.com/watch?v=NO6wQabhCy8&feature=youtu.be)
+- **☆** [2017년 11월 4일, Swift 4의 Codable 활용](https://www.youtube.com/watch?v=NO6wQabhCy8&feature=youtu.be)
 
 - [Objective-C에서 Swift로 - iOS Tech Talk](https://academy.realm.io/kr/posts/from-objective-c-to-swift-ios-techtalk/)
 
 ## iOS 내부 구조 및 기본 Framework 활용
-- [Mar 10 2018, The Sandbox Container Directory](https://www.youtube.com/watch?v=h0ROjqEEF50&feature=youtu.be)
+- [2018년 3월 10일, The Sandbox Container Directory](https://www.youtube.com/watch?v=h0ROjqEEF50&feature=youtu.be)
 
-- [Mar 10 2018, Core ML 시작하기](https://www.youtube.com/watch?v=ADtw_Ez5qWA&feature=youtu.be)
+- [2018년 3월 10일, Core ML 시작하기](https://www.youtube.com/watch?v=ADtw_Ez5qWA&feature=youtu.be)
 
 ## Playground
 - [Jun 21 2017, Playground 100% 활용하기](https://academy.realm.io/kr/posts/swift-playground/)
 
 ## 디자인패턴 & 코드 스타일
-- [Nov 4 2017, 디자인 패턴 적용기](https://www.youtube.com/watch?v=MXSKM6aQ7Wo&feature=youtu.be) : 디자인 패턴이 어렵게 여기지 않으셔도 될 것 같습니다. 개발자와 소통하기 위한 한 수단이 될 수 있습니다. 
+- [2017년 11월 4일, 디자인 패턴 적용기](https://www.youtube.com/watch?v=MXSKM6aQ7Wo&feature=youtu.be) : 디자인 패턴이 어렵게 여기지 않으셔도 될 것 같습니다. 개발자와 소통하기 위한 한 수단이 될 수 있습니다. 
 - [Aug 8 2017, 자주 사용하는 템플릿을 커스터마이징하기 - 커스텀 Xcode 템플릿 (with VIPER)](https://academy.realm.io/kr/posts/custom-xcode-template/)
 
-- [Nov 4 2017, 스위프트를 여행하는 히치하이커를 위한 스타일 안내서](https://www.youtube.com/watch?v=d1eA-r_Cd2Y&feature=youtu.be)
+- [2017년 11월 4일, 스위프트를 여행하는 히치하이커를 위한 스타일 안내서](https://www.youtube.com/watch?v=d1eA-r_Cd2Y&feature=youtu.be)
 
 - **☆** [Aug 9 2016, Swift에서 프로토콜 중심 프로그래밍(POP)하기](https://academy.realm.io/kr/posts/protocol-oriented-programming-in-swift/)
 
-- [Nov 4 2017, ReSwift로 리액티브 프로그래밍 구현하기](https://www.youtube.com/watch?v=H0WPEAnC5YQ&feature=youtu.be) : swift로 단방향 데이터 흐름 아키텍처의 Redux와 유사하게 구현합니다.
+- [2017년 11월 4일, ReSwift로 리액티브 프로그래밍 구현하기](https://www.youtube.com/watch?v=H0WPEAnC5YQ&feature=youtu.be) : swift로 단방향 데이터 흐름 아키텍처의 Redux와 유사하게 구현합니다.
 
 ## TDD
-- **☆** [Nov 4 2017, Test Driven Development](https://www.youtube.com/watch?v=eX_y33jHSHs&feature=youtu.be) : TDD를 하시나요?
+- **☆** [2017년 11월 4일, Test Driven Development](https://www.youtube.com/watch?v=eX_y33jHSHs&feature=youtu.be) : TDD를 하시나요?
 
 - [Mar 15 2017, iOS에서 TDD(Test-Driven Development)하기](https://academy.realm.io/kr/posts/ios-tdd-test-driven-development/)
 
@@ -221,3 +221,5 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 - [Cocoapods를 활용해 봅시다.](https://github.com/ClintJang/cocoapods-tips) : 멋진 개발자님들께서 개발하신 라이브러리를 손쉽게 이용하게 해줍니다. 모르신다면 알아보세요. 안드로이드라면.. Maven과 Gradle과 같이 생각하시면 됩니다. 사용하면 편해집니다.
 
 - [Big-O와 Collection 타입에 대한 한국어 설명글](https://github.com/younatics/Collection-Data-Structures-Swift-KR) : 자료구조는 기본이죠. 면접 준비하실 때 도움이 되실것 같아서 추가했습니다.
+
+- [Korea iOS Seminar](https://github.com/yoonhg84/Korea-iOS-Seminar) : 깔끔하게 정리된 swift 강연 정보입니다.
