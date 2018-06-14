@@ -83,7 +83,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 ## 메모리 & 컴파일러
 - **☆☆** [2016년 7월 19일, Swift 성능 이해하기](https://academy.realm.io/kr/posts/letswift-swift-performance/) : Value 타입, Protocol과 스위프트의 성능 최적화
 
-- [Aug 16 2016, Swift Internals- LLVM, Type system, Swift Foundation을 중심으로](https://academy.realm.io/kr/posts/swift-internals-llvm-type-system-swift-foundation/)
+- [2016년 8월 16일, Swift Internals- LLVM, Type system, Swift Foundation을 중심으로](https://academy.realm.io/kr/posts/swift-internals-llvm-type-system-swift-foundation/)
 
 ## 단축키
 - **☆** [2017년 6월 30일, Xcode와 MacOS의 단축키로 마우스 움직임 최소화하기](https://academy.realm.io/kr/posts/xcode-shortcuts/)
@@ -108,11 +108,11 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 
 - **☆** [2017년 11월 4일, 인터페이스 : 유연하게 설계하기](https://www.youtube.com/watch?v=Au3EgsG4re4&feature=youtu.be)
 
-- [Jul 25 2017, Swift Protocol 적재적소에 사용하기](https://academy.realm.io/kr/posts/understanding-swift-protocol/)
+- [2017년 7월 25일, Swift Protocol 적재적소에 사용하기](https://academy.realm.io/kr/posts/understanding-swift-protocol/)
 
-- **☆** [Apr 27 2017, Swift의 클로저 및 고차 함수 이해하기](https://academy.realm.io/kr/posts/closure-and-higher-order-functions-of-swift/)
+- **☆** [2017년 4월 27일, Swift의 클로저 및 고차 함수 이해하기](https://academy.realm.io/kr/posts/closure-and-higher-order-functions-of-swift/)
 
-- [May 4 2017, Swift 함수에 커링 사용하기](https://academy.realm.io/kr/posts/currying-on-the-swift-functions/)
+- [2017년 5월 4일, Swift 함수에 커링 사용하기](https://academy.realm.io/kr/posts/currying-on-the-swift-functions/)
 
 - **☆** [2017년 11월 4일, Swift 4의 Codable 활용](https://www.youtube.com/watch?v=NO6wQabhCy8&feature=youtu.be)
 
@@ -124,81 +124,81 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 - [2018년 3월 10일, Core ML 시작하기](https://www.youtube.com/watch?v=ADtw_Ez5qWA&feature=youtu.be)
 
 ## Playground
-- [Jun 21 2017, Playground 100% 활용하기](https://academy.realm.io/kr/posts/swift-playground/)
+- [2017년 6월 21일, Playground 100% 활용하기](https://academy.realm.io/kr/posts/swift-playground/)
 
 ## 디자인패턴 & 코드 스타일
 - [2017년 11월 4일, 디자인 패턴 적용기](https://www.youtube.com/watch?v=MXSKM6aQ7Wo&feature=youtu.be) : 디자인 패턴이 어렵게 여기지 않으셔도 될 것 같습니다. 개발자와 소통하기 위한 한 수단이 될 수 있습니다. 
-- [Aug 8 2017, 자주 사용하는 템플릿을 커스터마이징하기 - 커스텀 Xcode 템플릿 (with VIPER)](https://academy.realm.io/kr/posts/custom-xcode-template/)
+- [2017년 8월 8일, 자주 사용하는 템플릿을 커스터마이징하기 - 커스텀 Xcode 템플릿 (with VIPER)](https://academy.realm.io/kr/posts/custom-xcode-template/)
 
 - [2017년 11월 4일, 스위프트를 여행하는 히치하이커를 위한 스타일 안내서](https://www.youtube.com/watch?v=d1eA-r_Cd2Y&feature=youtu.be)
 
-- **☆** [Aug 9 2016, Swift에서 프로토콜 중심 프로그래밍(POP)하기](https://academy.realm.io/kr/posts/protocol-oriented-programming-in-swift/)
+- **☆** [2016년 8월 9일, Swift에서 프로토콜 중심 프로그래밍(POP)하기](https://academy.realm.io/kr/posts/protocol-oriented-programming-in-swift/)
 
 - [2017년 11월 4일, ReSwift로 리액티브 프로그래밍 구현하기](https://www.youtube.com/watch?v=H0WPEAnC5YQ&feature=youtu.be) : swift로 단방향 데이터 흐름 아키텍처의 Redux와 유사하게 구현합니다.
 
 ## TDD
 - **☆** [2017년 11월 4일, Test Driven Development](https://www.youtube.com/watch?v=eX_y33jHSHs&feature=youtu.be) : TDD를 하시나요?
 
-- [Mar 15 2017, iOS에서 TDD(Test-Driven Development)하기](https://academy.realm.io/kr/posts/ios-tdd-test-driven-development/)
+- [2017년 3월 15일, iOS에서 TDD(Test-Driven Development)하기](https://academy.realm.io/kr/posts/ios-tdd-test-driven-development/)
 
 ## 알고리즘
-- [Jul 27 2017, Swift로 꼬리 재귀 사용하기](https://academy.realm.io/kr/posts/swift-tail-recursion/)
+- [2017년 7월 27일, Swift로 꼬리 재귀 사용하기](https://academy.realm.io/kr/posts/swift-tail-recursion/)
 
 ## 네트워킹
-- [Nov 13 2017, 프로토콜을 활용한 비동기 네트워킹 로직 테스팅](https://www.youtube.com/watch?v=R3Bp3c8O3WM&feature=youtu.be)
+- [2017년 11월 13일, 프로토콜을 활용한 비동기 네트워킹 로직 테스팅](https://www.youtube.com/watch?v=R3Bp3c8O3WM&feature=youtu.be)
 
 ## 개발경험
-- [Feb 28 2017, 기획, 디자인 변경에 강한 카드뷰 만들기 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-make-cardview-ios-tech-talk/)
+- [2017년 2월 28일, 기획, 디자인 변경에 강한 카드뷰 만들기 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-make-cardview-ios-tech-talk/)
 - [Swift로 코인 트레이딩 하기](https://www.youtube.com/watch?v=QRIs7khkNXc&list=PLJ0BuvoGAkXtLlG8xQEmG18CuamDy5LG8&index=6&t=0s)
 
 ## 세션 투어
-- [Jun 27 2017, try! Swift Tokyo 2017 후기](https://academy.realm.io/kr/posts/try-swift-tokyo-2017-review/)
+- [2017년 6월 27일, try! Swift Tokyo 2017 후기](https://academy.realm.io/kr/posts/try-swift-tokyo-2017-review/)
 
 ## WWDC & Apple
-- [Aug 14 2017, WWDC 2017 톺아보기](https://academy.realm.io/kr/posts/wwdc-2017-review/)
+- [2017년 8월 14일, WWDC 2017 톺아보기](https://academy.realm.io/kr/posts/wwdc-2017-review/)
 
-- [Mar 16 2017, 2017년 애플 생태계의 변화](https://academy.realm.io/kr/posts/apple-trend-2017/)
+- [2017년 3월 16일, 2017년 애플 생태계의 변화](https://academy.realm.io/kr/posts/apple-trend-2017/)
 
 ## Realm
-- [Apr 13 2017, 프알못의 Realm 사용기 + 라이브 코딩 데모](https://academy.realm.io/kr/posts/realm-swift-live-coding-beginner/)
+- [2017년 4월 13일, 프알못의 Realm 사용기 + 라이브 코딩 데모](https://academy.realm.io/kr/posts/realm-swift-live-coding-beginner/)
 
-- [Apr 6 2017, 좌충우돌 Realm 모바일 플랫폼 사용기](https://academy.realm.io/kr/posts/develop-app-in-3-days-with-rmp/)
+- [2017년 4월 6일, 좌충우돌 Realm 모바일 플랫폼 사용기](https://academy.realm.io/kr/posts/develop-app-in-3-days-with-rmp/)
 
-- [Apr 6 2017, 실시간 데이터베이스 비교: Realm 모바일 플랫폼 vs. Firebase](https://academy.realm.io/kr/posts/welcome-to-reactive-world/)
+- [2017년 4월 6일, 실시간 데이터베이스 비교: Realm 모바일 플랫폼 vs. Firebase](https://academy.realm.io/kr/posts/welcome-to-reactive-world/)
 
-- [Mar 30 2017, 데모와 함께 하는 Realm 모바일 플랫폼 따라잡기: Scanner, RealmPop 예제](https://academy.realm.io/kr/posts/realm-mobile-platform-demos/)
+- [2017년 3월 30일, 데모와 함께 하는 Realm 모바일 플랫폼 따라잡기: Scanner, RealmPop 예제](https://academy.realm.io/kr/posts/realm-mobile-platform-demos/)
 
-- [Sep 11 2016, Swift 모바일데이터베이스 : Realm](https://academy.realm.io/kr/posts/realm-swift-mobile-database/)
+- [2016년 9월 11일, Swift 모바일데이터베이스 : Realm](https://academy.realm.io/kr/posts/realm-swift-mobile-database/)
 
 ## Tool?좋은 개발을 위한 도구? 활용
 - [Simulator Customizing & Testing](https://www.youtube.com/watch?v=4i2EBnmUMcs&feature=youtu.be)
 
-- [May 11 2017, 지속적인 전달을 위한 자동화 도구, fastlane: 데모와 함께 알아보기](https://academy.realm.io/kr/posts/ios-fastlane-demos/)
+- [2017년 5월 11일, 지속적인 전달을 위한 자동화 도구, fastlane: 데모와 함께 알아보기](https://academy.realm.io/kr/posts/ios-fastlane-demos/)
 
 
 ## 서버 사이드
-- [Jun 14 2017, Swift 서버 사이드 프레임워크 비교 분석](https://academy.realm.io/kr/posts/swift-server-side-framework/)
+- [2016년 6월 14일, Swift 서버 사이드 프레임워크 비교 분석](https://academy.realm.io/kr/posts/swift-server-side-framework/)
 
 ## 딥러닝 
-- [iOS와 케라스의 만남](https://www.youtube.com/watch?v=V4uRLSz9Ou0&feature=youtu.be)
-- [모두를 위한 딥러닝 강좌 시즌 1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) : 스위프트는 아닙니다. 머신러닝 입분부터 종결은 여기를 참고해서 공부하세요. .. 교수님 감사합니다. (￣～￣)a
+- [2017년 12월 13일, iOS와 케라스의 만남](https://www.youtube.com/watch?v=V4uRLSz9Ou0&feature=youtu.be)
+	- [모두를 위한 딥러닝 강좌 시즌 1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) : 스위프트는 아닙니다. 머신러닝 입분부터 종결은 여기를 참고해서 공부하세요. .. 교수님 감사합니다. (￣～￣)a
 
 ## **☆** RxSwift
 <pre>
  RxSwift는 중급 이상이라 생각됩니다. 
  함수형 프로그래밍에 관심이 있다면, rxswift 의 세계에 관심가져야된다고 생각합니다.
 </pre>
-- **☆** [Nov 4 2017, Functional Reactive Programming Paradigm](https://www.youtube.com/watch?v=cXi_CmZuBgg&feature=youtu.be) : 왜? rxswift를 해야되는 지, 기본이 되는 용어에 대해 좋은 설명을 해주십니다. 꼭 보셔요~ 
+- **☆** [2017년 11월 4일, Functional Reactive Programming Paradigm](https://www.youtube.com/watch?v=cXi_CmZuBgg&feature=youtu.be) : 왜? rxswift를 해야되는 지, 기본이 되는 용어에 대해 좋은 설명을 해주십니다. 꼭 보셔요~ 
 
-- [Dec 20 2017, RxSwift 활용하기](https://www.youtube.com/watch?v=WN6s3xWZ3tw)
+- [2017년 12월 20일, RxSwift 활용하기](https://www.youtube.com/watch?v=WN6s3xWZ3tw)
 
-- [Jul 4 2017, RxSwift로 반응형 프로그래밍하기](https://academy.realm.io/kr/posts/reactive-programming-with-rxswift/)
+- [2017년 7월 4일, RxSwift로 반응형 프로그래밍하기](https://academy.realm.io/kr/posts/reactive-programming-with-rxswift/)
 
-- [Feb 23 2017, RxSwift 예제로 감잡기 : RxSwift 시작을 위한 간단한 예제들 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-use-rxswift-with-simple-examples-ios-techtalk/)
+- [2017년 2월 23일, RxSwift 예제로 감잡기 : RxSwift 시작을 위한 간단한 예제들 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-use-rxswift-with-simple-examples-ios-techtalk/)
 
-- [Jul 4 2017, RxSwift로 반응형 프로그래밍하기](https://academy.realm.io/kr/posts/reactive-programming-with-rxswift/)
+- [2017년 7월 4일, RxSwift로 반응형 프로그래밍하기](https://academy.realm.io/kr/posts/reactive-programming-with-rxswift/)
 
-- [Jul 14 2016, RxSwift 시작하기](https://academy.realm.io/kr/posts/letswift-rxswift/)
+- [2016년 7월 14일, RxSwift 시작하기](https://academy.realm.io/kr/posts/letswift-rxswift/)
 
 
 * * *
