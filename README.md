@@ -21,10 +21,10 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 <pre>
 처음하실 때, 아래 세션 중에 오토 레이아웃 관련 세션은 UI 구현하는 방법이라서 기본을 익히면서 들으시면 좋습니다.
 </pre>
-- **☆☆** [야곰님의 유튜브 프로그래밍 채널](https://m.youtube.com/channel/UCkwWWEv3C-3ToeO57r5LCHQ) : 설명이 필요없죠? 감사합니다. 야곰님 :)
-	- [인프런(스위프트 기본 문법)]( https://www.inflearn.com/course/스위프트-기본-문법/) : swift 기본 문법을 익히는 강의 입니다. (미리보기, 유료강의)
-	- [인프런(iOS 프로그래밍)](https://www.inflearn.com/course/ios-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/) : iOS 애플리케이션을 제작함에 있어 필요한 기본 지식과 테크닉을 전달하고, 방대한 분량의 iOS 관련 지식을 스스로 익힐수 있는 방향을 제시합니다. (미리보기, 유료강의)
-	- [구름edu(야곰님)](https://edu.goorm.io/lecture/1141/%EC%95%BC%EA%B3%B0%EC%9D%98-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) : (체험하기, 무료강의?로 보여짐) 신청해보면😭 추후에 업데이트 하겠습니다.
+- **☆☆** [야곰님의 유튜브 프로그래밍 채널](https://m.youtube.com/channel/UCkwWWEv3C-3ToeO57r5LCHQ) : 꼭 들어보세요. 설명이 필요없죠? 감사합니다. 야곰님 :)
+	- **☆☆** [인프런(iOS 프로그래밍)](https://www.inflearn.com/course/ios-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/) : iOS 애플리케이션을 제작함에 있어 필요한 기본 지식과 테크닉을 전달하고, 방대한 분량의 iOS 관련 지식을 스스로 익힐수 있는 방향을 제시합니다. (2018년 6월 20일 신규 오픈)
+	- [인프런(스위프트 기본 문법)]( https://www.inflearn.com/course/스위프트-기본-문법/) : swift 기본 문법을 익히는 강의 입니다. 
+	- [구름edu(야곰님)](https://edu.goorm.io/lecture/1141/%EC%95%BC%EA%B3%B0%EC%9D%98-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) : 신청해보면😭 추후에 업데이트 하겠습니다.
 - **☆** [iOS Swift입문 - programmers.co.kr](https://programmers.co.kr/learn/courses/4) : Swift의 기본부터 iOS 앱 개발까지 배울 수 있습니다. (무료강의로 알고 있습니다.)
 - **☆** [인프런(스탠퍼드)](https://www.inflearn.com/course/stanford-ios-한글자막-강의/) : 스탠퍼드 swift 강의, swift 2.0 기반이지만, 단순 문법외에 MVC, swift의 기본적인 필수 내용이 가득합니다. (무료강의)
 - **☆** [T아카데미](https://www.youtube.com/watch?v=VJivCns4TAI) : T아카데미 Swift 프로그래밍 강의입니다. Swift 프로그래밍 1강 Swift 소개와 개발 환경 ~ 20강 파운데이션 4, 네트워크 기본, 리소스 얻기, JSON 다루기까지 있습니다. 유투브 무료강의 입니다. 
