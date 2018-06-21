@@ -52,8 +52,8 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 - 2017 가을 세션 : https://iosdevkor.github.io/let_us_go_2017_fall_review/
 - 2017 겨울 : 훈훈한 모임이 있었죠.. (강남 모 닭집)
 - 2018 봄 세션 : https://iosdevkor.github.io/let_us_go_2018_spring_review/
-- 2018 여름 세션 : 7월 21일 토요일
-	- 6월 14일 오후 3시 모집공고 마감 : https://iosdevkor.github.io/let_us_go_2018_summer/
+- 2018 여름 세션 : 2018. 7. 21. (토) 오후 1시~6시
+	- 모집공고 마감(관련링크) : https://iosdevkor.github.io/let_us_go_2018_summer/
 	- [뒷풀이 신청](https://docs.google.com/forms/d/e/1FAIpQLSdqUpZFeRUYrHaaJ5ldn5fGYYXxEoHHhLbLklsEKvu27UpcpQ/viewform)
 
 ## letswift 
@@ -224,9 +224,9 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 
 - [Big-O와 Collection 타입에 대한 한국어 설명글](https://github.com/younatics/Collection-Data-Structures-Swift-KR) : 자료구조는 기본이죠. 면접 준비하실 때 도움이 되실것 같아서 추가했습니다.
 
-- [Korea iOS Seminar](https://github.com/yoonhg84/Korea-iOS-Seminar) : 깔끔하게 정리된 swift 한국어 강연 정보입니다.
+- [Korea iOS Seminar](https://github.com/yoonhg84/Korea-iOS-Seminar) : 깔끔하게 정리된 swift 한국어 강연 정보입니다. :)
 
-- iOS 커뮤니티 정보 
+- iOS 커뮤니티 정보 (함께하면 즐겁습니다.)
 	- 오픈된 대화방
 		- [카카오 iOS 오픈채팅방(iOS Developers KR)](https://open.kakao.com/o/gyLape) : 카카오 오픈 채팅방이고, 참여중인 사람들이 많습니다. 유익하지 않은? 수다도 주로 있지만.. 그만큼 편안하게 물어보고 사람들과 친해질 수있는 공간인 것 같습니다. 대화 매너만 잘 지키면, 소수인 우리 iOS 개발자들이 뭉치고 친해지고 도움도 받고 줄 수 있는 공간이 될 수 있지 않은가 싶습니다. 초보시절에도 좋은 정보를 얻을 수 있습니다. 
 		- [Slack swiftkorea 링크](http://slack.swiftkorea.org/) : 채널에 찾아가는 것이 조금 어렵습니다.^^;;; 갓 고수님들의 지나간 대화내용을 볼 수 있어요. 좋은 정보를 얻을 수있고 여쭤보면 답변도 잘 해주실 것 같은 느낌입니다. 
