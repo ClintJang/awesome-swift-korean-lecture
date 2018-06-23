@@ -104,7 +104,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 
 
 ## Swift 기본 활용
-- **☆** [2018년 3월 10일, Functional Programming 이 뭐하는 건가요?](https://www.youtube.com/watch?v=HZkqMiwT-5A&feature=youtu.be) : 함수형 프로그램이란? 아시나요? :)
+- **☆☆** [2018년 3월 10일, Functional Programming 이 뭐하는 건가요?](https://www.youtube.com/watch?v=HZkqMiwT-5A&feature=youtu.be) : 함수형 프로그램이란? 아시나요? :)
 
 - [2017년 6월 8일, Swift의 네임스페이스와 typealias](https://academy.realm.io/kr/posts/swift-namespace-typealias/) 
 
@@ -118,7 +118,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 
 - **☆** [2017년 11월 4일, Swift 4의 Codable 활용](https://www.youtube.com/watch?v=NO6wQabhCy8&feature=youtu.be)
 
-- [Objective-C에서 Swift로 - iOS Tech Talk](https://academy.realm.io/kr/posts/from-objective-c-to-swift-ios-techtalk/)
+- [2017년 2월 22일, Objective-C에서 Swift로 - iOS Tech Talk](https://academy.realm.io/kr/posts/from-objective-c-to-swift-ios-techtalk/)
 
 ## iOS 내부 구조 및 기본 Framework 활용
 - [2018년 3월 10일, The Sandbox Container Directory](https://www.youtube.com/watch?v=h0ROjqEEF50&feature=youtu.be)
@@ -151,7 +151,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 
 ## 개발경험
 - [2017년 2월 28일, 기획, 디자인 변경에 강한 카드뷰 만들기 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-make-cardview-ios-tech-talk/)
-- [Swift로 코인 트레이딩 하기](https://www.youtube.com/watch?v=QRIs7khkNXc&list=PLJ0BuvoGAkXtLlG8xQEmG18CuamDy5LG8&index=6&t=0s)
+- [2018년 3월 19일, Swift로 코인 트레이딩 하기](https://www.youtube.com/watch?v=QRIs7khkNXc&list=PLJ0BuvoGAkXtLlG8xQEmG18CuamDy5LG8&index=6&t=0s)
 
 ## 세션 투어
 - [2017년 6월 27일, try! Swift Tokyo 2017 후기](https://academy.realm.io/kr/posts/try-swift-tokyo-2017-review/)
@@ -173,7 +173,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 - [2016년 9월 11일, Swift 모바일데이터베이스 : Realm](https://academy.realm.io/kr/posts/realm-swift-mobile-database/)
 
 ## Tool?좋은 개발을 위한 도구? 활용
-- [Simulator Customizing & Testing](https://www.youtube.com/watch?v=4i2EBnmUMcs&feature=youtu.be)
+- [2017 12월 13일, Simulator Customizing & Testing](https://www.youtube.com/watch?v=4i2EBnmUMcs&feature=youtu.be)
 
 - [2017년 5월 11일, 지속적인 전달을 위한 자동화 도구, fastlane: 데모와 함께 알아보기](https://academy.realm.io/kr/posts/ios-fastlane-demos/)
 
@@ -190,7 +190,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
  RxSwift는 중급 이상이라 생각됩니다. 
  함수형 프로그래밍에 관심이 있다면, rxswift 의 세계에 관심가져야된다고 생각합니다.
 </pre>
-- **☆** [2017년 11월 4일, Functional Reactive Programming Paradigm](https://www.youtube.com/watch?v=cXi_CmZuBgg&feature=youtu.be) : 왜? rxswift를 해야되는 지, 기본이 되는 용어에 대해 좋은 설명을 해주십니다. 꼭 보셔요~ 
+- **☆☆** [2017년 11월 4일, Functional Reactive Programming Paradigm](https://www.youtube.com/watch?v=cXi_CmZuBgg&feature=youtu.be) : 왜? rxswift를 해야되는 지, 기본이 되는 용어에 대해 좋은 설명을 해주십니다. 꼭 보셔요~ 
 
 - [2017년 12월 20일, RxSwift 활용하기](https://www.youtube.com/watch?v=WN6s3xWZ3tw)
 
