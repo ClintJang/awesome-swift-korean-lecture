@@ -33,6 +33,11 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 	- [11강](https://www.youtube.com/watch?v=_O6vjEgWBKY), &nbsp; [12강](https://www.youtube.com/watch?v=5B3jh42Vrwo), &nbsp; [13강](https://www.youtube.com/watch?v=kolg2dim3d4), &nbsp; [14강](https://www.youtube.com/watch?v=p1U5iI_QxV0), &nbsp; [15강](https://www.youtube.com/watch?v=CcfFLAkz2Y8)
 	- [16강](https://www.youtube.com/watch?v=CcfFLAkz2Y8), &nbsp; [17강](https://www.youtube.com/watch?v=96i_TQPQDIk), &nbsp; [18강](https://www.youtube.com/watch?v=mOHUQZuFibQ), &nbsp; [19강](https://www.youtube.com/watch?v=I5vjgXYAJGY), &nbsp; [20강](https://www.youtube.com/watch?v=Z78_Z5j7YxM)
 
+- **☆** [하울의 코딩채널(IOS Library (Swift))](https://www.youtube.com/playlist?list=PLmdU__e_zPf-uiDtI84Gv9SxFicrbw4KV) : 유투브를 통해 iOS의 대표적인 라이브러리 사용에 사용하는 방법을 친절하게 설명해 주고 있습니다. 오픈 라이브러리들의 사용법을 실제 라이브 코딩을 하며 적용해나가고 있습니다. 라이브러리 사용에 대해 부담을 느끼고 계신다면, 하울님의 동영상 채널을 보면서 익혀보는 것도 좋을 것 같습니다.😀
+	- [하울의 코딩 채널 (base)](https://www.youtube.com/channel/UCScI4bsr-RaGdYSC2QAHWug) : 하울님 코딩 채널에 대한 전체적인 설명이 있습니다. 어떤 목적으로 만들었고, 어떻게 보면 좋은지 간략한 설명을 해주고 있습니다. 아래는 직접 링크 입니다.
+	- [#1 ObjectMapper](https://www.youtube.com/watch?v=HlbjxSeeUJk&list=PLmdU__e_zPf-uiDtI84Gv9SxFicrbw4KV&index=1), &nbsp; &nbsp; [#2 Alamofire](https://www.youtube.com/watch?v=80W2Sc7s3_4&index=2&list=PLmdU__e_zPf-uiDtI84Gv9SxFicrbw4KV), &nbsp; &nbsp; [#3 Kingfisher](https://www.youtube.com/watch?v=UFRbHEBiBAw&list=PLmdU__e_zPf-uiDtI84Gv9SxFicrbw4KV&index=3)
+	- [#4 Realm](https://www.youtube.com/watch?v=GtMIECi6Kwo&index=4&list=PLmdU__e_zPf-uiDtI84Gv9SxFicrbw4KV), &nbsp; &nbsp; [#5 DropDown](https://www.youtube.com/watch?v=VLrJnEzjNTw&list=PLmdU__e_zPf-uiDtI84Gv9SxFicrbw4KV&index=5), &nbsp; &nbsp; [#6 Toast](https://www.youtube.com/watch?v=NKZt95lJIwU&list=PLmdU__e_zPf-uiDtI84Gv9SxFicrbw4KV&index=6)
+	- [#7 Codable](https://www.youtube.com/watch?v=YRZif4Ot2gM&index=7&list=PLmdU__e_zPf-uiDtI84Gv9SxFicrbw4KV), &nbsp; &nbsp; [#8 Charts](https://www.youtube.com/watch?v=2A-TjQSrfPo&index=8&list=PLmdU__e_zPf-uiDtI84Gv9SxFicrbw4KV), &nbsp; &nbsp; [#9 IndicatorView](https://www.youtube.com/watch?v=8qsd0wOg7l0&index=9&list=PLmdU__e_zPf-uiDtI84Gv9SxFicrbw4KV)
 - [인프런(Swift)](https://www.inflearn.com/course/swift4-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-ios-%EA%B0%9C%EB%B0%9C/) : 기본 부터 설명이 되고 있습니다. (미리보기, 유료강의)
 
 - [박교수의 Swift 강좌](https://www.youtube.com/watch?v=vn4uVMTi-Qw) : 유튜브 강좌 링크입니다. swift 2.0 내용입니다. 1편을 링크 해두었습니다.
@@ -47,18 +52,22 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 </pre>
 
 ## Let us:Go! ([iOS Developer KR](https://github.com/iOSDevKor))
-- 2017 봄 세션 : https://iosdevkor.github.io/let_us_go_2017_spring_review/
-- 2017 여름 세션 : https://iosdevkor.github.io/let_us_go_2017_summer_review/
-- 2017 가을 세션 : https://iosdevkor.github.io/let_us_go_2017_fall_review/
-- 2017 겨울 : 훈훈한 모임이 있었죠.. (강남 모 닭집)
-- 2018 봄 세션 : https://iosdevkor.github.io/let_us_go_2018_spring_review/
-- 2018 여름 세션 : 2018. 7. 21. (토) 오후 1시~6시
-	- 모집공고 마감(관련링크) : https://iosdevkor.github.io/let_us_go_2018_summer/
-	- [뒷풀이 신청](https://docs.google.com/forms/d/e/1FAIpQLSdqUpZFeRUYrHaaJ5ldn5fGYYXxEoHHhLbLklsEKvu27UpcpQ/viewform)
+- 2018
+  - 2018 봄 세션 : https://iosdevkor.github.io/let_us_go_2018_spring_review/
+  - 2018 여름 세션 : 2018. 7. 21. (토) 오후 1시~6시
+      - 모집공고 마감(관련링크) : https://iosdevkor.github.io/let_us_go_2018_summer/
+      - [뒷풀이 신청](https://docs.google.com/forms/d/e/1FAIpQLSdqUpZFeRUYrHaaJ5ldn5fGYYXxEoHHhLbLklsEKvu27UpcpQ/viewform)
+- 2017
+  - 2017 봄 세션 : https://iosdevkor.github.io/let_us_go_2017_spring_review/
+  - 2017 여름 세션 : https://iosdevkor.github.io/let_us_go_2017_summer_review/
+  - 2017 가을 세션 : https://iosdevkor.github.io/let_us_go_2017_fall_review/
+  - 2017 겨울 : 훈훈한 모임이 있었죠.. (강남 모 닭집)
+
 
 ## letswift 
-- 2016 : http://letswift.kr/2016/
 - 2017 : http://letswift.kr/2017/
+- 2016 : http://letswift.kr/2016/
+
 
 ## meetup
 - 2017년 4월 28일 : https://swiftkorea.github.io/meetup/1#
