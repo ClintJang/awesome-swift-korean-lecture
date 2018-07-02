@@ -247,6 +247,9 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 
 - [Korea iOS Seminar](https://github.com/yoonhg84/Korea-iOS-Seminar) : 깔끔하게 정리된 swift 한국어 강연 정보입니다. :)
 
+- [누구나 쉽게 이해할 수 있는 Git입문](https://backlog.com/git-tutorial/kr/) : 형상관리 중에 git은 지금 github의 베이스가 되는 관리시스템입니다. 
+	> github, gitbucket 사이트에서 pull request, clone.. 등 의 기능을 보셨나요? 기본 git의 시스템 기능에 별도의 기능을 추가로 녹여넣은 서비스 사이트입니다. 사이트를 사용(이용)하기에 앞서서 git의 기본 적인 사용법은 알아야겠지요?
+
 - iOS 커뮤니티 정보 (함께하면 즐겁습니다.)
 	- 오픈된 대화방
 		- [카카오 iOS 오픈채팅방(iOS Developers KR)](https://open.kakao.com/o/gyLape) : 카카오 오픈 채팅방이고, 참여중인 사람들이 많습니다. 유익하지 않은? 수다도 주로 있지만.. 그만큼 편안하게 물어보고 사람들과 친해질 수있는 공간인 것 같습니다. 대화 매너만 잘 지키면, 소수인 우리 iOS 개발자들이 뭉치고 친해지고 도움도 받고 줄 수 있는 공간이 될 수 있지 않은가 싶습니다. 초보시절에도 좋은 정보를 얻을 수 있습니다. 
