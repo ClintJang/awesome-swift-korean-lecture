@@ -21,8 +21,20 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 <pre>
 처음하실 때, 아래 세션 중에 오토 레이아웃 관련 세션은 UI 구현하는 방법이라서 기본을 익히면서 들으시면 좋습니다.
 </pre>
-- **☆☆** [야곰님의 유튜브 프로그래밍 채널](https://m.youtube.com/channel/UCkwWWEv3C-3ToeO57r5LCHQ) : 꼭 들어보세요. 설명이 필요없죠? 감사합니다. 야곰님 :)
-	- **☆☆** [인프런(iOS 프로그래밍)](https://www.inflearn.com/course/ios-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/) : iOS 애플리케이션을 제작함에 있어 필요한 기본 지식과 테크닉을 전달하고, 방대한 분량의 iOS 관련 지식을 스스로 익힐수 있는 방향을 제시합니다. (2018년 6월 20일 신규 오픈)
+- [야곰님의 iOS개발](http://blog.yagom.net/) : swift 공부할 때에..  출/퇴근 시, 야곰님 유튜브 강의를 많이 반복해서 들었었습니다. 인프런에 새로운 강좌(앱 개발에서 끝까지)도 오픈해서 iOS 입문하시는 분들에게 많은 도움이 될 것 같습니다. 🐻
+	- **☆☆** [# 야곰님의 유튜브 프로그래밍 채널](https://m.youtube.com/channel/UCkwWWEv3C-3ToeO57r5LCHQ) : 꼭 들어보세요. 설명이 필요없죠? 감사합니다. 야곰님 :) 👍
+		- [강좌소개](https://www.youtube.com/watch?v=2n-fSlW-jts), &nbsp; &nbsp;  [Xcode - Interface builder 팁과 유의사항](https://www.youtube.com/watch?v=KppJZS43O4Y) 
+		- [고차함수](https://www.youtube.com/watch?v=HmabXrK2tRo), &nbsp; &nbsp; [오류처리](https://www.youtube.com/watch?v=l0fGtNnNsJg), &nbsp; &nbsp; [익스텐션](https://www.youtube.com/watch?v=VRkCPbN_XPs)
+		- [프로토콜](https://www.youtube.com/watch?v=cjCgJPo3VM4), &nbsp; &nbsp; [타입케스팅](https://www.youtube.com/watch?v=XGgaCHNH3AE), &nbsp; &nbsp; [assert와 guard](https://www.youtube.com/watch?v=heEKIxLs5Sc)
+		- [옵셔널 체이닝과 nil 병합 연산자](https://www.youtube.com/watch?v=UANvklNnDeg), &nbsp; &nbsp; [인스턴스의 생성과 소멸](https://www.youtube.com/watch?v=E2Yy3gp9_Nk)
+		- [상속](https://www.youtube.com/watch?v=T60mxyxxdys), &nbsp; &nbsp; [프로퍼티 감시자](https://www.youtube.com/watch?v=X7oreJGRuaU), &nbsp; &nbsp; [프로퍼티](https://www.youtube.com/watch?v=aVGgy29-gOY)
+		- [클로저 기본](https://www.youtube.com/watch?v=Ix9gGuupjBU), &nbsp; &nbsp; [값 타입과 참조 타입](https://www.youtube.com/watch?v=itMj3tVyrWo), &nbsp; &nbsp; [클로저 고급](https://www.youtube.com/watch?v=WvqYKP6VgNQ)
+		- [열거형](https://www.youtube.com/watch?v=uKJiaYYNJN4), &nbsp; &nbsp; [클래스](https://www.youtube.com/watch?v=mV3wZ0tM_bk), &nbsp; &nbsp; [구조체](https://www.youtube.com/watch?v=0ZF5lhpEcC8)
+		- [옵셔널 값 추출](https://www.youtube.com/watch?v=YBofMKyfDaQ), &nbsp; &nbsp; [옵셔널](https://www.youtube.com/watch?v=RxScvfe1dyU), &nbsp; &nbsp; [반복문](https://www.youtube.com/watch?v=9QEiAzui0-s), &nbsp; &nbsp; [함수 고급](https://www.youtube.com/watch?v=0sMRDBv3HtU)
+		- [조건문](https://www.youtube.com/watch?v=TmO3cTiJDIc), &nbsp; &nbsp; [함수 기본](https://www.youtube.com/watch?v=TkM2Xcnt2Xk), &nbsp; &nbsp; [컬렉션 타입 (Array, Dictionary, Set)](https://www.youtube.com/watch?v=FWFbZGoQPUI)
+		- [Any, AnyObject, nil](https://www.youtube.com/watch?v=1QV4-B5ibd4), &nbsp; &nbsp; [기본 데이터 타입](https://www.youtube.com/watch?v=3qu7gpzE9IE), &nbsp; &nbsp; [상수와 변수](https://www.youtube.com/watch?v=umgxytoUdsE)
+		- [이름짓기, 콘솔로그, 문자열 보간법](https://www.youtube.com/watch?v=8Xe_fr_WRgc), &nbsp; &nbsp; [CocoaPods 설치](https://www.youtube.com/watch?v=sqcfdBzJYKQ)
+	- **☆☆** [인프런(iOS 프로그래밍)](https://www.inflearn.com/course/ios-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/) : 😍 iOS 애플리케이션을 제작함에 있어 필요한 기본 지식과 테크닉을 전달하고, 방대한 분량의 iOS 관련 지식을 스스로 익힐수 있는 방향을 제시합니다. (2018년 6월 20일 신규 오픈)
 	- [인프런(스위프트 기본 문법)]( https://www.inflearn.com/course/스위프트-기본-문법/) : swift 기본 문법을 익히는 강의 입니다. 
 	- [구름edu(야곰님)](https://edu.goorm.io/lecture/1141/%EC%95%BC%EA%B3%B0%EC%9D%98-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) : 신청해보면😭 추후에 업데이트 하겠습니다.
 - **☆** [iOS Swift입문 - programmers.co.kr](https://programmers.co.kr/learn/courses/4) : Swift의 기본부터 iOS 앱 개발까지 배울 수 있습니다. (무료강의로 알고 있습니다.)
