@@ -21,7 +21,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 <pre>
 처음하실 때, 아래 세션 중에 오토 레이아웃 관련 세션은 UI 구현하는 방법이라서 기본을 익히면서 들으시면 좋습니다.
 </pre>
-- [야곰님의 iOS개발](http://blog.yagom.net/) : swift 공부할 때에..  출/퇴근 시, 야곰님 유튜브 강의를 많이 반복해서 들었었습니다. 인프런에 새로운 강좌(앱 개발에서 끝까지)도 오픈해서 iOS 입문하시는 분들에게 많은 도움이 될 것 같습니다. 🐻
+- [야곰님의 iOS개발(블로그)](http://blog.yagom.net/) : swift 공부할 때에..  출/퇴근 시, 야곰님 유튜브 강의를 많이 반복해서 들었었습니다. 인프런에 새로운 강좌(앱 개발에서 끝까지)도 오픈해서 iOS 입문하시는 분들에게 많은 도움이 될 것 같습니다. 🐻
 	- **☆☆** [# 야곰님의 유튜브 프로그래밍 채널](https://m.youtube.com/channel/UCkwWWEv3C-3ToeO57r5LCHQ) : 꼭 들어보세요. 설명이 필요없죠? 감사합니다. 야곰님 :) 👍
 		- [강좌소개](https://www.youtube.com/watch?v=2n-fSlW-jts), &nbsp; &nbsp;  [Xcode - Interface builder 팁과 유의사항](https://www.youtube.com/watch?v=KppJZS43O4Y) 
 		- [고차함수](https://www.youtube.com/watch?v=HmabXrK2tRo), &nbsp; &nbsp; [오류처리](https://www.youtube.com/watch?v=l0fGtNnNsJg), &nbsp; &nbsp; [익스텐션](https://www.youtube.com/watch?v=VRkCPbN_XPs)
@@ -68,7 +68,6 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
   - 2018 봄 세션 : https://iosdevkor.github.io/let_us_go_2018_spring_review/
   - 2018 여름 세션 : 2018. 7. 21. (토) 오후 1시~6시
       - 모집공고 마감(관련링크) : https://iosdevkor.github.io/let_us_go_2018_summer/
-      - [뒷풀이 신청](https://docs.google.com/forms/d/e/1FAIpQLSdqUpZFeRUYrHaaJ5ldn5fGYYXxEoHHhLbLklsEKvu27UpcpQ/viewform)
 - 2017
   - 2017 봄 세션 : https://iosdevkor.github.io/let_us_go_2017_spring_review/
   - 2017 여름 세션 : https://iosdevkor.github.io/let_us_go_2017_summer_review/
@@ -239,7 +238,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 
 - [네이버 웹툰::코포자(코딩포기자)들의 다시 개발도전](http://comic.naver.com/challenge/detail.nhn?titleId=707782) : 웹툰이라 조금 생뚱맞을 수 있지만, 개발도전을 그린 내용입니다. 약간은 간접 경험을 할 수 있지 않을까요?;; 개발을 소재로 한 내용은 찾아보기 참 힘들어요..^^. 작가님을 응원합니다.
 
-- [Bool 변수 이름 제대로 짓기 위한 최소한의 영어 문법](https://soojin.ro/blog/naming-boolean-variables) : 변수명 정하기는 항상 어려워요.. 링크 내용을 읽으면서 한번 더 생각하게 되서 좋았습니다.
+- **☆** [Bool 변수 이름 제대로 짓기 위한 최소한의 영어 문법](https://soojin.ro/blog/naming-boolean-variables) : 변수명 정하기는 항상 어려워요.. 링크 내용을 읽으면서 한번 더 생각하게 되서 좋았습니다.
 
 - [Cocoapods를 활용해 봅시다.](https://github.com/ClintJang/cocoapods-tips) : 멋진 개발자님들께서 개발하신 라이브러리를 손쉽게 이용하게 해줍니다. 모르신다면 알아보세요. 안드로이드라면.. Maven과 Gradle과 같이 생각하시면 됩니다. 사용하면 편해집니다.
 
@@ -250,7 +249,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 - [누구나 쉽게 이해할 수 있는 Git입문](https://backlog.com/git-tutorial/kr/) : 형상관리 중에 git은 지금 github의 베이스가 되는 관리시스템입니다. 
 	> github, gitbucket 사이트에서 pull request, clone.. 등 의 기능을 보셨나요? 기본 git의 시스템 기능에 별도의 기능을 추가로 녹여넣은 서비스 사이트입니다. 사이트를 사용(이용)하기에 앞서서 git의 기본 적인 사용법은 알아야겠지요?
 
-- iOS 커뮤니티 정보 (함께하면 즐겁습니다.)
+- iOS 커뮤니티 정보 (함께하면 개발이 즐겁습니다.)
 	- 오픈된 대화방
 		- [카카오 iOS 오픈채팅방(iOS Developers KR)](https://open.kakao.com/o/gyLape) : 카카오 오픈 채팅방이고, 참여중인 사람들이 많습니다. 유익하지 않은? 수다도 주로 있지만.. 그만큼 편안하게 물어보고 사람들과 친해질 수있는 공간인 것 같습니다. 대화 매너만 잘 지키면, 소수인 우리 iOS 개발자들이 뭉치고 친해지고 도움도 받고 줄 수 있는 공간이 될 수 있지 않은가 싶습니다. 초보시절에도 좋은 정보를 얻을 수 있습니다. 
 		- [Slack swiftkorea 링크](http://slack.swiftkorea.org/) : 채널에 찾아가는 것이 조금 어렵습니다.^^;;; 갓 고수님들의 지나간 대화내용을 볼 수 있어요. 좋은 정보를 얻을 수있고 여쭤보면 답변도 잘 해주실 것 같은 느낌입니다. 
