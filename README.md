@@ -66,8 +66,8 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 ## Let us:Go! ([iOS Developer KR](https://github.com/iOSDevKor))
 - 2018
   - 2018 봄 세션 : https://iosdevkor.github.io/let_us_go_2018_spring_review/
-  - 2018 여름 세션 : 2018. 7. 21. (토) 오후 1시~6시
-      - 모집공고 마감(관련링크) : https://iosdevkor.github.io/let_us_go_2018_summer/
+  - 2018 여름 세션 : https://iosdevkor.github.io/let_us_go_2018_summer/
+      - review 링크는 아직 준비되지 않았습니다.
 - 2017
   - 2017 봄 세션 : https://iosdevkor.github.io/let_us_go_2017_spring_review/
   - 2017 여름 세션 : https://iosdevkor.github.io/let_us_go_2017_summer_review/
@@ -247,7 +247,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 - [Korea iOS Seminar](https://github.com/yoonhg84/Korea-iOS-Seminar) : 깔끔하게 정리된 swift 한국어 강연 정보입니다. :)
 
 - [누구나 쉽게 이해할 수 있는 Git입문](https://backlog.com/git-tutorial/kr/) : 형상관리 중에 git은 지금 github의 베이스가 되는 관리시스템입니다. 
-	> github, gitbucket 사이트에서 pull request, clone.. 등 의 기능을 보셨나요? 기본 git의 시스템 기능에 별도의 기능을 추가로 녹여넣은 서비스 사이트입니다. 사이트를 사용(이용)하기에 앞서서 git의 기본 적인 사용법은 알아야겠지요?
+	> github, gitbucket 사이트에서 pull request, wiki, followers, following.. 등 의 기능을 보셨나요? 기본 git의 시스템 기능에 별도의 기능을 추가로 녹여넣은 서비스 사이트입니다. 사이트를 사용(이용)하기에 앞서서 git의 기본 적인 사용법은 알아야겠지요?
 
 - iOS 커뮤니티 정보 (함께하면 개발이 즐겁습니다.)
 	- 오픈된 대화방
