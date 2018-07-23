@@ -65,14 +65,18 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 
 ## Let us:Go! ([iOS Developer KR](https://github.com/iOSDevKor))
 - 2018
-  - 2018 봄 세션 : https://iosdevkor.github.io/let_us_go_2018_spring_review/
-  - 2018 여름 세션 : https://iosdevkor.github.io/let_us_go_2018_summer/
-      - review 링크는 아직 준비되지 않았습니다.
+  - 봄 세션 : https://iosdevkor.github.io/let_us_go_2018_spring_review/
+  - 여름 세션 : https://iosdevkor.github.io/let_us_go_2018_summer/
+      - Zedd님 후기 : http://zeddios.tistory.com/m/566?category=707488
+      - 곰튀김님 세션 : 코드응집도 높이기
+      	- 문서 : https://www.slideshare.net/ChiwonSong/20180721-code-defragment-106434267
+	- 소스 : https://github.com/iamchiwon/CodeCohensive
+      - 공식 review 링크는 아직 준비되지 않았습니다. (업데이트 확인되면 바로 수정하겠습니다.)
 - 2017
-  - 2017 봄 세션 : https://iosdevkor.github.io/let_us_go_2017_spring_review/
-  - 2017 여름 세션 : https://iosdevkor.github.io/let_us_go_2017_summer_review/
-  - 2017 가을 세션 : https://iosdevkor.github.io/let_us_go_2017_fall_review/
-  - 2017 겨울 : 훈훈한 모임이 있었죠.. (강남 모 닭집)
+  - 봄 세션 : https://iosdevkor.github.io/let_us_go_2017_spring_review/
+  - 여름 세션 : https://iosdevkor.github.io/let_us_go_2017_summer_review/
+  - 가을 세션 : https://iosdevkor.github.io/let_us_go_2017_fall_review/
+  - 겨울 : 훈훈한 모임이 있었죠.. (강남 모 닭집)
 
 
 ## letswift 
