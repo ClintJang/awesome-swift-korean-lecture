@@ -152,7 +152,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 - [2017년 2월 22일, Objective-C에서 Swift로 - iOS Tech Talk](https://academy.realm.io/kr/posts/from-objective-c-to-swift-ios-techtalk/)
 
 ## Swift 버전 변화
-- [2017년 2월 22일, What's New Swift 4](https://www.youtube.com/watch?v=uIqP4SmSFww&feature=youtu.be)
+- [2017년 12월 20일, What's New Swift 4](https://www.youtube.com/watch?v=uIqP4SmSFww&feature=youtu.be)
 
 
 ## iOS 내부 구조 및 기본 Framework 활용
@@ -218,7 +218,10 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 
 
 ## 서버 사이드
+- [2017년 12월 20일, Server-less vs. Server-side](https://www.youtube.com/watch?v=3eneYtXdmR4&feature=youtu.be)
+
 - [2016년 6월 14일, Swift 서버 사이드 프레임워크 비교 분석](https://academy.realm.io/kr/posts/swift-server-side-framework/)
+
 
 ## 딥러닝 
 - [2017년 12월 13일, iOS와 케라스의 만남](https://www.youtube.com/watch?v=V4uRLSz9Ou0&feature=youtu.be)
