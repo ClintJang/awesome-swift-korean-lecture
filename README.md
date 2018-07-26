@@ -133,7 +133,9 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 ## Swift 기본 활용
 - **☆☆** [2018년 3월 10일, Functional Programming 이 뭐하는 건가요?](https://www.youtube.com/watch?v=HZkqMiwT-5A&feature=youtu.be) : 함수형 프로그램이란? 아시나요? :)
 
-- [2017년 12월 20일, Swift, Kotlin과 모던 언어의 특징](https://www.youtube.com/watch?v=1wmn97Csi9g&feature=youtu.be) 
+- [2017년 12월 20일, Swift, Kotlin과 모던 언어의 특징](https://www.youtube.com/watch?v=1wmn97Csi9g&feature=youtu.be) : Swift vs Kotlin
+
+- [2017년 12월 20일, Concurrency in Swift](https://www.youtube.com/watch?v=0yj6ftn1Nzw&feature=youtu.be) 
 
 - [2017년 6월 8일, Swift의 네임스페이스와 typealias](https://academy.realm.io/kr/posts/swift-namespace-typealias/) 
 
