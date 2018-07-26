@@ -234,6 +234,8 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 </pre>
 - **☆☆** [2017년 11월 4일, Functional Reactive Programming Paradigm](https://www.youtube.com/watch?v=cXi_CmZuBgg&feature=youtu.be) : 왜? rxswift를 해야되는 지, 기본이 되는 용어에 대해 좋은 설명을 해주십니다. 꼭 보셔요~ 
 
+- [2017년 12월 20일, ReactorKit으로 단방향 반응형 앱 만들기](https://www.youtube.com/watch?v=ASwBnMJNUK4&feature=youtu.be)
+
 - [2017년 12월 20일, RxSwift 활용하기](https://www.youtube.com/watch?v=WN6s3xWZ3tw)
 
 - [2017년 7월 4일, RxSwift로 반응형 프로그래밍하기](https://academy.realm.io/kr/posts/reactive-programming-with-rxswift/)
