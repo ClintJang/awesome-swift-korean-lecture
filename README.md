@@ -195,7 +195,9 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 
 - [2016년 9월 11일, Swift 모바일데이터베이스 : Realm](https://academy.realm.io/kr/posts/realm-swift-mobile-database/)
 
-## Tool?좋은 개발을 위한 도구? 활용
+## Tool?좋은 개발을 위한 도구? 개발환경? 등의 활용
+- [2017 12월 20일, 토스의 개발/배포 환경](https://www.youtube.com/watch?v=338FdLzGhhY&feature=youtu.be)
+
 - [2017 12월 13일, Simulator Customizing & Testing](https://www.youtube.com/watch?v=4i2EBnmUMcs&feature=youtu.be)
 
 - [2017년 5월 11일, 지속적인 전달을 위한 자동화 도구, fastlane: 데모와 함께 알아보기](https://academy.realm.io/kr/posts/ios-fastlane-demos/)
