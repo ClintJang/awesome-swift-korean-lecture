@@ -117,6 +117,10 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 ## iOS App 배포하기
 - [2018년 3월 10일, 초보를 위한 iOS 앱 배포하기](https://www.youtube.com/watch?v=TPmHrv6eMZ8&feature=youtu.be)
 
+- [2017년 12월 20일, 토스의 개발/배포 환경](https://www.youtube.com/watch?v=338FdLzGhhY&feature=youtu.be)
+
+- [2017년 5월 11일, 지속적인 전달을 위한 자동화 도구, fastlane: 데모와 함께 알아보기](https://academy.realm.io/kr/posts/ios-fastlane-demos/)
+
 ## iOS 활용 및 팁
 - [2018년 3월 10일, Haptic Feedback으로 시작하는 iOS 개발의 이모저모](https://www.youtube.com/watch?v=wouM0cQKx_w&feature=youtu.be)
 
@@ -128,6 +132,8 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 
 ## Swift 기본 활용
 - **☆☆** [2018년 3월 10일, Functional Programming 이 뭐하는 건가요?](https://www.youtube.com/watch?v=HZkqMiwT-5A&feature=youtu.be) : 함수형 프로그램이란? 아시나요? :)
+
+- [2017년 12월 20일, Swift, Kotlin과 모던 언어의 특징](https://www.youtube.com/watch?v=1wmn97Csi9g&feature=youtu.be) 
 
 - [2017년 6월 8일, Swift의 네임스페이스와 typealias](https://academy.realm.io/kr/posts/swift-namespace-typealias/) 
 
@@ -195,12 +201,9 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 
 - [2016년 9월 11일, Swift 모바일데이터베이스 : Realm](https://academy.realm.io/kr/posts/realm-swift-mobile-database/)
 
-## Tool?좋은 개발을 위한 도구? 개발환경? 등의 활용
-- [2017 12월 20일, 토스의 개발/배포 환경](https://www.youtube.com/watch?v=338FdLzGhhY&feature=youtu.be)
+## Tool?좋은 개발을 위한 도구의 활용
 
-- [2017 12월 13일, Simulator Customizing & Testing](https://www.youtube.com/watch?v=4i2EBnmUMcs&feature=youtu.be)
-
-- [2017년 5월 11일, 지속적인 전달을 위한 자동화 도구, fastlane: 데모와 함께 알아보기](https://academy.realm.io/kr/posts/ios-fastlane-demos/)
+- [2017년 12월 13일, Simulator Customizing & Testing](https://www.youtube.com/watch?v=4i2EBnmUMcs&feature=youtu.be)
 
 
 ## 서버 사이드
