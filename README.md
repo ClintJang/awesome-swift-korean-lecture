@@ -1,7 +1,7 @@
 # Awesome Swift Korean Lecture 💻
 [![License](http://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://github.com/clintjang/awesome-swift-korean-lecture/blob/master/LICENSE) [![Swift 4](https://img.shields.io/badge/Swift-Lecture-orange.svg?style=flat)](https://swift.org) 
 
-<pre>
+```
 iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다. 
 입문 용, 좋은 세션, 카테고리별, 그리고 기타 링크 등을 모았습니다.
 카테고리에는 사전 설정된 순서없이 구성되어있습니다.
@@ -11,16 +11,19 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 
 ☆ 표시는 지극히 개인적인 생각입니다. 초기에 보시기 좋은 내용이거나 중요하다 생각되는 것을 표시했습니다.
 목표 : 하루에 한개씩 볼 수 있도록 노력합시다.
-</pre>
+```
 
 # 개요
 Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 정보 링크 모음
 > (Awesome Swift Korean lecture information)
 
 # 입문자용
-<pre>
-처음하실 때, 아래 세션 중에 오토 레이아웃 관련 세션은 UI 구현하는 방법이라서 기본을 익히면서 들으시면 좋습니다.
-</pre>
+```
+처음하실 때, 
+UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션을 들어보시면 좋고,
+저는 swift언어를 공부할 때.. 저는 야곰님 동영상, 인프런(스탠퍼드)를 보면서 시작했었습니다.☺️
+```
+
 - [야곰님의 iOS개발(블로그)](http://blog.yagom.net/) : swift 공부할 때에..  출/퇴근 시, 야곰님 유튜브 강의를 많이 반복해서 들었었습니다. 인프런에 새로운 강좌(앱 개발에서 끝까지)도 오픈해서 iOS 입문하시는 분들에게 많은 도움이 될 것 같습니다. 🐻
 	- **☆☆** [# 야곰님의 유튜브 프로그래밍 채널](https://m.youtube.com/channel/UCkwWWEv3C-3ToeO57r5LCHQ) : 꼭 들어보세요. 설명이 필요없죠? 감사합니다. 야곰님 :) 👍
 		- [강좌소개](https://www.youtube.com/watch?v=2n-fSlW-jts), &nbsp; &nbsp;  [Xcode - Interface builder 팁과 유의사항](https://www.youtube.com/watch?v=KppJZS43O4Y) 
@@ -250,9 +253,12 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 * * *
 
 # 기타 링크
-<pre>
+```
 동영상은 아니지만, 동영상 처럼 편하게 입문 시점에서 읽어두면 좋은 링크라고 생각되는 것을 모아보겠습니다.
-</pre>
+```
+
+- **☆** [The Swift Language Guide (한국어)
+](https://jusung.gitbook.io/the-swift-language-guide/) : 정리를 정말 잘해주신 것 같습니다. 👍
 - **☆** [개발자 회고 모음](https://github.com/oaksong/developers-retrospective) : 개발 년차가 별로 되지 않으시는 분들은 알찬 회고 내용을 읽으면 개발 세계에 대해 좀 더 알아가는 좋은 지름길이 되지 않을 까 싶습니다.
 
 - **☆☆** [스위프트 API 가이드라인](https://gist.github.com/godrm/d07ae33973bf71c5324058406dfe42dd) : 스위프트 문법을 사용해서 코딩을 할 때, 어떻게 네이밍을 하면 바른 것 인지, apple에서 생각하는 가이드를 제시하였습니다. 영문 문서를 보기 쉽게 번역해 주셨네요. 한번 꼭 읽어봅시다.
