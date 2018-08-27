@@ -69,11 +69,9 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## Let us:Go! ([iOS Developer KR](https://github.com/iOSDevKor))
 - 2018
   - 봄 세션 : https://iosdevkor.github.io/let_us_go_2018_spring_review/
-  - 여름 세션 : https://iosdevkor.github.io/let_us_go_2018_summer/
+  - 여름 세션 : https://iosdevkor.github.io/let_us_go_2018_summer_review/
       - [2018 Summer let us: Go!](http://zeddios.tistory.com/m/566?category=707488) : 블로거 Zedd님 후기
-      - 곰튀김님 세션 : 코드응집도 높이기
-      	- [문서 링크](https://www.slideshare.net/ChiwonSong/20180721-code-defragment-106434267), &nbsp;&nbsp;&nbsp; [소스 링크](https://github.com/iamchiwon/CodeCohensive)
-      - 공식 review 링크는 아직 준비되지 않았습니다. (업데이트 확인되면 바로 수정)
+  - 가을 세션 : .. 아직 😅
 - 2017
   - 봄 세션 : https://iosdevkor.github.io/let_us_go_2017_spring_review/
   - 여름 세션 : https://iosdevkor.github.io/let_us_go_2017_summer_review/
