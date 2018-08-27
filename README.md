@@ -69,7 +69,10 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## Let us:Go! ([iOS Developer KR](https://github.com/iOSDevKor))
 - 2018
   - 봄 세션 : https://iosdevkor.github.io/let_us_go_2018_spring_review/
-  - 여름 세션 : 🆕 https://iosdevkor.github.io/let_us_go_2018_summer_review/
+  - 여름 세션 : https://iosdevkor.github.io/let_us_go_2018_summer/
+  		- 곰튀김님 세션 : 코드응집도 높이기
+      	- [문서 링크](https://www.slideshare.net/ChiwonSong/20180721-code-defragment-106434267), &nbsp;&nbsp;&nbsp; [소스 링크](https://github.com/iamchiwon/CodeCohensive)
+      - 공식 review 링크는 아직 공식적으로 준비되지 않았습니다. (업데이트 확인되면 바로 수정)
       - [2018 Summer let us: Go!](http://zeddios.tistory.com/m/566?category=707488) : 블로거 Zedd님 후기
   - 가을 세션 : .. 아직 😅
 - 2017
@@ -177,7 +180,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 11월 4일, ReSwift로 리액티브 프로그래밍 구현하기](https://www.youtube.com/watch?v=H0WPEAnC5YQ&feature=youtu.be) : swift로 단방향 데이터 흐름 아키텍처의 Redux와 유사하게 구현합니다.
 
 ## TDD
-- **☆** 🆕 [2018년 7월 21일, iOS TDD 실무에 적용하기](https://www.youtube.com/watch?v=wDo8656evW8&feature=player_embedded) : 멋진 말씀..
+- **☆** [2018년 7월 21일, iOS TDD 실무에 적용하기](https://www.youtube.com/watch?v=wDo8656evW8&feature=player_embedded) : 멋진 말씀..
 - **☆** [2017년 11월 4일, Test Driven Development](https://www.youtube.com/watch?v=eX_y33jHSHs&feature=youtu.be) : TDD를 하시나요?
 
 - [2017년 3월 15일, iOS에서 TDD(Test-Driven Development)하기](https://academy.realm.io/kr/posts/ios-tdd-test-driven-development/)
@@ -192,14 +195,14 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 12월 20일, Metal 기반 특별한 UI/UX 제공하기](https://www.youtube.com/watch?v=mB9d5RDNryw&feature=youtu.be)
 
 ## WWDC & Apple
-- 🆕 [2018년 7월 21일, 미리보는 Marzipan](https://www.youtube.com/watch?v=egZ_kPa7MzE&feature=youtu.be)
+- [2018년 7월 21일, 미리보는 Marzipan](https://www.youtube.com/watch?v=egZ_kPa7MzE&feature=youtu.be)
 
 - [2017년 8월 14일, WWDC 2017 톺아보기](https://academy.realm.io/kr/posts/wwdc-2017-review/)
 
 - [2017년 3월 16일, 2017년 애플 생태계의 변화](https://academy.realm.io/kr/posts/apple-trend-2017/)
 
 ## 라이브러리
-- 🆕 [2018년 7월 21일, Texture Reactive wrapper 만들고 응용하기](https://www.youtube.com/watch?v=cnW2B019_2w&feature=player_embedded)
+- [2018년 7월 21일, Texture Reactive wrapper 만들고 응용하기](https://www.youtube.com/watch?v=cnW2B019_2w&feature=player_embedded)
 
 ## 개발경험
 - [2017년 2월 28일, 기획, 디자인 변경에 강한 카드뷰 만들기 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-make-cardview-ios-tech-talk/)
