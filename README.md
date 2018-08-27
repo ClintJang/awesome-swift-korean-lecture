@@ -192,6 +192,13 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## UI/UX
 - [2017년 12월 20일, Metal 기반 특별한 UI/UX 제공하기](https://www.youtube.com/watch?v=mB9d5RDNryw&feature=youtu.be)
 
+## WWDC & Apple
+- [2018년 7월 21일, 미리보는 Marzipan](https://www.youtube.com/watch?v=egZ_kPa7MzE&feature=youtu.be)
+
+- [2017년 8월 14일, WWDC 2017 톺아보기](https://academy.realm.io/kr/posts/wwdc-2017-review/)
+
+- [2017년 3월 16일, 2017년 애플 생태계의 변화](https://academy.realm.io/kr/posts/apple-trend-2017/)
+
 ## 개발경험
 - [2017년 2월 28일, 기획, 디자인 변경에 강한 카드뷰 만들기 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-make-cardview-ios-tech-talk/)
 - [2018년 3월 19일, Swift로 코인 트레이딩 하기](https://www.youtube.com/watch?v=QRIs7khkNXc&list=PLJ0BuvoGAkXtLlG8xQEmG18CuamDy5LG8&index=6&t=0s)
@@ -199,10 +206,6 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## 세션 투어
 - [2017년 6월 27일, try! Swift Tokyo 2017 후기](https://academy.realm.io/kr/posts/try-swift-tokyo-2017-review/)
 
-## WWDC & Apple
-- [2017년 8월 14일, WWDC 2017 톺아보기](https://academy.realm.io/kr/posts/wwdc-2017-review/)
-
-- [2017년 3월 16일, 2017년 애플 생태계의 변화](https://academy.realm.io/kr/posts/apple-trend-2017/)
 
 ## Realm
 - [2017년 4월 13일, 프알못의 Realm 사용기 + 라이브 코딩 데모](https://academy.realm.io/kr/posts/realm-swift-live-coding-beginner/)
