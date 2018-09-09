@@ -49,7 +49,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 	- [Tool?좋은 개발을 위한 도구의 활용](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#tool%EC%A2%8B%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%8F%84%EA%B5%AC%EC%9D%98-%ED%99%9C%EC%9A%A9)
 	- [서버 사이드](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EC%84%9C%EB%B2%84-%EC%82%AC%EC%9D%B4%EB%93%9C)
 	- [딥러닝](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EB%94%A5%EB%9F%AC%EB%8B%9D)
-	- [RxSwift](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#-rxswift]
+	- [RxSwift](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#-rxswift)
 
 - [기타링크](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EA%B8%B0%ED%83%80-%EB%A7%81%ED%81%AC)
 	
@@ -96,6 +96,13 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 - [부스트코스 iOS Developer 과정](http://www.edwith.org/boostcourse-ios) : 주 10시간 학습 기준 총 6개월, 셀프 스터디 방식 같으며 과제 리뷰 시스템 유료가 될 것 같습니다. 리뷰도 받고 수료 후 경력에 추가할 수도 있는 방법인 것같습니다.
 
+<br />
+
+[Top으로 가기](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EB%AA%A9%EC%B0%A8)
+
+<br />
+<br />
+
 # 좋은 세션
 <pre>
 피가 되고 살이되는 세션들입니다. 반복해서 들으시면 좋습니다.
@@ -134,6 +141,13 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
  Realm 아카데미는 항상 감사합니다.
 </pre>
 - [https://academy.realm.io/kr/section/apple/](https://academy.realm.io/kr/section/apple/) : Realm 아카데미 Apple(iOS) 탭, Apple 세션들이 다양하게 있습니다.
+
+<br />
+
+[Top으로 가기](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EB%AA%A9%EC%B0%A8)
+
+<br />
+<br />
 
 ---------------------------------------
 
@@ -295,6 +309,13 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 - [2016년 7월 14일, RxSwift 시작하기](https://academy.realm.io/kr/posts/letswift-rxswift/)
 
+<br />
+
+[Top으로 가기](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EB%AA%A9%EC%B0%A8)
+
+<br />
+<br />
+
 
 * * *
 
@@ -341,6 +362,17 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 		- [스위프트 한국 개발자 그룹(페이스북)](https://www.facebook.com/groups/swiftkor/) : 좋은 정보를 얻을 수 있어서 제가 아침마다 확인하는 개발자 커뮤니티 그룹방입니다. 훌륭한 분들이 함께하는 그룹방입니다. 
 		- [맥부기(네이버 카페)](https://cafe.naver.com/mcbugi) : 2008.8.22.에 만들어진 네이버 까페입니다. 한때 5만명이 넘던 회원이 있던 시절이 살짝 기억이 나는 것 같습니다. 오늘 들어가보니 1만 명이 조금 넘네요. 그렇치만 여전히 최신의 글도 있고 댓글도 잘 달아주시는 것 같습니다. 처음이시라면 가입해서 정보를 얻으셔도 좋을 것 같고, 과거에 가입하셨다면.. 옛날 글을 한번 찾아보셔요, 과거의 자신을 돌아보는 시간을 가질 수 있어서 좋을 것 같습니다. 
 
+<br />
+
+[Top으로 가기](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EB%AA%A9%EC%B0%A8)
+
+<br />
+<br />
+
 # Contributors
 - [clintjang](https://github.com/clintjang)
 - [oaksong](https://github.com/oaksong)
+
+
+<br /><br />즐거운 하루 되세요 🙇‍
+<br />
