@@ -352,6 +352,13 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 - [누구나 쉽게 이해할 수 있는 Git입문](https://backlog.com/git-tutorial/kr/) : 형상관리 중에 git은 지금 github의 베이스가 되는 관리시스템입니다. 
 	> github, gitbucket 사이트에서 pull request, wiki, followers, following.. 등 의 기능을 보셨나요? 기본 git의 시스템 기능에 별도의 기능을 추가로 녹여넣은 서비스 사이트입니다. 사이트를 사용(이용)하기에 앞서서 git의 기본 적인 사용법은 알아야겠지요?
+	
+	- 브런치 관리 (상황에 따라 당연히 다르지만, 참고가 되실것입니다.)
+		- [nvie.com의 A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) : 다들 브런치 고민할때 한번은 보셨을 것 입니다. 최고!👍
+		- [위 칼럼의 한국어 버전](https://backlog.com/git-tutorial/kr/stepup/stepup1_5.html) : 역시 한국어!
+	- 커밋 메시지 작성법 (Commit Convention, 정답은 없죠!)
+		- [Git commit message convention](https://ckeditor.com/docs/ckeditor5/latest/framework/guides/contributing/git-commit-message-convention.html) : 좋다고 생각되는 링크입니다.
+		- [Git 커밋 메시지 작성법](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
 
 - iOS 커뮤니티 정보 (함께하면 개발이 즐겁습니다.)
 	- 오픈된 대화방
