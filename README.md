@@ -324,8 +324,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 동영상은 아니지만, 동영상 처럼 편하게 입문 시점에서 읽어두면 좋은 링크라고 생각되는 것을 모아보겠습니다.
 ```
 
-- **☆** [The Swift Language Guide (한국어)
-](https://jusung.gitbook.io/the-swift-language-guide/) : 정리를 정말 잘해주신 것 같습니다. 👍
+- **☆** [The Swift Language Guide (한국어)](https://jusung.gitbook.io/the-swift-language-guide/) : 정리를 정말 잘해주신 것 같습니다. 👍
 
 - **☆** [iOS 개발자를 위한 링크 모음](https://github.com/giftbott/iOSDevLinks) : OS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 카테고리별로 정리한 링크 목록입니다. 개발을 처음 시작하시려는 분께 도움이 되려고 만든 링크입니다.
 
