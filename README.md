@@ -77,8 +77,9 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 	- **☆☆** [인프런(iOS 프로그래밍)](https://www.inflearn.com/course/ios-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/) : 😍 iOS 애플리케이션을 제작함에 있어 필요한 기본 지식과 테크닉을 전달하고, 방대한 분량의 iOS 관련 지식을 스스로 익힐수 있는 방향을 제시합니다. (2018년 6월 20일 신규 오픈)
 	- [인프런(스위프트 기본 문법)]( https://www.inflearn.com/course/스위프트-기본-문법/) : swift 기본 문법을 익히는 강의 입니다. 
 	- [구름edu(야곰님)](https://edu.goorm.io/lecture/1141/%EC%95%BC%EA%B3%B0%EC%9D%98-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) : 신청해보면😭 추후에 업데이트 하겠습니다.
-- **☆** [iOS Swift입문 - programmers.co.kr](https://programmers.co.kr/learn/courses/4) : Swift의 기본부터 iOS 앱 개발까지 배울 수 있습니다. (무료강의로 알고 있습니다.)
 - **☆** [인프런(스탠퍼드)](https://www.inflearn.com/course/stanford-ios-한글자막-강의/) : 스탠퍼드 swift 강의, swift 2.0 기반이지만, 단순 문법외에 MVC, swift의 기본적인 필수 내용이 가득합니다. (무료강의)
+- **☆** [Swift로 함수형 프로그래밍 시작하기 - programmers.co.kr](https://programmers.co.kr/learn/courses/4806) : 파트1. 함수형 프로그래밍 소개 를 들어보세요. swift는 FP 입니다. Objc의 OOP와는 다른 패러다임을 가지고 있습니다. 그 이유를 알 수 있게 도와주실 것 입니다.
+- **☆** [iOS Swift입문 - programmers.co.kr](https://programmers.co.kr/learn/courses/4) : Swift의 기본부터 iOS 앱 개발까지 배울 수 있습니다. (무료강의로 알고 있습니다.)
 - **☆** [T아카데미](https://www.youtube.com/watch?v=VJivCns4TAI) : T아카데미 Swift 프로그래밍 강의입니다. Swift 프로그래밍 1강 Swift 소개와 개발 환경 ~ 20강 파운데이션 4, 네트워크 기본, 리소스 얻기, JSON 다루기까지 있습니다. 유투브 무료강의 입니다. 
 	- [1강](https://www.youtube.com/watch?v=VJivCns4TAI), &nbsp; [2강](https://www.youtube.com/watch?v=eIdxnbT2uag), &nbsp; [3강](https://www.youtube.com/watch?v=_8LoENXbBaQ), &nbsp; [4강](https://www.youtube.com/watch?v=GdtoOIy_GDQ&t=901s), &nbsp; [5강](https://www.youtube.com/watch?v=FVsGL438P-I)
 	- [6강](https://www.youtube.com/watch?v=9wIIwCQnSOs), &nbsp; [7강](https://www.youtube.com/watch?v=w03UpLsF90U&t=121s), &nbsp; [8강](https://www.youtube.com/watch?v=kvCwXtpwNlE), &nbsp; [9강](https://www.youtube.com/watch?v=XGCiGyeKkOs), &nbsp; [10강](https://www.youtube.com/watch?v=t1W60-rU_JM)
