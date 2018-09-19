@@ -97,6 +97,9 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 - [부스트코스 iOS Developer 과정](http://www.edwith.org/boostcourse-ios) : 주 10시간 학습 기준 총 6개월, 셀프 스터디 방식 같으며 과제 리뷰 시스템 유료가 될 것 같습니다. 리뷰도 받고 수료 후 경력에 추가할 수도 있는 방법인 것같습니다.
 
+- [코드스쿼드 iOS 교육과정](https://codesquad.kr/page/masters/ios.html) : 강사님이 훌륭해 보이십니다. 8주 커리큘럼을 통해 당신이 얼마나 크게 성장할 수 있는지 경험해볼 수 있을 것 같습니다.
+
+
 <br />
 
 [Top으로 가기](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EB%AA%A9%EC%B0%A8)
