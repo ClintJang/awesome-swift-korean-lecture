@@ -120,11 +120,21 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
   - 여름 세션 : https://iosdevkor.github.io/let_us_go_2018_summer_review/
       - [2018 Summer let us: Go!](http://zeddios.tistory.com/m/566?category=707488) : 블로거 Zedd님 후기
   - 🆕 가을 세션 : https://iosdevkor.github.io/let_us_go_2018_fall/
-  	- 일정 : 10월 20일(토)
- 	- 장소 : 서울특별시 강남구 강남대로 382 메리츠타워 7층 커넥트재단 대교육장
- 	- 특징
- 		- 현재 세션 신청 마감됨.
- 		- 뒷풀이 신청은 오픈 예정임.
+  	- 일정(종료) : 10월 20일(토) 
+  	- Review 링크는 확인되는 데로 업데이트 하겠습니다.
+ 	- 참고 링크 
+ 		- Kawoou님 
+			- 발표자료 : https://www.slideshare.net/ssuser86f623/dependency-injection-deli
+			- 자료1 : https://github.com/kawoou/Deli/blob/master/README_KR.md
+			- 자료2 : https://github.com/kawoou/DeliTodo
+		- 민소네님
+			- 자료 : https://github.com/facebook/chisel
+		- 과니님
+			- 셈플코드 : https://github.com/tiny2n/Generic
+		- 곰튀김님
+			- 발표자료 : https://www.slideshare.net/ChiwonSong/20181020-advanced-higherorder-function
+		- 라이언님
+			- 셈플코드 : https://github.com/tokijh/ARVideoPlayer
 - 2017
   - 봄 세션 : https://iosdevkor.github.io/let_us_go_2017_spring_review/
   - 여름 세션 : https://iosdevkor.github.io/let_us_go_2017_summer_review/
