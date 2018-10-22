@@ -128,9 +128,11 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 			- 자료1 : https://github.com/kawoou/Deli/blob/master/README_KR.md
 			- 자료2 : https://github.com/kawoou/DeliTodo
 		- 민소네님
-			- 자료 : https://github.com/facebook/chisel
+			- 자료1 :http://minsone.github.io/ios/mac/xcode-lldb-debugging-with-xcode-and-lldb
+			- 자료2 : https://github.com/facebook/chisel
 		- 과니님
 			- 셈플코드 : https://github.com/tiny2n/Generic
+			- 자료1 : https://docs.swift.org/swift-book/LanguageGuide/Functions.html
 		- 곰튀김님
 			- 발표자료 : https://www.slideshare.net/ChiwonSong/20181020-advanced-higherorder-function
 		- 라이언님
