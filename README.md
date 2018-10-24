@@ -224,6 +224,9 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## iOS 내부 구조 및 기본 Framework 활용
+- 🆕 [2018년 10월 20일, ARKit](https://youtu.be/pmMJXfY-h-g)
+: &nbsp;[예제코드 링크](https://github.com/tokijh/ARVideoPlayer) &nbsp;를 빌드해서 폰에 넣어보세요.
+
 - [2018년 3월 10일, The Sandbox Container Directory](https://www.youtube.com/watch?v=h0ROjqEEF50&feature=youtu.be)
 
 - [2018년 3월 10일, Core ML 시작하기](https://www.youtube.com/watch?v=ADtw_Ez5qWA&feature=youtu.be)
