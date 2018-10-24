@@ -195,6 +195,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## Swift 기본 활용
+- 🆕 **☆** [2018년 10월 20일, Swift Generics](https://youtu.be/xICkz2rZcVA)
+
 - **☆☆** [2018년 3월 10일, Functional Programming 이 뭐하는 건가요?](https://www.youtube.com/watch?v=HZkqMiwT-5A&feature=youtu.be) : 함수형 프로그램이란? 아시나요? :)
 
 - [2017년 12월 20일, Swift, Kotlin과 모던 언어의 특징](https://www.youtube.com/watch?v=1wmn97Csi9g&feature=youtu.be) : Swift vs Kotlin
