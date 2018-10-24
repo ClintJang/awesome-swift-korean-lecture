@@ -167,6 +167,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - **☆** [2017년 4월 18일, 오토 레이아웃 기초 2 (입문자용 중요)](https://academy.realm.io/kr/posts/ios-autolayout/)
 
 ## 메모리 & 컴파일러
+- 🆕 **☆** [2018년 10월 20일, Debugging With Xcode, LLDB and Chisel](https://youtu.be/U0tK6jPLtN8) : LLDB 알면 좋은 것!
+
 - **☆☆** [2016년 7월 19일, Swift 성능 이해하기](https://academy.realm.io/kr/posts/letswift-swift-performance/) : Value 타입, Protocol과 스위프트의 성능 최적화
 
 - [2016년 8월 16일, Swift Internals- LLVM, Type system, Swift Foundation을 중심으로](https://academy.realm.io/kr/posts/swift-internals-llvm-type-system-swift-foundation/)
@@ -230,7 +232,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## 디자인패턴 & 코드 스타일
 - 🆕 [2018년 10월 20일, 알아보자 DI와 Deli](https://youtu.be/Mw-8V0srRzA) : DI 란? 아시나요?
 
-- [2017년 11월 4일, 디자인 패턴 적용기](https://www.youtube.com/watch?v=MXSKM6aQ7Wo&feature=youtu.be) : 디자인 패턴이 어렵게 여기지 않으셔도 될 것 같습니다. 개발자와 소통하기 위한 한 수단이 될 수 있습니다. 
+- [2017년 11월 4일, 디자인 패턴 적용기](https://www.youtube.com/watch?v=MXSKM6aQ7Wo&feature=youtu.be) : 디자인 패턴이 어렵게 여기지 않으셔도 될 것 같습니다. 개발자와 소통하기 위한 한 수단이 될 수 있습니다.
+ 
 - [2017년 8월 8일, 자주 사용하는 템플릿을 커스터마이징하기 - 커스텀 Xcode 템플릿 (with VIPER)](https://academy.realm.io/kr/posts/custom-xcode-template/)
 
 - [2017년 11월 4일, 스위프트를 여행하는 히치하이커를 위한 스타일 안내서](https://www.youtube.com/watch?v=d1eA-r_Cd2Y&feature=youtu.be)
