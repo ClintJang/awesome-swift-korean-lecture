@@ -263,7 +263,10 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - 🆕 [2018년 7월 21일, Texture Reactive wrapper 만들고 응용하기](https://www.youtube.com/watch?v=cnW2B019_2w&feature=player_embedded)
 
 ## 개발경험
+- 🆕 [2018년 10월 20일, Swift 개발자의 React-Native 도전 후기](https://youtu.be/Ko5XanZmxFo)
+
 - [2017년 2월 28일, 기획, 디자인 변경에 강한 카드뷰 만들기 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-make-cardview-ios-tech-talk/)
+
 - [2018년 3월 19일, Swift로 코인 트레이딩 하기](https://www.youtube.com/watch?v=QRIs7khkNXc&list=PLJ0BuvoGAkXtLlG8xQEmG18CuamDy5LG8&index=6&t=0s)
 
 ## 세션 투어
