@@ -195,6 +195,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## Swift 기본 활용
+- 🆕 **☆☆** [2018년 10월 20일, Advanced Higher-Order Function](https://youtu.be/HVRre-y1hnM)
+
 - 🆕 **☆** [2018년 10월 20일, Swift Generics](https://youtu.be/xICkz2rZcVA)
 
 - **☆☆** [2018년 3월 10일, Functional Programming 이 뭐하는 건가요?](https://www.youtube.com/watch?v=HZkqMiwT-5A&feature=youtu.be) : 함수형 프로그램이란? 아시나요? :)
@@ -235,14 +237,14 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - 🆕 [2018년 10월 20일, 알아보자 DI와 Deli](https://youtu.be/Mw-8V0srRzA) : DI 란? 아시나요?
 
 - [2017년 11월 4일, 디자인 패턴 적용기](https://www.youtube.com/watch?v=MXSKM6aQ7Wo&feature=youtu.be) : 디자인 패턴이 어렵게 여기지 않으셔도 될 것 같습니다. 개발자와 소통하기 위한 한 수단이 될 수 있습니다.
- 
-- [2017년 8월 8일, 자주 사용하는 템플릿을 커스터마이징하기 - 커스텀 Xcode 템플릿 (with VIPER)](https://academy.realm.io/kr/posts/custom-xcode-template/)
 
 - [2017년 11월 4일, 스위프트를 여행하는 히치하이커를 위한 스타일 안내서](https://www.youtube.com/watch?v=d1eA-r_Cd2Y&feature=youtu.be)
 
-- **☆** [2016년 8월 9일, Swift에서 프로토콜 중심 프로그래밍(POP)하기](https://academy.realm.io/kr/posts/protocol-oriented-programming-in-swift/)
-
 - [2017년 11월 4일, ReSwift로 리액티브 프로그래밍 구현하기](https://www.youtube.com/watch?v=H0WPEAnC5YQ&feature=youtu.be) : swift로 단방향 데이터 흐름 아키텍처의 Redux와 유사하게 구현합니다.
+ 
+- [2017년 8월 8일, 자주 사용하는 템플릿을 커스터마이징하기 - 커스텀 Xcode 템플릿 (with VIPER)](https://academy.realm.io/kr/posts/custom-xcode-template/)
+
+- **☆** [2016년 8월 9일, Swift에서 프로토콜 중심 프로그래밍(POP)하기](https://academy.realm.io/kr/posts/protocol-oriented-programming-in-swift/)
 
 ## TDD
 - 🆕 **☆** [2018년 7월 21일, iOS TDD 실무에 적용하기](https://www.youtube.com/watch?v=wDo8656evW8&feature=player_embedded) : 애니옵젝님의 너무 멋진 말씀..
@@ -272,9 +274,9 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## 개발경험
 - 🆕 [2018년 10월 20일, Swift 개발자의 React-Native 도전 후기](https://youtu.be/Ko5XanZmxFo)
 
-- [2017년 2월 28일, 기획, 디자인 변경에 강한 카드뷰 만들기 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-make-cardview-ios-tech-talk/)
-
 - [2018년 3월 19일, Swift로 코인 트레이딩 하기](https://www.youtube.com/watch?v=QRIs7khkNXc&list=PLJ0BuvoGAkXtLlG8xQEmG18CuamDy5LG8&index=6&t=0s)
+
+- [2017년 2월 28일, 기획, 디자인 변경에 강한 카드뷰 만들기 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-make-cardview-ios-tech-talk/)
 
 ## 세션 투어
 - [2017년 6월 27일, try! Swift Tokyo 2017 후기](https://academy.realm.io/kr/posts/try-swift-tokyo-2017-review/)
