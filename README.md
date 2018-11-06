@@ -128,11 +128,9 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## Let's Swift
-- 🆕 2018 : 아직 행사전입니다. [http://letswift.kr/2018/](http://letswift.kr/2018/)
-	- 티켓 구매 링크 : https://festa.io/events/111
-	- 일정 : 11월 6일(화)
- 	- 장소 : 강남역 과학기술회관
- 	- 특징 : 국내 최대 규모 iOS행사
+- 🆕 2018 : [http://letswift.kr/2018/](http://letswift.kr/2018/)
+	- 행사는 11월 6일, 올해 행사는 종료했습니다.
+	- 발표 세션은 다시 볼수 있는 영상이 위 링크로 제공될 예정으로 알고 있습니다.
 - 2017 : http://letswift.kr/2017/
 - 2016 : http://letswift.kr/2016/
 
@@ -400,8 +398,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 <br />
 
 # Contributors
-- [clintjang](https://github.com/clintjang)
 - [oaksong](https://github.com/oaksong)
+- [clintjang](https://github.com/clintjang)
 
 
 <br /><br />즐거운 하루 되세요 🙇‍
