@@ -347,7 +347,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 - [2018년 10월 20일, 시뮬레이터에 이미지 넣기](https://www.youtube.com/watch?v=LVabEI92yKA) : 헉.. 이렇게 가능했군요..<br />
 
-- [2018년 10월 20일, 스토리보드에서 커스텀 칼라 파레트 사용하기](https://www.youtube.com/watch?v=CmlzOIzsBeA&t=7s) : 우와.. 이렇게 가능하군요!!<br />
+- [2018년 10월 14일, 스토리보드에서 커스텀 칼라 파레트 사용하기](https://www.youtube.com/watch?v=CmlzOIzsBeA&t=7s) : 우와.. 이렇게 가능하군요!!<br />
 
 - [2018년 10월 12일, xcode에서 터미널 안열고 pod 적용하기](https://www.youtube.com/watch?v=0kvAm5n6-oc&t=15s) <br />
 
