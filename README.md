@@ -336,9 +336,12 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 <br />
 
 # iOS 개발 팁
+> 믿고 보는 곰튀김님 🐻.. 감사합니다. 🙇‍ 
+
 - [2018년 11월 16일, PDF 벡터 이미지 사용하기](https://www.youtube.com/watch?v=9-cdvrLYrLs) : 벡터이미지 사용하는 방법을 쉽게 알려주고 있습니다.
 - [2018년 11월 06일, 라이브러리 전역으로 import 하기](https://www.youtube.com/watch?v=vWBEamf6Q0c) : 알면 정말 편합니다.
 - [2018년 10월 26일, 슬라이싱 이미지 사용하기](https://www.youtube.com/watch?v=rHJIEAyarik) : 이해하기 어려운 슬라이싱 이미지 사용법을 알기 쉽게 알려주십니다.
+- [2018년 10월 8일, 콘솔 로그 출력할 때 팁](https://www.youtube.com/watch?v=jf9TBhyAXvo) : 로그를 어떻게 찍으면 좋을까.. 고민하시나요?
 
 <br />
 
