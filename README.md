@@ -336,7 +336,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 <br />
 
 # iOS 개발 팁
-> 믿고 보는 곰튀김님 🐻.. 감사합니다. 🙇‍ 
+> 믿고 보는 곰튀김님 🐻.. 감사합니다. 🙇‍ <br />
+구독과 댓글을 좋은 영상을 올려주시는 데, 큰 힘이 되실 것 입니다.😀
 
 - [2018년 11월 16일, PDF 벡터 이미지 사용하기](https://www.youtube.com/watch?v=9-cdvrLYrLs) : 벡터이미지 사용하는 방법을 쉽게 알려주고 있습니다.<br />
 
@@ -345,6 +346,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2018년 10월 26일, 슬라이싱 이미지 사용하기](https://www.youtube.com/watch?v=rHJIEAyarik) : 이해하기 어려운 슬라이싱 이미지 사용법을 알기 쉽게 알려주십니다.<br />
 
 - [2018년 10월 20일, 시뮬레이터에 이미지 넣기](https://www.youtube.com/watch?v=LVabEI92yKA) : 헉.. 이렇게 가능했군요..<br />
+
+- [2018년 10월 20일, 스토리보드에서 커스텀 칼라 파레트 사용하기](https://www.youtube.com/watch?v=CmlzOIzsBeA&t=7s) : 우와.. 이렇게 가능하군요!!<br />
 
 - [2018년 10월 12일, xcode에서 터미널 안열고 pod 적용하기](https://www.youtube.com/watch?v=0kvAm5n6-oc&t=15s) <br />
 
