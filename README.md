@@ -50,7 +50,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 	- [서버 사이드](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EC%84%9C%EB%B2%84-%EC%82%AC%EC%9D%B4%EB%93%9C)
 	- [딥러닝](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EB%94%A5%EB%9F%AC%EB%8B%9D)
 	- [RxSwift](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#-rxswift)
-
+- [iOS 개발팁](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EA%B8%B0%ED%83%80-%EB%A7%81%ED%81%AC)
 - [기타링크](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EA%B8%B0%ED%83%80-%EB%A7%81%ED%81%AC)
 	
 	
@@ -335,6 +335,15 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 <br />
 <br />
 
+# iOS 개발 팁
+- [2018년 11월 06일, PDF 벡터 이미지 사용하기](https://www.youtube.com/watch?v=9-cdvrLYrLs) : 벡터이미지 사용하는 방법을 쉽게 알려주고 있습니다.
+
+<br />
+
+[Top으로 가기](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EB%AA%A9%EC%B0%A8)
+
+<br />
+<br />
 
 * * *
 
