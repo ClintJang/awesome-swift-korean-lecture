@@ -348,6 +348,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 - [2018년 10월 12일, xcode에서 터미널 안열고 pod 적용하기](https://www.youtube.com/watch?v=0kvAm5n6-oc&t=15s) <br />
 
+- [2018년 10월 09일, xcode에서 터미널 바로 열기](https://www.youtube.com/watch?v=GNu6IuU_UeE&t=1s) : 정말 편해졌어요. <br />
+
 - [2018년 10월 08일, 콘솔 로그 출력할 때 팁](https://www.youtube.com/watch?v=jf9TBhyAXvo) : 로그를 어떻게 찍으면 좋을까.. 고민하시나요?
 
 <br />
