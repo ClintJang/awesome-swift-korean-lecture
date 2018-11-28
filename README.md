@@ -403,6 +403,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 	- 커밋 메시지 작성법 (Commit Convention, 정답은 없죠!)
 		- [Git commit message convention](https://ckeditor.com/docs/ckeditor5/latest/framework/guides/contributing/git-commit-message-convention.html) : 좋다고 생각되는 링크입니다.
 		- [Git 커밋 메시지 작성법](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
+	- Git Commit 가이드
+		- [깃(Git) 커밋 가이드](https://tech.10000lab.xyz/git/git-commit-discipline.html)	 : 읽어 두면 좋은 내용 인 것 같습니다.
 
 - iOS 커뮤니티 정보 (함께하면 개발이 즐겁습니다.)
 	- 오픈된 대화방
