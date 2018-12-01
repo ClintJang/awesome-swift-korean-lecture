@@ -265,6 +265,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 12월 20일, Metal 기반 특별한 UI/UX 제공하기](https://www.youtube.com/watch?v=mB9d5RDNryw&feature=youtu.be)
 
 ## WWDC & Apple
+- 🆕 [2018년 11월 6일, Let'Swift 2018 키노트](https://www.youtube.com/watch?v=xZ5IywL9Zkg&index=2&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS&t=6s)
+
 - 🆕 [2018년 7월 21일, 미리보는 Marzipan](https://www.youtube.com/watch?v=egZ_kPa7MzE&feature=youtu.be)
 
 - [2017년 8월 14일, WWDC 2017 톺아보기](https://academy.realm.io/kr/posts/wwdc-2017-review/)
