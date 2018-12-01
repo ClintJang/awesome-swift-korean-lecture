@@ -220,6 +220,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## iOS 내부 구조 및 기본 Framework 활용
+- 🆕 [2018년 10월 20일, SIMD&MPS in Swift](https://www.youtube.com/watch?v=S5tJi4KCItI&index=10&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) : 조금 어렵습니다. 😓
+
 - 🆕 [2018년 10월 20일, ARKit](https://youtu.be/pmMJXfY-h-g)
 : &nbsp;[예제코드 링크](https://github.com/tokijh/ARVideoPlayer) &nbsp;를 빌드해서 폰에 넣어보세요.
 
@@ -248,6 +250,9 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - **☆** [2016년 8월 9일, Swift에서 프로토콜 중심 프로그래밍(POP)하기](https://academy.realm.io/kr/posts/protocol-oriented-programming-in-swift/)
 
 ## TDD
+- 🆕 [2018년 11월 6일, Let's TDD](https://www.youtube.com/watch?v=meTnd09Pf_M&feature=youtu.be) : 워크숍 세션이라 발표자료와 셈플 코드도 참고해주세요.
+	- [발표자료](https://www.slideshare.net/devxoul/lets-tdd-122653088), &nbsp; [샘플코드](https://github.com/devxoul/LetsGitHubSearch)
+
 - 🆕 **☆** [2018년 7월 21일, iOS TDD 실무에 적용하기](https://www.youtube.com/watch?v=wDo8656evW8&feature=player_embedded) : 애니옵젝님의 너무 멋진 말씀..
 - **☆** [2017년 11월 4일, Test Driven Development](https://www.youtube.com/watch?v=eX_y33jHSHs&feature=youtu.be) : TDD를 하시나요?
 
