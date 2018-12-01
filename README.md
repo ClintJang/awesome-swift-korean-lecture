@@ -279,6 +279,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## 개발경험
 - 🆕 [2018년 11월 6일, 사이드프로젝트로 앱스토어1위공략하기](https://www.youtube.com/watch?v=_2t24zQvRFs&index=3&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
 
+- 🆕 [2018년 11월 6일, TDS(Toss Design System) v2 소개](https://www.youtube.com/watch?v=fWdXnLERm8E&index=5&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
+
 - 🆕 [2018년 10월 20일, Swift 개발자의 React-Native 도전 후기](https://youtu.be/Ko5XanZmxFo)
 
 - [2018년 3월 19일, Swift로 코인 트레이딩 하기](https://www.youtube.com/watch?v=QRIs7khkNXc&list=PLJ0BuvoGAkXtLlG8xQEmG18CuamDy5LG8&index=6&t=0s)
