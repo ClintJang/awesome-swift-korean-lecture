@@ -108,11 +108,9 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 <br />
 
 # 좋은 세션
-<pre>
-피가 되고 살이되는 세션들입니다. 반복해서 들으시면 좋습니다.
-아침 시작전, 점심 후 소화시키며, 저녁 개인공부겸.. :)
+> 피가 되고 살이되는 세션들입니다. 반복해서 들으시면 좋습니다. <br />
+아침 시작전, 점심 후 소화시키며, 저녁 개인공부겸.. :)<br />
 링크 안에 강의 동영상을 볼 수 있는 링크가 있습니다.
-</pre>
 
 ## Let us:Go! ([iOS Developer KR](https://github.com/iOSDevKor))
 - 2018
@@ -299,6 +297,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2016년 9월 11일, Swift 모바일데이터베이스 : Realm](https://academy.realm.io/kr/posts/realm-swift-mobile-database/)
 
 ## Tool?좋은 개발을 위한 도구의 활용
+- 🆕 [2018년 11월 6일, iOS Ruby](https://www.youtube.com/watch?v=BDuVrhfnsnE&index=4&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
 
 - [2017년 12월 13일, Simulator Customizing & Testing](https://www.youtube.com/watch?v=4i2EBnmUMcs&feature=youtu.be)
 
@@ -314,10 +313,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 	- [모두를 위한 딥러닝 강좌 시즌 1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) : 스위프트는 아닙니다. 머신러닝 입분부터 종결은 여기를 참고해서 공부하세요. .. 교수님 감사합니다. (￣～￣)a
 
 ## **☆** RxSwift
-<pre>
- RxSwift는 중급 이상이라 생각됩니다. 
- 함수형 프로그래밍에 관심이 있다면, rxswift 의 세계에 관심가져야된다고 생각합니다.
-</pre>
+> RxSwift는 중급 이상이라 생각됩니다. <br />
+함수형 프로그래밍에 관심이 있다면, rxswift 의 세계에 관심가져야된다고 생각합니다.
 
 - 🆕 [2018년 11월 6일, RxSwift Internal](https://www.youtube.com/watch?v=DsE-sagI04A&index=9&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
 
