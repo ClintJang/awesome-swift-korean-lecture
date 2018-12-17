@@ -417,6 +417,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 - [Korea iOS Seminar](https://github.com/yoonhg84/Korea-iOS-Seminar) : 깔끔하게 정리된 swift 한국어 강연 정보입니다. :)
 
+- **☆** [NSDateFormatter.com](https://nsdateformatter.com) : 완전 꿀 사이트 입니다.!!
+
 - [누구나 쉽게 이해할 수 있는 Git입문](https://backlog.com/git-tutorial/kr/) : 형상관리 중에 git은 지금 github의 베이스가 되는 관리시스템입니다. 
 	> github, gitbucket 사이트에서 pull request, wiki, followers, following.. 등 의 기능을 보셨나요? 기본 git의 시스템 기능에 별도의 기능을 추가로 녹여넣은 서비스 사이트입니다. 사이트를 사용(이용)하기에 앞서서 git의 기본 적인 사용법은 알아야겠지요?
 	
