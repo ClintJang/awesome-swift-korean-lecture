@@ -358,6 +358,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 구독과 댓글은 좋은 영상을 올려주시는 데, 큰 힘이 되실 것 입니다.😀<br />
 짧은 영상이지만 좋은 내용입니다. 추천 추천~
 
+- 🆕 [2018년 12월 09일, 마크다운으로 소스 문서화하기](https://www.youtube.com/watch?v=1EqGudbERF8)
+
 - 🆕 [2018년 12월 02일, Scheme으로 앱 다양화 하기](https://www.youtube.com/watch?v=j6Tsw_H8w_4)
 
 - 🆕 [2018년 11월 22일, 파일헤더 커스텀하기](https://www.youtube.com/watch?v=kH-TTsyhbLk) : 벡터이미지 사용하는 방법을 쉽게 알려주고 있습니다.<br />
