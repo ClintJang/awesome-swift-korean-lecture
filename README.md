@@ -9,7 +9,7 @@ iOS의 Swift 동영상 강의 링크 정보를 모아보았습니다.
 편하게 찾을 수 있도록 계속 고민해보겠습니다.
 계속 추가하겠습니다. 
 
-☆ 표시는 지극히 개인적인 생각입니다. 초기에 보시기 좋은 내용이거나 중요하다 생각되는 것을 표시했습니다.
+⭐ 표시는 지극히 개인적인 생각입니다. 초기에 보시기 좋은 내용이거나 중요하다 생각되는 것을 표시했습니다.
 목표 : 하루에 한개씩 볼 수 있도록 노력합시다.
 ```
 
@@ -65,7 +65,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ```
 
 - [야곰님의 iOS개발(블로그)](http://blog.yagom.net/) : swift 공부할 때에..  출/퇴근 시, 야곰님 유튜브 강의를 많이 반복해서 들었었습니다. 인프런에 새로운 강좌(앱 개발에서 끝까지)도 오픈해서 iOS 입문하시는 분들에게 많은 도움이 될 것 같습니다. 🐻
-	- **☆☆** [# 야곰님의 유튜브 프로그래밍 채널](https://m.youtube.com/channel/UCkwWWEv3C-3ToeO57r5LCHQ) : 꼭 들어보세요. 설명이 필요없죠? 감사합니다. 야곰님 :) 👍
+	- **⭐⭐** [# 야곰님의 유튜브 프로그래밍 채널](https://m.youtube.com/channel/UCkwWWEv3C-3ToeO57r5LCHQ) : 꼭 들어보세요. 설명이 필요없죠? 감사합니다. 야곰님 :) 👍
 		- [강좌소개](https://www.youtube.com/watch?v=2n-fSlW-jts), &nbsp; &nbsp;  [Xcode - Interface builder 팁과 유의사항](https://www.youtube.com/watch?v=KppJZS43O4Y) 
 		- [고차함수](https://www.youtube.com/watch?v=HmabXrK2tRo), &nbsp; &nbsp; [오류처리](https://www.youtube.com/watch?v=l0fGtNnNsJg), &nbsp; &nbsp; [익스텐션](https://www.youtube.com/watch?v=VRkCPbN_XPs)
 		- [프로토콜](https://www.youtube.com/watch?v=cjCgJPo3VM4), &nbsp; &nbsp; [타입케스팅](https://www.youtube.com/watch?v=XGgaCHNH3AE), &nbsp; &nbsp; [assert와 guard](https://www.youtube.com/watch?v=heEKIxLs5Sc)
@@ -77,19 +77,19 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 		- [조건문](https://www.youtube.com/watch?v=TmO3cTiJDIc), &nbsp; &nbsp; [함수 기본](https://www.youtube.com/watch?v=TkM2Xcnt2Xk), &nbsp; &nbsp; [컬렉션 타입 (Array, Dictionary, Set)](https://www.youtube.com/watch?v=FWFbZGoQPUI)
 		- [Any, AnyObject, nil](https://www.youtube.com/watch?v=1QV4-B5ibd4), &nbsp; &nbsp; [기본 데이터 타입](https://www.youtube.com/watch?v=3qu7gpzE9IE), &nbsp; &nbsp; [상수와 변수](https://www.youtube.com/watch?v=umgxytoUdsE)
 		- [이름짓기, 콘솔로그, 문자열 보간법](https://www.youtube.com/watch?v=8Xe_fr_WRgc), &nbsp; &nbsp; [CocoaPods 설치](https://www.youtube.com/watch?v=sqcfdBzJYKQ)
-	- **☆☆** 🆕 [인프런(iOS 프로그래밍)](https://www.inflearn.com/course/ios-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/) : 😍 iOS 애플리케이션을 제작함에 있어 필요한 기본 지식과 테크닉을 전달하고, 방대한 분량의 iOS 관련 지식을 스스로 익힐수 있는 방향을 제시합니다. (2018년 6월 20일 신규 오픈)
+	- **⭐⭐** 🆕 [인프런(iOS 프로그래밍)](https://www.inflearn.com/course/ios-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/) : 😍 iOS 애플리케이션을 제작함에 있어 필요한 기본 지식과 테크닉을 전달하고, 방대한 분량의 iOS 관련 지식을 스스로 익힐수 있는 방향을 제시합니다. (2018년 6월 20일 신규 오픈)
 	- [인프런(스위프트 기본 문법)]( https://www.inflearn.com/course/스위프트-기본-문법/) : swift 기본 문법을 익히는 강의 입니다. 
 	- [구름edu(야곰님)](https://edu.goorm.io/lecture/1141/%EC%95%BC%EA%B3%B0%EC%9D%98-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) : 신청해보면😭 추후에 업데이트 하겠습니다.
-- **☆** [인프런(스탠퍼드)](https://www.inflearn.com/course/stanford-ios-한글자막-강의/) : 스탠퍼드 swift 강의, swift 2.0 기반이지만, 단순 문법외에 MVC, swift의 기본적인 필수 내용이 가득합니다. (무료강의)
-- **☆** 🆕 [Swift로 함수형 프로그래밍 시작하기 - programmers.co.kr](https://programmers.co.kr/learn/courses/4806) : 파트1. 함수형 프로그래밍 소개 를 들어보세요. swift는 FP 입니다. Objc의 OOP와는 다른 패러다임을 가지고 있습니다. 그 이유를 알 수 있게 도와주실 것 입니다.
-- **☆** [iOS Swift입문 - programmers.co.kr](https://programmers.co.kr/learn/courses/4) : Swift의 기본부터 iOS 앱 개발까지 배울 수 있습니다. (무료강의로 알고 있습니다.)
-- **☆** [T아카데미](https://www.youtube.com/watch?v=VJivCns4TAI) : T아카데미 Swift 프로그래밍 강의입니다. Swift 프로그래밍 1강 Swift 소개와 개발 환경 ~ 20강 파운데이션 4, 네트워크 기본, 리소스 얻기, JSON 다루기까지 있습니다. 유투브 무료강의 입니다. 
+- **⭐** [인프런(스탠퍼드)](https://www.inflearn.com/course/stanford-ios-한글자막-강의/) : 스탠퍼드 swift 강의, swift 2.0 기반이지만, 단순 문법외에 MVC, swift의 기본적인 필수 내용이 가득합니다. (무료강의)
+- **⭐** 🆕 [Swift로 함수형 프로그래밍 시작하기 - programmers.co.kr](https://programmers.co.kr/learn/courses/4806) : 파트1. 함수형 프로그래밍 소개 를 들어보세요. swift는 FP 입니다. Objc의 OOP와는 다른 패러다임을 가지고 있습니다. 그 이유를 알 수 있게 도와주실 것 입니다.
+- **⭐** [iOS Swift입문 - programmers.co.kr](https://programmers.co.kr/learn/courses/4) : Swift의 기본부터 iOS 앱 개발까지 배울 수 있습니다. (무료강의로 알고 있습니다.)
+- **⭐** [T아카데미](https://www.youtube.com/watch?v=VJivCns4TAI) : T아카데미 Swift 프로그래밍 강의입니다. Swift 프로그래밍 1강 Swift 소개와 개발 환경 ~ 20강 파운데이션 4, 네트워크 기본, 리소스 얻기, JSON 다루기까지 있습니다. 유투브 무료강의 입니다. 
 	- [1강](https://www.youtube.com/watch?v=VJivCns4TAI), &nbsp; [2강](https://www.youtube.com/watch?v=eIdxnbT2uag), &nbsp; [3강](https://www.youtube.com/watch?v=_8LoENXbBaQ), &nbsp; [4강](https://www.youtube.com/watch?v=GdtoOIy_GDQ&t=901s), &nbsp; [5강](https://www.youtube.com/watch?v=FVsGL438P-I)
 	- [6강](https://www.youtube.com/watch?v=9wIIwCQnSOs), &nbsp; [7강](https://www.youtube.com/watch?v=w03UpLsF90U&t=121s), &nbsp; [8강](https://www.youtube.com/watch?v=kvCwXtpwNlE), &nbsp; [9강](https://www.youtube.com/watch?v=XGCiGyeKkOs), &nbsp; [10강](https://www.youtube.com/watch?v=t1W60-rU_JM)
 	- [11강](https://www.youtube.com/watch?v=_O6vjEgWBKY), &nbsp; [12강](https://www.youtube.com/watch?v=5B3jh42Vrwo), &nbsp; [13강](https://www.youtube.com/watch?v=kolg2dim3d4), &nbsp; [14강](https://www.youtube.com/watch?v=p1U5iI_QxV0), &nbsp; [15강](https://www.youtube.com/watch?v=CcfFLAkz2Y8)
 	- [16강](https://www.youtube.com/watch?v=CcfFLAkz2Y8), &nbsp; [17강](https://www.youtube.com/watch?v=96i_TQPQDIk), &nbsp; [18강](https://www.youtube.com/watch?v=mOHUQZuFibQ), &nbsp; [19강](https://www.youtube.com/watch?v=I5vjgXYAJGY), &nbsp; [20강](https://www.youtube.com/watch?v=Z78_Z5j7YxM)
 
-- **☆** [하울의 코딩채널(IOS Library (Swift))](https://www.youtube.com/playlist?list=PLmdU__e_zPf-uiDtI84Gv9SxFicrbw4KV) : 유투브를 통해 iOS의 대표적인 라이브러리 사용에 사용하는 방법을 친절하게 설명해 주고 있습니다. 오픈 라이브러리들의 사용법을 실제 라이브 코딩을 하며 적용해나가고 있습니다. 라이브러리 사용에 대해 부담을 느끼고 계신다면, 하울님의 동영상 채널을 보면서 익혀보는 것도 좋을 것 같습니다.😀
+- **⭐** [하울의 코딩채널(IOS Library (Swift))](https://www.youtube.com/playlist?list=PLmdU__e_zPf-uiDtI84Gv9SxFicrbw4KV) : 유투브를 통해 iOS의 대표적인 라이브러리 사용에 사용하는 방법을 친절하게 설명해 주고 있습니다. 오픈 라이브러리들의 사용법을 실제 라이브 코딩을 하며 적용해나가고 있습니다. 라이브러리 사용에 대해 부담을 느끼고 계신다면, 하울님의 동영상 채널을 보면서 익혀보는 것도 좋을 것 같습니다.😀
 	- [하울의 코딩 채널 (base)](https://www.youtube.com/channel/UCScI4bsr-RaGdYSC2QAHWug) : 하울님 코딩 채널에 대한 전체적인 설명이 있습니다. 어떤 목적으로 만들었고, 어떻게 보면 좋은지 간략한 설명을 해주고 있습니다. 아래는 직접 링크 입니다.
 	- [#1 ObjectMapper](https://www.youtube.com/watch?v=HlbjxSeeUJk&list=PLmdU__e_zPf-uiDtI84Gv9SxFicrbw4KV&index=1), &nbsp; &nbsp; [#2 Alamofire](https://www.youtube.com/watch?v=80W2Sc7s3_4&index=2&list=PLmdU__e_zPf-uiDtI84Gv9SxFicrbw4KV), &nbsp; &nbsp; [#3 Kingfisher](https://www.youtube.com/watch?v=UFRbHEBiBAw&list=PLmdU__e_zPf-uiDtI84Gv9SxFicrbw4KV&index=3)
 	- [#4 Realm](https://www.youtube.com/watch?v=GtMIECi6Kwo&index=4&list=PLmdU__e_zPf-uiDtI84Gv9SxFicrbw4KV), &nbsp; &nbsp; [#5 DropDown](https://www.youtube.com/watch?v=VLrJnEzjNTw&list=PLmdU__e_zPf-uiDtI84Gv9SxFicrbw4KV&index=5), &nbsp; &nbsp; [#6 Toast](https://www.youtube.com/watch?v=NKZt95lJIwU&list=PLmdU__e_zPf-uiDtI84Gv9SxFicrbw4KV&index=6)
@@ -161,19 +161,19 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
  RxSwift는 카테고리에 넣지 않고 별로로 빼서 모아두었습니다.(목차 참고)
 </pre>
 ## 오토 레이아웃
-- **☆** [2017년 7월 18일, 오토 레이아웃 기초 1 (입문자용 중요)](https://academy.realm.io/kr/posts/ios-layoutmargins/)
+- **⭐** [2017년 7월 18일, 오토 레이아웃 기초 1 (입문자용 중요)](https://academy.realm.io/kr/posts/ios-layoutmargins/)
 
-- **☆** [2017년 4월 18일, 오토 레이아웃 기초 2 (입문자용 중요)](https://academy.realm.io/kr/posts/ios-autolayout/)
+- **⭐** [2017년 4월 18일, 오토 레이아웃 기초 2 (입문자용 중요)](https://academy.realm.io/kr/posts/ios-autolayout/)
 
 ## 메모리 & 컴파일러
-- 🆕 **☆** [2018년 10월 20일, Debugging With Xcode, LLDB and Chisel](https://youtu.be/U0tK6jPLtN8) : LLDB 알면 좋은 것!
+- 🆕 **⭐** [2018년 10월 20일, Debugging With Xcode, LLDB and Chisel](https://youtu.be/U0tK6jPLtN8) : LLDB 알면 좋은 것!
 
-- **☆☆** [2016년 7월 19일, Swift 성능 이해하기](https://academy.realm.io/kr/posts/letswift-swift-performance/) : Value 타입, Protocol과 스위프트의 성능 최적화
+- **⭐⭐** [2016년 7월 19일, Swift 성능 이해하기](https://academy.realm.io/kr/posts/letswift-swift-performance/) : Value 타입, Protocol과 스위프트의 성능 최적화
 
 - [2016년 8월 16일, Swift Internals- LLVM, Type system, Swift Foundation을 중심으로](https://academy.realm.io/kr/posts/swift-internals-llvm-type-system-swift-foundation/)
 
 ## 단축키
-- **☆** [2017년 6월 30일, Xcode와 MacOS의 단축키로 마우스 움직임 최소화하기](https://academy.realm.io/kr/posts/xcode-shortcuts/)
+- **⭐** [2017년 6월 30일, Xcode와 MacOS의 단축키로 마우스 움직임 최소화하기](https://academy.realm.io/kr/posts/xcode-shortcuts/)
     - 스피커님 블러그 : https://learnswiftwithbob.com/
 
 ## iOS App 배포하기
@@ -194,11 +194,11 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## Swift 기본 활용
-- 🆕 **☆☆** [2018년 10월 20일, Advanced Higher-Order Function](https://youtu.be/HVRre-y1hnM)
+- 🆕 **⭐⭐** [2018년 10월 20일, Advanced Higher-Order Function](https://youtu.be/HVRre-y1hnM)
 
-- 🆕 **☆** [2018년 10월 20일, Swift Generics](https://youtu.be/xICkz2rZcVA)
+- 🆕 **⭐** [2018년 10월 20일, Swift Generics](https://youtu.be/xICkz2rZcVA)
 
-- **☆☆** [2018년 3월 10일, Functional Programming 이 뭐하는 건가요?](https://www.youtube.com/watch?v=HZkqMiwT-5A&feature=youtu.be) : 함수형 프로그램이란? 아시나요? :)
+- **⭐⭐** [2018년 3월 10일, Functional Programming 이 뭐하는 건가요?](https://www.youtube.com/watch?v=HZkqMiwT-5A&feature=youtu.be) : 함수형 프로그램이란? 아시나요? :)
 
 - [2017년 12월 20일, Swift, Kotlin과 모던 언어의 특징](https://www.youtube.com/watch?v=1wmn97Csi9g&feature=youtu.be) : Swift vs Kotlin
 
@@ -206,15 +206,15 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 - [2017년 6월 8일, Swift의 네임스페이스와 typealias](https://academy.realm.io/kr/posts/swift-namespace-typealias/) 
 
-- **☆** [2017년 11월 4일, 인터페이스 : 유연하게 설계하기](https://www.youtube.com/watch?v=Au3EgsG4re4&feature=youtu.be)
+- **⭐** [2017년 11월 4일, 인터페이스 : 유연하게 설계하기](https://www.youtube.com/watch?v=Au3EgsG4re4&feature=youtu.be)
 
 - [2017년 7월 25일, Swift Protocol 적재적소에 사용하기](https://academy.realm.io/kr/posts/understanding-swift-protocol/)
 
-- **☆** [2017년 4월 27일, Swift의 클로저 및 고차 함수 이해하기](https://academy.realm.io/kr/posts/closure-and-higher-order-functions-of-swift/)
+- **⭐** [2017년 4월 27일, Swift의 클로저 및 고차 함수 이해하기](https://academy.realm.io/kr/posts/closure-and-higher-order-functions-of-swift/)
 
 - [2017년 5월 4일, Swift 함수에 커링 사용하기](https://academy.realm.io/kr/posts/currying-on-the-swift-functions/)
 
-- **☆** [2017년 11월 4일, Swift 4의 Codable 활용](https://www.youtube.com/watch?v=NO6wQabhCy8&feature=youtu.be)
+- **⭐** [2017년 11월 4일, Swift 4의 Codable 활용](https://www.youtube.com/watch?v=NO6wQabhCy8&feature=youtu.be)
 
 - [2017년 2월 22일, Objective-C에서 Swift로 - iOS Tech Talk](https://academy.realm.io/kr/posts/from-objective-c-to-swift-ios-techtalk/)
 
@@ -250,14 +250,14 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
  
 - [2017년 8월 8일, 자주 사용하는 템플릿을 커스터마이징하기 - 커스텀 Xcode 템플릿 (with VIPER)](https://academy.realm.io/kr/posts/custom-xcode-template/)
 
-- **☆** [2016년 8월 9일, Swift에서 프로토콜 중심 프로그래밍(POP)하기](https://academy.realm.io/kr/posts/protocol-oriented-programming-in-swift/)
+- **⭐** [2016년 8월 9일, Swift에서 프로토콜 중심 프로그래밍(POP)하기](https://academy.realm.io/kr/posts/protocol-oriented-programming-in-swift/)
 
 ## TDD
 - 🆕 [2018년 11월 6일, Let's TDD](https://www.youtube.com/watch?v=meTnd09Pf_M&feature=youtu.be) : 워크숍 세션이라 발표자료와 셈플 코드도 참고해주세요.
 	- [발표자료](https://www.slideshare.net/devxoul/lets-tdd-122653088), &nbsp; [샘플코드](https://github.com/devxoul/LetsGitHubSearch)
 
-- 🆕 **☆** [2018년 7월 21일, iOS TDD 실무에 적용하기](https://www.youtube.com/watch?v=wDo8656evW8&feature=player_embedded) : 애니옵젝님의 너무 멋진 말씀..
-- **☆** [2017년 11월 4일, Test Driven Development](https://www.youtube.com/watch?v=eX_y33jHSHs&feature=youtu.be) : TDD를 하시나요?
+- 🆕 **⭐** [2018년 7월 21일, iOS TDD 실무에 적용하기](https://www.youtube.com/watch?v=wDo8656evW8&feature=player_embedded) : 애니옵젝님의 너무 멋진 말씀..
+- **⭐** [2017년 11월 4일, Test Driven Development](https://www.youtube.com/watch?v=eX_y33jHSHs&feature=youtu.be) : TDD를 하시나요?
 
 - [2017년 3월 15일, iOS에서 TDD(Test-Driven Development)하기](https://academy.realm.io/kr/posts/ios-tdd-test-driven-development/)
 
@@ -337,7 +337,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 > RxSwift는 중급 이상이라 생각됩니다. <br />
 함수형 프로그래밍에 관심이 있다면, rxswift 의 세계에 관심가져야된다고 생각합니다.
 
-## 🆕 **☆** [RxSwift 4시간에 끝내기](https://www.youtube.com/playlist?list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
+## 🆕 **⭐** [RxSwift 4시간에 끝내기](https://www.youtube.com/playlist?list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
 > [곰튀김님](https://www.youtube.com/channel/UCsrPur3UrxuwGmT1Jq6tkQw) 유튜브 링크 입니다. <br />
 RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니다. <br />
 구독과 추천은 계속된 영상을 올려주시는 데 큰 힘이 될 것 입니다. 😍
@@ -357,7 +357,7 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 
 - 🆕 [2018년 11월 6일, RxRIBs, Multiplatform architecture with Rx](https://www.youtube.com/watch?v=BvPW-cd8mpw&index=6&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
 
-- **☆☆** [2017년 11월 4일, Functional Reactive Programming Paradigm](https://www.youtube.com/watch?v=cXi_CmZuBgg&feature=youtu.be) : 왜? rxswift를 해야되는 지, 기본이 되는 용어에 대해 좋은 설명을 해주십니다. 꼭 보셔요~ 
+- **⭐⭐** [2017년 11월 4일, Functional Reactive Programming Paradigm](https://www.youtube.com/watch?v=cXi_CmZuBgg&feature=youtu.be) : 왜? rxswift를 해야되는 지, 기본이 되는 용어에 대해 좋은 설명을 해주십니다. 꼭 보셔요~ 
 
 - [2017년 12월 20일, ReactorKit으로 단방향 반응형 앱 만들기](https://www.youtube.com/watch?v=ASwBnMJNUK4&feature=youtu.be)
 
@@ -420,15 +420,15 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 동영상은 아니지만, 동영상 처럼 편하게 입문 시점에서 읽어두면 좋은 링크라고 생각되는 것을 모아보겠습니다.
 ```
 
-- **☆** [The Swift Language Guide (한국어)](https://jusung.gitbook.io/the-swift-language-guide/) : 정리를 정말 잘해주신 것 같습니다. 👍
+- **⭐** [The Swift Language Guide (한국어)](https://jusung.gitbook.io/the-swift-language-guide/) : 정리를 정말 잘해주신 것 같습니다. 👍
 
-- **☆** [iOS 개발자를 위한 링크 모음](https://github.com/giftbott/iOSDevLinks) : OS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 카테고리별로 정리한 링크 목록입니다. 개발을 처음 시작하시려는 분께 도움이 되려고 만든 링크입니다.
+- **⭐** [iOS 개발자를 위한 링크 모음](https://github.com/giftbott/iOSDevLinks) : OS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 카테고리별로 정리한 링크 목록입니다. 개발을 처음 시작하시려는 분께 도움이 되려고 만든 링크입니다.
 
-- **☆** [개발자 회고 모음](https://github.com/oaksong/developers-retrospective) : 개발 년차가 별로 되지 않으시는 분들은 알찬 회고 내용을 읽으면 개발 세계에 대해 좀 더 알아가는 좋은 지름길이 되지 않을 까 싶습니다.
+- **⭐** [개발자 회고 모음](https://github.com/oaksong/developers-retrospective) : 개발 년차가 별로 되지 않으시는 분들은 알찬 회고 내용을 읽으면 개발 세계에 대해 좀 더 알아가는 좋은 지름길이 되지 않을 까 싶습니다.
 
-- **☆☆** [스위프트 API 가이드라인](https://gist.github.com/godrm/d07ae33973bf71c5324058406dfe42dd) : 스위프트 문법을 사용해서 코딩을 할 때, 어떻게 네이밍을 하면 바른 것 인지, apple에서 생각하는 가이드를 제시하였습니다. 영문 문서를 보기 쉽게 번역해 주셨네요. 한번 꼭 읽어봅시다.
+- **⭐⭐** [스위프트 API 가이드라인](https://gist.github.com/godrm/d07ae33973bf71c5324058406dfe42dd) : 스위프트 문법을 사용해서 코딩을 할 때, 어떻게 네이밍을 하면 바른 것 인지, apple에서 생각하는 가이드를 제시하였습니다. 영문 문서를 보기 쉽게 번역해 주셨네요. 한번 꼭 읽어봅시다.
 
-- **☆** [포인트(pt)와 픽셀(px)의 관계](http://zeddios.tistory.com/6) : 설명이 참 자세히 되어있습니다. iOS개발하면서 해상도와 레이아웃에 쓰이는 포인트 개념을 이해하는 데, 도움이 많이 되지 않을까 싶습니다.
+- **⭐** [포인트(pt)와 픽셀(px)의 관계](http://zeddios.tistory.com/6) : 설명이 참 자세히 되어있습니다. iOS개발하면서 해상도와 레이아웃에 쓰이는 포인트 개념을 이해하는 데, 도움이 많이 되지 않을까 싶습니다.
 
 - [iOS 질문과 답변 모음](https://github.com/ClintJang/ios-swift-objc-questions-and-answers) : 제가 iOS 개발을 하면서 생길 수 있는 질문과 답변을 메모해보려하는 링크입니다. 계속 정리하고 모으다 보면 개발 하시는 데 도움이 될 부분이 있지 않을까 싶습니다. 즐거운 개발 라이프~
 
@@ -437,7 +437,7 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 
 - [네이버 웹툰::코포자(코딩포기자)들의 다시 개발도전](http://comic.naver.com/challenge/detail.nhn?titleId=707782) : 웹툰이라 조금 생뚱맞을 수 있지만, 개발도전을 그린 내용입니다. 약간은 간접 경험을 할 수 있지 않을까요?;; 개발을 소재로 한 내용은 찾아보기 참 힘들어요..^^. 작가님을 응원합니다.
 
-- **☆** [Bool 변수 이름 제대로 짓기 위한 최소한의 영어 문법](https://soojin.ro/blog/naming-boolean-variables) : 변수명 정하기는 항상 어려워요.. 링크 내용을 읽으면서 한번 더 생각하게 되서 좋았습니다.
+- **⭐** [Bool 변수 이름 제대로 짓기 위한 최소한의 영어 문법](https://soojin.ro/blog/naming-boolean-variables) : 변수명 정하기는 항상 어려워요.. 링크 내용을 읽으면서 한번 더 생각하게 되서 좋았습니다.
 
 - [Cocoapods를 활용해 봅시다.](https://github.com/ClintJang/cocoapods-tips) : 멋진 개발자님들께서 개발하신 라이브러리를 손쉽게 이용하게 해줍니다. 모르신다면 알아보세요. 안드로이드라면.. Maven과 Gradle과 같이 생각하시면 됩니다. 사용하면 편해집니다.
 
@@ -445,7 +445,7 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 
 - [Korea iOS Seminar](https://github.com/yoonhg84/Korea-iOS-Seminar) : 깔끔하게 정리된 swift 한국어 강연 정보입니다. :)
 
-- **☆** [NSDateFormatter.com](https://nsdateformatter.com) : 완전 꿀 사이트 입니다.!!
+- **⭐** [NSDateFormatter.com](https://nsdateformatter.com) : 완전 꿀 사이트 입니다.!!
 
 - [누구나 쉽게 이해할 수 있는 Git입문](https://backlog.com/git-tutorial/kr/) : 형상관리 중에 git은 지금 github의 베이스가 되는 관리시스템입니다. 
 	> github, gitbucket 사이트에서 pull request, wiki, followers, following.. 등 의 기능을 보셨나요? 기본 git의 시스템 기능에 별도의 기능을 추가로 녹여넣은 서비스 사이트입니다. 사이트를 사용(이용)하기에 앞서서 git의 기본 적인 사용법은 알아야겠지요?
