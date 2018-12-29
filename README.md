@@ -155,6 +155,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 <pre>
  주제별로 상세 링크를 정리해보았습니다.
  대부분 Realm 아카데미와 유튜브 링크입니다.
+ RxSwift는 카테고리에 넣지 않고 별로로 빼서 모아두었습니다.(목차 참고)
 </pre>
 ## 오토 레이아웃
 - **☆** [2017년 7월 18일, 오토 레이아웃 기초 1 (입문자용 중요)](https://academy.realm.io/kr/posts/ios-layoutmargins/)
@@ -322,37 +323,6 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 12월 13일, iOS와 케라스의 만남](https://www.youtube.com/watch?v=V4uRLSz9Ou0&feature=youtu.be)
 	- [모두를 위한 딥러닝 강좌 시즌 1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) : 스위프트는 아닙니다. 머신러닝 입분부터 종결은 여기를 참고해서 공부하세요. .. 교수님 감사합니다. (￣～￣)a
 
-## **☆** RxSwift
-> RxSwift는 중급 이상이라 생각됩니다. <br />
-함수형 프로그래밍에 관심이 있다면, rxswift 의 세계에 관심가져야된다고 생각합니다.
-
-- 🆕 [2018년 11월 6일, RxSwift Internal](https://www.youtube.com/watch?v=DsE-sagI04A&index=9&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
-
-- 🆕 [2018년 11월 6일, Reactor Kit으로 RxSwift 시작하기](https://www.youtube.com/watch?v=G1b1sBy8XBA&index=7&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
-
-- 🆕 [2018년 11월 6일, RxRIBs, Multiplatform architecture with Rx](https://www.youtube.com/watch?v=BvPW-cd8mpw&index=6&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
-
-- **☆☆** [2017년 11월 4일, Functional Reactive Programming Paradigm](https://www.youtube.com/watch?v=cXi_CmZuBgg&feature=youtu.be) : 왜? rxswift를 해야되는 지, 기본이 되는 용어에 대해 좋은 설명을 해주십니다. 꼭 보셔요~ 
-
-- [2017년 12월 20일, ReactorKit으로 단방향 반응형 앱 만들기](https://www.youtube.com/watch?v=ASwBnMJNUK4&feature=youtu.be)
-
-- [2017년 12월 20일, RxSwift 활용하기](https://www.youtube.com/watch?v=WN6s3xWZ3tw)
-
-- [2017년 7월 4일, RxSwift로 반응형 프로그래밍하기](https://academy.realm.io/kr/posts/reactive-programming-with-rxswift/)
-
-- [2017년 2월 23일, RxSwift 예제로 감잡기 : RxSwift 시작을 위한 간단한 예제들 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-use-rxswift-with-simple-examples-ios-techtalk/)
-
-- [2017년 7월 4일, RxSwift로 반응형 프로그래밍하기](https://academy.realm.io/kr/posts/reactive-programming-with-rxswift/)
-
-- [2016년 7월 14일, RxSwift 시작하기](https://academy.realm.io/kr/posts/letswift-rxswift/)
-
-<br />
-
-[Top으로 가기](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EB%AA%A9%EC%B0%A8)
-
-<br />
-<br />
-
 # iOS 개발 팁
 > 믿고 보는 곰튀김님 🐻.. 감사합니다. 🙇‍ <br />
 구독과 댓글은 좋은 영상을 올려주시는 데, 큰 힘이 되실 것 입니다.😀<br />
@@ -386,6 +356,52 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 <br />
 <br />
+
+# RxSwift
+> RxSwift는 중급 이상이라 생각됩니다. <br />
+함수형 프로그래밍에 관심이 있다면, rxswift 의 세계에 관심가져야된다고 생각합니다.
+
+## 🆕 **☆** [RxSwift 4시간에 끝내기](https://www.youtube.com/playlist?list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
+> [곰튀김님](https://www.youtube.com/channel/UCsrPur3UrxuwGmT1Jq6tkQw) 유튜브 링크 입니다. <br />
+RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니다. <br />
+구독과 추천은 계속된 영상을 올려주시는 데 큰 힘이 될 것 입니다. 😍
+
+- [1 ReactiveX 사이트 둘러보기](https://www.youtube.com/watch?v=2uumx7Vzidc&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=2&t=0s)
+- [2 비동기 작업과 Observable](https://www.youtube.com/watch?v=5EI65fm4oqc&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=3&t=1s)
+- [3 Disposable DisposeBag](https://www.youtube.com/watch?v=TFd6JJAQXOc&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=4&t=0s)
+- [4 기본 Operators](https://www.youtube.com/watch?v=dzk-Q6F26KM&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=5&t=1s)
+- [5 Operator 종류들](https://www.youtube.com/watch?v=w_5PC61J-I8&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=6&t=0s)
+- [6 Marble Diagram 이해하기](https://www.youtube.com/watch?v=FJf2l3-6ijk&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=7&t=0s)
+- 링크는 계속 업로드 중입니다.
+
+## 세션
+- 🆕 [2018년 11월 6일, RxSwift Internal](https://www.youtube.com/watch?v=DsE-sagI04A&index=9&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
+
+- 🆕 [2018년 11월 6일, Reactor Kit으로 RxSwift 시작하기](https://www.youtube.com/watch?v=G1b1sBy8XBA&index=7&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
+
+- 🆕 [2018년 11월 6일, RxRIBs, Multiplatform architecture with Rx](https://www.youtube.com/watch?v=BvPW-cd8mpw&index=6&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
+
+- **☆☆** [2017년 11월 4일, Functional Reactive Programming Paradigm](https://www.youtube.com/watch?v=cXi_CmZuBgg&feature=youtu.be) : 왜? rxswift를 해야되는 지, 기본이 되는 용어에 대해 좋은 설명을 해주십니다. 꼭 보셔요~ 
+
+- [2017년 12월 20일, ReactorKit으로 단방향 반응형 앱 만들기](https://www.youtube.com/watch?v=ASwBnMJNUK4&feature=youtu.be)
+
+- [2017년 12월 20일, RxSwift 활용하기](https://www.youtube.com/watch?v=WN6s3xWZ3tw)
+
+- [2017년 7월 4일, RxSwift로 반응형 프로그래밍하기](https://academy.realm.io/kr/posts/reactive-programming-with-rxswift/)
+
+- [2017년 2월 23일, RxSwift 예제로 감잡기 : RxSwift 시작을 위한 간단한 예제들 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-use-rxswift-with-simple-examples-ios-techtalk/)
+
+- [2017년 7월 4일, RxSwift로 반응형 프로그래밍하기](https://academy.realm.io/kr/posts/reactive-programming-with-rxswift/)
+
+- [2016년 7월 14일, RxSwift 시작하기](https://academy.realm.io/kr/posts/letswift-rxswift/)
+
+<br />
+
+[Top으로 가기](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EB%AA%A9%EC%B0%A8)
+
+<br />
+<br />
+
 
 * * *
 
