@@ -49,8 +49,11 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 	- [Tool?좋은 개발을 위한 도구의 활용](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#tool%EC%A2%8B%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%8F%84%EA%B5%AC%EC%9D%98-%ED%99%9C%EC%9A%A9)
 	- [서버 사이드](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EC%84%9C%EB%B2%84-%EC%82%AC%EC%9D%B4%EB%93%9C)
 	- [딥러닝](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EB%94%A5%EB%9F%AC%EB%8B%9D)
-	- [RxSwift](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#-rxswift)
+
+- [RxSwift](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#rxswift)
+
 - [iOS 개발팁](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#ios-%EA%B0%9C%EB%B0%9C-%ED%8C%81)
+
 - [기타링크](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EA%B8%B0%ED%83%80-%EB%A7%81%ED%81%AC)
 	
 	
@@ -323,33 +326,6 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 12월 13일, iOS와 케라스의 만남](https://www.youtube.com/watch?v=V4uRLSz9Ou0&feature=youtu.be)
 	- [모두를 위한 딥러닝 강좌 시즌 1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) : 스위프트는 아닙니다. 머신러닝 입분부터 종결은 여기를 참고해서 공부하세요. .. 교수님 감사합니다. (￣～￣)a
 
-# iOS 개발 팁
-> 믿고 보는 곰튀김님 🐻.. 감사합니다. 🙇‍ <br />
-구독과 댓글은 좋은 영상을 올려주시는 데, 큰 힘이 되실 것 입니다.😀<br />
-짧은 영상이지만 좋은 내용입니다. 추천 추천~
-
-- 🆕 [2018년 12월 09일, 마크다운으로 소스 문서화하기](https://www.youtube.com/watch?v=1EqGudbERF8)
-
-- 🆕 [2018년 12월 02일, Scheme으로 앱 다양화 하기](https://www.youtube.com/watch?v=j6Tsw_H8w_4)
-
-- 🆕 [2018년 11월 22일, 파일헤더 커스텀하기](https://www.youtube.com/watch?v=kH-TTsyhbLk) : 벡터이미지 사용하는 방법을 쉽게 알려주고 있습니다.<br />
-
-- 🆕 [2018년 11월 16일, PDF 벡터 이미지 사용하기](https://www.youtube.com/watch?v=9-cdvrLYrLs) : 벡터이미지 사용하는 방법을 쉽게 알려주고 있습니다.<br />
-
-- 🆕 [2018년 11월 06일, 라이브러리 전역으로 import 하기](https://www.youtube.com/watch?v=vWBEamf6Q0c) : 알면 정말 편합니다.<br />
-
-- 🆕 [2018년 10월 26일, 슬라이싱 이미지 사용하기](https://www.youtube.com/watch?v=rHJIEAyarik) : 이해하기 어려운 슬라이싱 이미지 사용법을 알기 쉽게 알려주십니다.<br />
-
-- 🆕 [2018년 10월 20일, 시뮬레이터에 이미지 넣기](https://www.youtube.com/watch?v=LVabEI92yKA) : 헉.. 이렇게 가능했군요..<br />
-
-- 🆕 [2018년 10월 14일, 스토리보드에서 커스텀 칼라 파레트 사용하기](https://www.youtube.com/watch?v=CmlzOIzsBeA&t=7s) : 우와.. 이렇게 가능하군요!!<br />
-
-- 🆕 [2018년 10월 12일, xcode에서 터미널 안열고 pod 적용하기](https://www.youtube.com/watch?v=0kvAm5n6-oc&t=15s) <br />
-
-- 🆕 [2018년 10월 09일, xcode에서 터미널 바로 열기](https://www.youtube.com/watch?v=GNu6IuU_UeE&t=1s) : 정말 편해졌어요. <br />
-
-- 🆕 [2018년 10월 08일, 콘솔 로그 출력할 때 팁](https://www.youtube.com/watch?v=jf9TBhyAXvo) : 로그를 어떻게 찍으면 좋을까.. 고민하시나요?
-
 <br />
 
 [Top으로 가기](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EB%AA%A9%EC%B0%A8)
@@ -394,6 +370,40 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 - [2017년 7월 4일, RxSwift로 반응형 프로그래밍하기](https://academy.realm.io/kr/posts/reactive-programming-with-rxswift/)
 
 - [2016년 7월 14일, RxSwift 시작하기](https://academy.realm.io/kr/posts/letswift-rxswift/)
+
+<br />
+
+[Top으로 가기](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EB%AA%A9%EC%B0%A8)
+
+<br />
+<br />
+
+# iOS 개발 팁
+> 믿고 보는 곰튀김님 🐻.. 감사합니다. 🙇‍ <br />
+구독과 댓글은 좋은 영상을 올려주시는 데, 큰 힘이 되실 것 입니다.😀<br />
+짧은 영상이지만 좋은 내용입니다. 추천 추천~
+
+- 🆕 [2018년 12월 09일, 마크다운으로 소스 문서화하기](https://www.youtube.com/watch?v=1EqGudbERF8)
+
+- 🆕 [2018년 12월 02일, Scheme으로 앱 다양화 하기](https://www.youtube.com/watch?v=j6Tsw_H8w_4)
+
+- 🆕 [2018년 11월 22일, 파일헤더 커스텀하기](https://www.youtube.com/watch?v=kH-TTsyhbLk) : 벡터이미지 사용하는 방법을 쉽게 알려주고 있습니다.<br />
+
+- 🆕 [2018년 11월 16일, PDF 벡터 이미지 사용하기](https://www.youtube.com/watch?v=9-cdvrLYrLs) : 벡터이미지 사용하는 방법을 쉽게 알려주고 있습니다.<br />
+
+- 🆕 [2018년 11월 06일, 라이브러리 전역으로 import 하기](https://www.youtube.com/watch?v=vWBEamf6Q0c) : 알면 정말 편합니다.<br />
+
+- 🆕 [2018년 10월 26일, 슬라이싱 이미지 사용하기](https://www.youtube.com/watch?v=rHJIEAyarik) : 이해하기 어려운 슬라이싱 이미지 사용법을 알기 쉽게 알려주십니다.<br />
+
+- 🆕 [2018년 10월 20일, 시뮬레이터에 이미지 넣기](https://www.youtube.com/watch?v=LVabEI92yKA) : 헉.. 이렇게 가능했군요..<br />
+
+- 🆕 [2018년 10월 14일, 스토리보드에서 커스텀 칼라 파레트 사용하기](https://www.youtube.com/watch?v=CmlzOIzsBeA&t=7s) : 우와.. 이렇게 가능하군요!!<br />
+
+- 🆕 [2018년 10월 12일, xcode에서 터미널 안열고 pod 적용하기](https://www.youtube.com/watch?v=0kvAm5n6-oc&t=15s) <br />
+
+- 🆕 [2018년 10월 09일, xcode에서 터미널 바로 열기](https://www.youtube.com/watch?v=GNu6IuU_UeE&t=1s) : 정말 편해졌어요. <br />
+
+- 🆕 [2018년 10월 08일, 콘솔 로그 출력할 때 팁](https://www.youtube.com/watch?v=jf9TBhyAXvo) : 로그를 어떻게 찍으면 좋을까.. 고민하시나요?
 
 <br />
 
