@@ -342,13 +342,18 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니다. <br />
 구독과 추천은 계속된 영상을 올려주시는 데 큰 힘이 될 것 입니다. 😍
 
-- [1 ReactiveX 사이트 둘러보기](https://www.youtube.com/watch?v=2uumx7Vzidc&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=2&t=0s)
-- [2 비동기 작업과 Observable](https://www.youtube.com/watch?v=5EI65fm4oqc&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=3&t=1s)
-- [3 Disposable DisposeBag](https://www.youtube.com/watch?v=TFd6JJAQXOc&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=4&t=0s)
-- [4 기본 Operators](https://www.youtube.com/watch?v=dzk-Q6F26KM&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=5&t=1s)
-- [5 Operator 종류들](https://www.youtube.com/watch?v=w_5PC61J-I8&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=6&t=0s)
-- [6 Marble Diagram 이해하기](https://www.youtube.com/watch?v=FJf2l3-6ijk&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=7&t=0s)
-- 링크는 계속 업로드 중입니다.
+- [2018년 12월 22일, 1 ReactiveX 사이트 둘러보기](https://www.youtube.com/watch?v=2uumx7Vzidc&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=2&t=0s)
+- [2018년 12월 22일, 2 비동기 작업과 Observable](https://www.youtube.com/watch?v=5EI65fm4oqc&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=3&t=1s)
+- [2018년 12월 24일, 3 Disposable DisposeBag](https://www.youtube.com/watch?v=TFd6JJAQXOc&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=4&t=0s)
+- [2018년 12월 26일, 4 기본 Operators](https://www.youtube.com/watch?v=dzk-Q6F26KM&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=5&t=1s)
+- [2018년 12월 27일, 5 Operator 종류들](https://www.youtube.com/watch?v=w_5PC61J-I8&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=6&t=0s)
+- [2018년 12월 28일, 6 Marble Diagram 이해하기](https://www.youtube.com/watch?v=FJf2l3-6ijk&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=7&t=0s)
+- 7 Next, Error, Completed
+- 8 Scheduler
+- 9 RxSwift 응용해보기
+- 10 Subject
+- 11 확장라이브러리들 그리고 마무리
+- [Github 자료 링크, RxSwift In 4 Hours](https://github.com/iamchiwon/RxSwift_In_4_Hours)
 
 ## 세션
 - 🆕 [2018년 11월 6일, RxSwift Internal](https://www.youtube.com/watch?v=DsE-sagI04A&index=9&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
