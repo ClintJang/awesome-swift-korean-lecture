@@ -348,7 +348,7 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 - [2018년 12월 26일, 4 기본 Operators](https://www.youtube.com/watch?v=dzk-Q6F26KM&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=5&t=1s)
 - [2018년 12월 27일, 5 Operator 종류들](https://www.youtube.com/watch?v=w_5PC61J-I8&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=6&t=0s)
 - [2018년 12월 28일, 6 Marble Diagram 이해하기](https://www.youtube.com/watch?v=FJf2l3-6ijk&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=7&t=0s)
-- 7 Next, Error, Completed
+- [2018년 12월 31일, 7 Next, Error, Completed](https://www.youtube.com/watch?v=GPI9zXatyog&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=7)
 - 8 Scheduler
 - 9 RxSwift 응용해보기
 - 10 Subject
