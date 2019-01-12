@@ -184,6 +184,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 5월 11일, 지속적인 전달을 위한 자동화 도구, fastlane: 데모와 함께 알아보기](https://academy.realm.io/kr/posts/ios-fastlane-demos/)
 
 ## iOS 활용 및 팁
+- 🆕 [2019년 1월 8일, 영어 변수명을 잘 지어보자](https://tv.naver.com/v/4980432)
+
 - 🆕 [2018년 10월 20일, 단축어와 놀기](https://youtu.be/yEH6gwWJ8fY)
 
 - [2018년 3월 10일, Haptic Feedback으로 시작하는 iOS 개발의 이모저모](https://www.youtube.com/watch?v=wouM0cQKx_w&feature=youtu.be)
@@ -223,6 +225,10 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## iOS 내부 구조 및 기본 Framework 활용
+- 🆕 [2019년 1월 8일, SiriKit 소개](https://tv.naver.com/v/4980375)
+
+- 🆕 [2019년 1월 8일, HTTP Live Streaming (HLS)](https://tv.naver.com/v/4980383)
+
 - 🆕 [2018년 10월 20일, SIMD&MPS in Swift](https://www.youtube.com/watch?v=S5tJi4KCItI&index=10&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) : 조금 어렵습니다. 😓
 
 - 🆕 [2018년 10월 20일, ARKit](https://youtu.be/pmMJXfY-h-g)
@@ -238,6 +244,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 6월 21일, Playground 100% 활용하기](https://academy.realm.io/kr/posts/swift-playground/)
 
 ## 디자인패턴 & 코드 스타일
+- 🆕 [2019년 1월 8일, Architecture + Clean Swift](https://tv.naver.com/v/4980400)
+
 - 🆕 [2018년 11월 6일, ReSwift와 함께 Unidirectional Architecture](https://www.youtube.com/watch?v=ypI9VP0Q48k&index=8&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
 
 - 🆕 [2018년 10월 20일, 알아보자 DI와 Deli](https://youtu.be/Mw-8V0srRzA) : DI 란? 아시나요?
