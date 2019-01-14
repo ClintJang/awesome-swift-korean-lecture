@@ -359,6 +359,7 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 - [2018년 12월 31일, 7 Next, Error, Completed](https://www.youtube.com/watch?v=GPI9zXatyog&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=7)
 - [2018년 1월 4일, 8 Scheduler](https://www.youtube.com/watch?v=HwRG3COUncA)
 - [2018년 1월 10일, 9 RxSwift 응용해보기](https://www.youtube.com/watch?v=gzJj_4X28wM)
+- [2018년 1월 13일, 10 Subject](https://www.youtube.com/watch?v=IZr2E_CcO28)
 - [Github 자료 링크, RxSwift In 4 Hours](https://github.com/iamchiwon/RxSwift_In_4_Hours)
 
 ## 세션
