@@ -342,10 +342,10 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 <br />
 
 # RxSwift
-> RxSwift는 중급 이상이라 생각됩니다. <br />
-함수형 프로그래밍에 관심이 있다면, rxswift 의 세계에 관심가져야된다고 생각합니다.
+> RxSwift는 초중급 이상이라 생각됩니다. <br />
+함수형 프로그래밍에 관심이 있다면, RxSwift 의 세계에 관심가져야된다고 생각합니다.
 
-## 🆕 **⭐** [RxSwift 4시간에 끝내기](https://www.youtube.com/playlist?list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
+## 🆕 **⭐⭐** [RxSwift 4시간에 끝내기](https://www.youtube.com/playlist?list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
 > [곰튀김님](https://www.youtube.com/channel/UCsrPur3UrxuwGmT1Jq6tkQw) 유튜브 링크 입니다. <br />
 RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니다. <br />
 구독과 추천은 계속된 영상을 올려주시는 데 큰 힘이 될 것 입니다. 😍
@@ -357,9 +357,10 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 - [2018년 12월 27일, 5 Operator 종류들](https://www.youtube.com/watch?v=w_5PC61J-I8&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=6&t=0s)
 - [2018년 12월 28일, 6 Marble Diagram 이해하기](https://www.youtube.com/watch?v=FJf2l3-6ijk&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=7&t=0s)
 - [2018년 12월 31일, 7 Next, Error, Completed](https://www.youtube.com/watch?v=GPI9zXatyog&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=7)
-- [2018년 1월 4일, 8 Scheduler](https://www.youtube.com/watch?v=HwRG3COUncA)
-- [2018년 1월 10일, 9 RxSwift 응용해보기](https://www.youtube.com/watch?v=gzJj_4X28wM)
-- [2018년 1월 13일, 10 Subject](https://www.youtube.com/watch?v=IZr2E_CcO28)
+- [2019년 1월 4일, 8 Scheduler](https://www.youtube.com/watch?v=HwRG3COUncA)
+- [2019년 1월 10일, 9 RxSwift 응용해보기](https://www.youtube.com/watch?v=gzJj_4X28wM)
+- [2019년 1월 13일, 10 Subject](https://www.youtube.com/watch?v=IZr2E_CcO28)
+- [2019년 1월 16일, 11 확장라이브러리들 그리고 마무리](https://www.youtube.com/watch?v=Ug_q8SPpvAY)
 - [Github 자료 링크, RxSwift In 4 Hours](https://github.com/iamchiwon/RxSwift_In_4_Hours)
 
 ## 세션
