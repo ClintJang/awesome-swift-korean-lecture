@@ -361,6 +361,7 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 - [2019년 1월 10일, 9 RxSwift 응용해보기](https://www.youtube.com/watch?v=gzJj_4X28wM&index=9&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
 - [2019년 1월 13일, 10 Subject](https://www.youtube.com/watch?v=IZr2E_CcO28&index=10&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
 - [2019년 1월 16일, 11 확장라이브러리들 그리고 마무리](https://www.youtube.com/watch?v=Ug_q8SPpvAY&index=11&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
+- [2019년 1월 20일, RxSwift 4시간에 끝내기 (종합편)](https://www.youtube.com/watch?v=w5Qmie-GbiA&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=1)
 	- [Github 자료 링크, RxSwift In 4 Hours](https://github.com/iamchiwon/RxSwift_In_4_Hours)
 
 ## 세션
