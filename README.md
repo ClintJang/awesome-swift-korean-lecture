@@ -364,6 +364,10 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 - [2019년 1월 20일, RxSwift 4시간에 끝내기 (종합편)](https://www.youtube.com/watch?v=w5Qmie-GbiA&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=1)
 	- [Github 자료 링크, RxSwift In 4 Hours](https://github.com/iamchiwon/RxSwift_In_4_Hours)
 
+<br />
+
+- [2019년 1월 27일, Legacy 코드를 RxSwift를 적용하여 리팩토링 하기](https://www.youtube.com/watch?v=fCNr9bNPdAA)
+
 ## 세션
 - 🆕 [2018년 11월 6일, RxSwift Internal](https://www.youtube.com/watch?v=DsE-sagI04A&index=9&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
 
