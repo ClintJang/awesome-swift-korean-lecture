@@ -368,6 +368,7 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 
 - [2019년 1월 27일, Legacy 코드를 RxSwift를 적용하여 리팩토링 하기](https://www.youtube.com/watch?v=fCNr9bNPdAA)
 - [2019년 1월 29일, Observable.create() 를 사용하는 방법](https://www.youtube.com/watch?v=XAoQPlBzPCE&t=30s)
+- [2019년 2월 8일, scan 과 window 오퍼레이터의 동작을 알아봅시다](https://www.youtube.com/watch?v=bRbJ3Nyfg-I)
 
 ## 세션
 - 🆕 [2018년 11월 6일, RxSwift Internal](https://www.youtube.com/watch?v=DsE-sagI04A&index=9&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
