@@ -393,6 +393,8 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 
 - [2017년 7월 4일, RxSwift로 반응형 프로그래밍하기](https://academy.realm.io/kr/posts/reactive-programming-with-rxswift/)
 
+- [2016년 10월 19일, RxSwift를 이용하여 콜백 지옥 탈출하기](https://www.youtube.com/watch?v=jCT-eUaD-d4&t=713s)
+
 - [2016년 7월 14일, RxSwift 시작하기](https://academy.realm.io/kr/posts/letswift-rxswift/)
 
 <br />
