@@ -117,11 +117,15 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 링크 안에 강의 동영상을 볼 수 있는 링크가 있습니다.
 
 ## Let us:Go! ([iOS Developer KR](https://github.com/iOSDevKor))
+- 2019
+  - 🆕 봄 세션 : 3월 30일, 토요일 그리고 장소는 현재 미정입니다. (정보를 알게 되는 데로 업데이트 하겠습니다.)
+
 - 2018
   - 봄 세션 : https://iosdevkor.github.io/let_us_go_2018_spring_review/
   - 여름 세션 : https://iosdevkor.github.io/let_us_go_2018_summer_review/
       - [2018 Summer let us: Go!](http://zeddios.tistory.com/m/566?category=707488) : 블로거 Zedd님 후기
   - 🆕 가을 세션 : https://iosdevkor.github.io/let_us_go_2018_fall_review/
+
 - 2017
   - 봄 세션 : https://iosdevkor.github.io/let_us_go_2017_spring_review/
   - 여름 세션 : https://iosdevkor.github.io/let_us_go_2017_summer_review/
