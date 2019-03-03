@@ -375,6 +375,7 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 - [2019년 2월 8일, scan 과 window 오퍼레이터의 동작을 알아봅시다](https://www.youtube.com/watch?v=bRbJ3Nyfg-I)
 - [2019년 2월 23일, RxSwift를 쓰면 왜 메모리 릭이 발생하나요? 어떻게 해결할 수 있을 까요?](https://www.youtube.com/watch?v=687KaKJ8B7U)
 - [2019년 2월 25일, RxSwift의 stream은 어떻게 디버깅 해야 하나요?](https://www.youtube.com/watch?v=MWORX8dMPw0)
+- [2019년 2월 28일, map과 flatMap이 뭐가 다른지 모르겠다구요?](https://www.youtube.com/watch?v=gtH4Cj7HQ48)
 
 ## 세션
 - 🆕 [2018년 11월 6일, RxSwift Internal](https://www.youtube.com/watch?v=DsE-sagI04A&index=9&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
