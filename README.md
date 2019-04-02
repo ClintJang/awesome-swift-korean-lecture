@@ -379,6 +379,7 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 - [2019년 2월 28일, map과 flatMap이 뭐가 다른지 모르겠다구요?](https://www.youtube.com/watch?v=gtH4Cj7HQ48)
 - [2019년 3월 5일, Subject/Relay를 언제써야할지 모르겠다구요?](https://www.youtube.com/watch?v=N5EcLBzhZ64)
 - [2019년 3월 23일, ReactiveX 라이브러리의 정체가 한방에 풀린다.](https://www.youtube.com/watch?v=V6UGgjP2QgY)
+- [2019년 3월 23일, 비동기 프로그래밍에서 결과값을 전달하는 방법](https://www.youtube.com/watch?v=N2X2AbLMbzE)
 
 ## 세션
 - 🆕 [2018년 11월 6일, RxSwift Internal](https://www.youtube.com/watch?v=DsE-sagI04A&index=9&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
