@@ -250,6 +250,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 6월 21일, Playground 100% 활용하기](https://academy.realm.io/kr/posts/swift-playground/)
 
 ## 디자인패턴 & 코드 스타일
+- 🆕 [2019년 3월 30일, iOS 환경에 SOLID 적용하기](https://youtu.be/QXVO2NcarkQ)
+
 - 🆕 [2019년 1월 8일, Architecture + Clean Swift](https://tv.naver.com/v/4980400)
 
 - [2018년 11월 6일, ReSwift와 함께 Unidirectional Architecture](https://www.youtube.com/watch?v=ypI9VP0Q48k&index=8&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
