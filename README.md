@@ -190,6 +190,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 5월 11일, 지속적인 전달을 위한 자동화 도구, fastlane: 데모와 함께 알아보기](https://academy.realm.io/kr/posts/ios-fastlane-demos/)
 
 ## iOS 활용 및 팁
+- 🆕 **⭐** [2019년 3월 30일, 프레임워크 주도 개발](https://youtu.be/YiEpuZQPuko)
+
 - 🆕 [2019년 1월 8일, 영어 변수명을 잘 지어보자](https://tv.naver.com/v/4980432)
 
 - [2018년 10월 20일, 단축어와 놀기](https://youtu.be/yEH6gwWJ8fY)
