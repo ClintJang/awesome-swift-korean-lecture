@@ -231,8 +231,6 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## iOS 내부 구조 및 기본 Framework 활용
-- 🆕 [2019년 3월 30일, RxFlow 시작하기](https://youtu.be/udqzq0vHpv0)
-
 - 🆕 [2019년 1월 8일, SiriKit 소개](https://tv.naver.com/v/4980375)
 
 - 🆕 [2019년 1월 8일, HTTP Live Streaming (HLS)](https://tv.naver.com/v/4980383)
@@ -300,7 +298,12 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 3월 16일, 2017년 애플 생태계의 변화](https://academy.realm.io/kr/posts/apple-trend-2017/)
 
 ## 라이브러리
+- 🆕 [2019년 3월 30일, RxFlow 시작하기](https://youtu.be/udqzq0vHpv0) : Coordinator Pattern을 아시나요?
+
+- 🆕 [2019년 3월 30일, Texture 입문기](https://youtu.be/tTG_XI6YKc0)
+
 - [2018년 7월 21일, Texture Reactive wrapper 만들고 응용하기](https://www.youtube.com/watch?v=cnW2B019_2w&feature=player_embedded)
+
 
 ## 개발경험
 - 🆕 [2019년 3월 30일, 개발자 스탠딩 코미디](https://youtu.be/vB4juojkfcY)
