@@ -303,6 +303,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2018년 7월 21일, Texture Reactive wrapper 만들고 응용하기](https://www.youtube.com/watch?v=cnW2B019_2w&feature=player_embedded)
 
 ## 개발경험
+- 🆕 [2019년 3월 30일, 개발자 스탠딩 코미디](https://youtu.be/vB4juojkfcY)
+
 - [2018년 11월 6일, 사이드프로젝트로 앱스토어1위공략하기](https://www.youtube.com/watch?v=_2t24zQvRFs&index=3&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
 
 - [2018년 11월 6일, TDS(Toss Design System) v2 소개](https://www.youtube.com/watch?v=fWdXnLERm8E&index=5&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
