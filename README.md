@@ -312,6 +312,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 2월 28일, 기획, 디자인 변경에 강한 카드뷰 만들기 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-make-cardview-ios-tech-talk/)
 
 ## 세션 투어
+- 🆕 [2019년 3월 30일, try! Swift 2019 후기](https://youtu.be/K0VFMOanmlw)
+
 - [2017년 6월 27일, try! Swift Tokyo 2017 후기](https://academy.realm.io/kr/posts/try-swift-tokyo-2017-review/)
 
 
