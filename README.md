@@ -77,11 +77,11 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 		- [조건문](https://www.youtube.com/watch?v=TmO3cTiJDIc), &nbsp; &nbsp; [함수 기본](https://www.youtube.com/watch?v=TkM2Xcnt2Xk), &nbsp; &nbsp; [컬렉션 타입 (Array, Dictionary, Set)](https://www.youtube.com/watch?v=FWFbZGoQPUI)
 		- [Any, AnyObject, nil](https://www.youtube.com/watch?v=1QV4-B5ibd4), &nbsp; &nbsp; [기본 데이터 타입](https://www.youtube.com/watch?v=3qu7gpzE9IE), &nbsp; &nbsp; [상수와 변수](https://www.youtube.com/watch?v=umgxytoUdsE)
 		- [이름짓기, 콘솔로그, 문자열 보간법](https://www.youtube.com/watch?v=8Xe_fr_WRgc), &nbsp; &nbsp; [CocoaPods 설치](https://www.youtube.com/watch?v=sqcfdBzJYKQ)
-	- **⭐⭐** 🆕 [인프런(iOS 프로그래밍)](https://www.inflearn.com/course/ios-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/) : 😍 iOS 애플리케이션을 제작함에 있어 필요한 기본 지식과 테크닉을 전달하고, 방대한 분량의 iOS 관련 지식을 스스로 익힐수 있는 방향을 제시합니다. (2018년 6월 20일 신규 오픈)
+	- **⭐⭐** [인프런(iOS 프로그래밍)](https://www.inflearn.com/course/ios-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/) : 😍 iOS 애플리케이션을 제작함에 있어 필요한 기본 지식과 테크닉을 전달하고, 방대한 분량의 iOS 관련 지식을 스스로 익힐수 있는 방향을 제시합니다. (2018년 6월 20일 신규 오픈)
 	- [인프런(스위프트 기본 문법)]( https://www.inflearn.com/course/스위프트-기본-문법/) : swift 기본 문법을 익히는 강의 입니다. 
 	- [구름edu(야곰님)](https://edu.goorm.io/lecture/1141/%EC%95%BC%EA%B3%B0%EC%9D%98-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) : 신청해보면😭 추후에 업데이트 하겠습니다.
 - **⭐** [인프런(스탠퍼드)](https://www.inflearn.com/course/stanford-ios-한글자막-강의/) : 스탠퍼드 swift 강의, swift 2.0 기반이지만, 단순 문법외에 MVC, swift의 기본적인 필수 내용이 가득합니다. (무료강의)
-- **⭐** 🆕 [Swift로 함수형 프로그래밍 시작하기 - programmers.co.kr](https://programmers.co.kr/learn/courses/4806) : 파트1. 함수형 프로그래밍 소개 를 들어보세요. swift는 FP 입니다. Objc의 OOP와는 다른 패러다임을 가지고 있습니다. 그 이유를 알 수 있게 도와주실 것 입니다.
+- **⭐** [Swift로 함수형 프로그래밍 시작하기 - programmers.co.kr](https://programmers.co.kr/learn/courses/4806) : 파트1. 함수형 프로그래밍 소개 를 들어보세요. swift는 FP 입니다. Objc의 OOP와는 다른 패러다임을 가지고 있습니다. 그 이유를 알 수 있게 도와주실 것 입니다.
 - **⭐** [iOS Swift입문 - programmers.co.kr](https://programmers.co.kr/learn/courses/4) : Swift의 기본부터 iOS 앱 개발까지 배울 수 있습니다. (무료강의로 알고 있습니다.)
 - **⭐** [T아카데미](https://www.youtube.com/watch?v=VJivCns4TAI) : T아카데미 Swift 프로그래밍 강의입니다. Swift 프로그래밍 1강 Swift 소개와 개발 환경 ~ 20강 파운데이션 4, 네트워크 기본, 리소스 얻기, JSON 다루기까지 있습니다. 유투브 무료강의 입니다. 
 	- [1강](https://www.youtube.com/watch?v=VJivCns4TAI), &nbsp; [2강](https://www.youtube.com/watch?v=eIdxnbT2uag), &nbsp; [3강](https://www.youtube.com/watch?v=_8LoENXbBaQ), &nbsp; [4강](https://www.youtube.com/watch?v=GdtoOIy_GDQ&t=901s), &nbsp; [5강](https://www.youtube.com/watch?v=FVsGL438P-I)
@@ -136,7 +136,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## Let's Swift
-- 🆕 2018 : [http://letswift.kr/2018/](http://letswift.kr/2018/)
+- 2018 : [http://letswift.kr/2018/](http://letswift.kr/2018/)
 - 2017 : http://letswift.kr/2017/
 - 2016 : http://letswift.kr/2016/
 
@@ -172,7 +172,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - **⭐** [2017년 4월 18일, 오토 레이아웃 기초 2 (입문자용 중요)](https://academy.realm.io/kr/posts/ios-autolayout/)
 
 ## 메모리 & 컴파일러
-- 🆕 **⭐** [2018년 10월 20일, Debugging With Xcode, LLDB and Chisel](https://youtu.be/U0tK6jPLtN8) : LLDB 알면 좋은 것!
+- **⭐** [2018년 10월 20일, Debugging With Xcode, LLDB and Chisel](https://youtu.be/U0tK6jPLtN8) : LLDB 알면 좋은 것!
 
 - **⭐⭐** [2016년 7월 19일, Swift 성능 이해하기](https://academy.realm.io/kr/posts/letswift-swift-performance/) : Value 타입, Protocol과 스위프트의 성능 최적화
 
@@ -192,7 +192,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## iOS 활용 및 팁
 - 🆕 [2019년 1월 8일, 영어 변수명을 잘 지어보자](https://tv.naver.com/v/4980432)
 
-- 🆕 [2018년 10월 20일, 단축어와 놀기](https://youtu.be/yEH6gwWJ8fY)
+- [2018년 10월 20일, 단축어와 놀기](https://youtu.be/yEH6gwWJ8fY)
 
 - [2018년 3월 10일, Haptic Feedback으로 시작하는 iOS 개발의 이모저모](https://www.youtube.com/watch?v=wouM0cQKx_w&feature=youtu.be)
 
@@ -202,9 +202,9 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## Swift 기본 활용
-- 🆕 **⭐⭐** [2018년 10월 20일, Advanced Higher-Order Function](https://youtu.be/HVRre-y1hnM)
+- **⭐⭐** [2018년 10월 20일, Advanced Higher-Order Function](https://youtu.be/HVRre-y1hnM)
 
-- 🆕 **⭐** [2018년 10월 20일, Swift Generics](https://youtu.be/xICkz2rZcVA)
+- **⭐** [2018년 10월 20일, Swift Generics](https://youtu.be/xICkz2rZcVA)
 
 - **⭐⭐** [2018년 3월 10일, Functional Programming 이 뭐하는 건가요?](https://www.youtube.com/watch?v=HZkqMiwT-5A&feature=youtu.be) : 함수형 프로그램이란? 아시나요? :)
 
@@ -235,9 +235,9 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 - 🆕 [2019년 1월 8일, HTTP Live Streaming (HLS)](https://tv.naver.com/v/4980383)
 
-- 🆕 [2018년 10월 20일, SIMD&MPS in Swift](https://www.youtube.com/watch?v=S5tJi4KCItI&index=10&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) : 조금 어렵습니다. 😓
+- [2018년 10월 20일, SIMD&MPS in Swift](https://www.youtube.com/watch?v=S5tJi4KCItI&index=10&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) : 조금 어렵습니다. 😓
 
-- 🆕 [2018년 10월 20일, ARKit](https://youtu.be/pmMJXfY-h-g)
+- [2018년 10월 20일, ARKit](https://youtu.be/pmMJXfY-h-g)
 : &nbsp;[예제코드 링크](https://github.com/tokijh/ARVideoPlayer) &nbsp;를 빌드해서 폰에 넣어보세요.
 
 - [2018년 3월 10일, The Sandbox Container Directory](https://www.youtube.com/watch?v=h0ROjqEEF50&feature=youtu.be)
@@ -252,9 +252,9 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## 디자인패턴 & 코드 스타일
 - 🆕 [2019년 1월 8일, Architecture + Clean Swift](https://tv.naver.com/v/4980400)
 
-- 🆕 [2018년 11월 6일, ReSwift와 함께 Unidirectional Architecture](https://www.youtube.com/watch?v=ypI9VP0Q48k&index=8&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
+- [2018년 11월 6일, ReSwift와 함께 Unidirectional Architecture](https://www.youtube.com/watch?v=ypI9VP0Q48k&index=8&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
 
-- 🆕 [2018년 10월 20일, 알아보자 DI와 Deli](https://youtu.be/Mw-8V0srRzA) : DI 란? 아시나요?
+- [2018년 10월 20일, 알아보자 DI와 Deli](https://youtu.be/Mw-8V0srRzA) : DI 란? 아시나요?
 
 - [2017년 11월 4일, 디자인 패턴 적용기](https://www.youtube.com/watch?v=MXSKM6aQ7Wo&feature=youtu.be) : 디자인 패턴이 어렵게 여기지 않으셔도 될 것 같습니다. 개발자와 소통하기 위한 한 수단이 될 수 있습니다.
 
@@ -267,10 +267,10 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - **⭐** [2016년 8월 9일, Swift에서 프로토콜 중심 프로그래밍(POP)하기](https://academy.realm.io/kr/posts/protocol-oriented-programming-in-swift/)
 
 ## TDD
-- 🆕 [2018년 11월 6일, Let's TDD](https://www.youtube.com/watch?v=meTnd09Pf_M&feature=youtu.be) : 워크숍 세션이라 발표자료와 셈플 코드도 참고해주세요.
+- [2018년 11월 6일, Let's TDD](https://www.youtube.com/watch?v=meTnd09Pf_M&feature=youtu.be) : 워크숍 세션이라 발표자료와 셈플 코드도 참고해주세요.
 	- [발표자료](https://www.slideshare.net/devxoul/lets-tdd-122653088), &nbsp; [샘플코드](https://github.com/devxoul/LetsGitHubSearch)
 
-- 🆕 **⭐** [2018년 7월 21일, iOS TDD 실무에 적용하기](https://www.youtube.com/watch?v=wDo8656evW8&feature=player_embedded) : 애니옵젝님의 너무 멋진 말씀..
+- **⭐** [2018년 7월 21일, iOS TDD 실무에 적용하기](https://www.youtube.com/watch?v=wDo8656evW8&feature=player_embedded) : 애니옵젝님의 너무 멋진 말씀..
 - **⭐** [2017년 11월 4일, Test Driven Development](https://www.youtube.com/watch?v=eX_y33jHSHs&feature=youtu.be) : TDD를 하시나요?
 
 - [2017년 3월 15일, iOS에서 TDD(Test-Driven Development)하기](https://academy.realm.io/kr/posts/ios-tdd-test-driven-development/)
@@ -279,7 +279,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 7월 27일, Swift로 꼬리 재귀 사용하기](https://academy.realm.io/kr/posts/swift-tail-recursion/)
 
 ## 네트워킹
-- 🆕 [2018년 11월 6일, GraphQL over Rest API](https://www.youtube.com/watch?v=4JW8kku0V5I&index=12&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
+- [2018년 11월 6일, GraphQL over Rest API](https://www.youtube.com/watch?v=4JW8kku0V5I&index=12&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
 
 - [2017년 11월 13일, 프로토콜을 활용한 비동기 네트워킹 로직 테스팅](https://www.youtube.com/watch?v=R3Bp3c8O3WM&feature=youtu.be)
 
@@ -287,23 +287,23 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 12월 20일, Metal 기반 특별한 UI/UX 제공하기](https://www.youtube.com/watch?v=mB9d5RDNryw&feature=youtu.be)
 
 ## WWDC & Apple
-- 🆕 [2018년 11월 6일, Let'Swift 2018 키노트](https://www.youtube.com/watch?v=xZ5IywL9Zkg&index=2&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS&t=6s)
+- [2018년 11월 6일, Let'Swift 2018 키노트](https://www.youtube.com/watch?v=xZ5IywL9Zkg&index=2&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS&t=6s)
 
-- 🆕 [2018년 7월 21일, 미리보는 Marzipan](https://www.youtube.com/watch?v=egZ_kPa7MzE&feature=youtu.be)
+- [2018년 7월 21일, 미리보는 Marzipan](https://www.youtube.com/watch?v=egZ_kPa7MzE&feature=youtu.be)
 
 - [2017년 8월 14일, WWDC 2017 톺아보기](https://academy.realm.io/kr/posts/wwdc-2017-review/)
 
 - [2017년 3월 16일, 2017년 애플 생태계의 변화](https://academy.realm.io/kr/posts/apple-trend-2017/)
 
 ## 라이브러리
-- 🆕 [2018년 7월 21일, Texture Reactive wrapper 만들고 응용하기](https://www.youtube.com/watch?v=cnW2B019_2w&feature=player_embedded)
+- [2018년 7월 21일, Texture Reactive wrapper 만들고 응용하기](https://www.youtube.com/watch?v=cnW2B019_2w&feature=player_embedded)
 
 ## 개발경험
-- 🆕 [2018년 11월 6일, 사이드프로젝트로 앱스토어1위공략하기](https://www.youtube.com/watch?v=_2t24zQvRFs&index=3&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
+- [2018년 11월 6일, 사이드프로젝트로 앱스토어1위공략하기](https://www.youtube.com/watch?v=_2t24zQvRFs&index=3&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
 
-- 🆕 [2018년 11월 6일, TDS(Toss Design System) v2 소개](https://www.youtube.com/watch?v=fWdXnLERm8E&index=5&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
+- [2018년 11월 6일, TDS(Toss Design System) v2 소개](https://www.youtube.com/watch?v=fWdXnLERm8E&index=5&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
 
-- 🆕 [2018년 10월 20일, Swift 개발자의 React-Native 도전 후기](https://youtu.be/Ko5XanZmxFo)
+- [2018년 10월 20일, Swift 개발자의 React-Native 도전 후기](https://youtu.be/Ko5XanZmxFo)
 
 - [2018년 3월 19일, Swift로 코인 트레이딩 하기](https://www.youtube.com/watch?v=QRIs7khkNXc&list=PLJ0BuvoGAkXtLlG8xQEmG18CuamDy5LG8&index=6&t=0s)
 
@@ -325,7 +325,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2016년 9월 11일, Swift 모바일데이터베이스 : Realm](https://academy.realm.io/kr/posts/realm-swift-mobile-database/)
 
 ## Tool?좋은 개발을 위한 도구의 활용
-- 🆕 [2018년 11월 6일, iOS Ruby](https://www.youtube.com/watch?v=BDuVrhfnsnE&index=4&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
+- [2018년 11월 6일, iOS Ruby](https://www.youtube.com/watch?v=BDuVrhfnsnE&index=4&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
 
 - [2017년 12월 13일, Simulator Customizing & Testing](https://www.youtube.com/watch?v=4i2EBnmUMcs&feature=youtu.be)
 
@@ -351,7 +351,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 > RxSwift는 초중급 이상이라 생각됩니다. <br />
 함수형 프로그래밍에 관심이 있다면, RxSwift 의 세계에 관심가져야된다고 생각합니다.
 
-## 🆕 **⭐⭐** [RxSwift 4시간에 끝내기](https://www.youtube.com/playlist?list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
+## **⭐⭐** [RxSwift 4시간에 끝내기](https://www.youtube.com/playlist?list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
 > [곰튀김님](https://www.youtube.com/channel/UCsrPur3UrxuwGmT1Jq6tkQw) 유튜브 링크 입니다. <br />
 RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니다. <br />
 구독과 추천은 계속된 영상을 올려주시는 데 큰 힘이 될 것 입니다. 😍
@@ -363,33 +363,33 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 - [2018년 12월 27일, 5 Operator 종류들](https://www.youtube.com/watch?v=w_5PC61J-I8&index=5&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
 - [2018년 12월 28일, 6 Marble Diagram 이해하기](https://www.youtube.com/watch?v=FJf2l3-6ijk&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=6)
 - [2018년 12월 31일, 7 Next, Error, Completed](https://www.youtube.com/watch?v=GPI9zXatyog&index=7&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
-- [2019년 1월 4일, 8 Scheduler](https://www.youtube.com/watch?v=HwRG3COUncA&index=8&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
-- [2019년 1월 10일, 9 RxSwift 응용해보기](https://www.youtube.com/watch?v=gzJj_4X28wM&index=9&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
-- [2019년 1월 13일, 10 Subject](https://www.youtube.com/watch?v=IZr2E_CcO28&index=10&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
-- [2019년 1월 16일, 11 확장라이브러리들 그리고 마무리](https://www.youtube.com/watch?v=Ug_q8SPpvAY&index=11&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
-- [2019년 1월 20일, RxSwift 4시간에 끝내기 (종합편)](https://www.youtube.com/watch?v=w5Qmie-GbiA&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=1)
+- 🆕 [2019년 1월 4일, 8 Scheduler](https://www.youtube.com/watch?v=HwRG3COUncA&index=8&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
+- 🆕 [2019년 1월 10일, 9 RxSwift 응용해보기](https://www.youtube.com/watch?v=gzJj_4X28wM&index=9&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
+- 🆕 [2019년 1월 13일, 10 Subject](https://www.youtube.com/watch?v=IZr2E_CcO28&index=10&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
+- 🆕 [2019년 1월 16일, 11 확장라이브러리들 그리고 마무리](https://www.youtube.com/watch?v=Ug_q8SPpvAY&index=11&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
+- 🆕 [2019년 1월 20일, RxSwift 4시간에 끝내기 (종합편)](https://www.youtube.com/watch?v=w5Qmie-GbiA&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=1)
 	- [Github 자료 링크, RxSwift In 4 Hours](https://github.com/iamchiwon/RxSwift_In_4_Hours)
 
 <br />
 
-- [2019년 1월 27일, Legacy 코드를 RxSwift를 적용하여 리팩토링 하기](https://www.youtube.com/watch?v=fCNr9bNPdAA)
-- [2019년 1월 29일, Observable.create() 를 사용하는 방법](https://www.youtube.com/watch?v=XAoQPlBzPCE&t=30s)
-- [2019년 2월 8일, scan 과 window 오퍼레이터의 동작을 알아봅시다](https://www.youtube.com/watch?v=bRbJ3Nyfg-I)
-- [2019년 2월 23일, RxSwift를 쓰면 왜 메모리 릭이 발생하나요? 어떻게 해결할 수 있을 까요?](https://www.youtube.com/watch?v=687KaKJ8B7U)
-- [2019년 2월 25일, RxSwift의 stream은 어떻게 디버깅 해야 하나요?](https://www.youtube.com/watch?v=MWORX8dMPw0)
-- [2019년 2월 28일, map과 flatMap이 뭐가 다른지 모르겠다구요?](https://www.youtube.com/watch?v=gtH4Cj7HQ48)
-- [2019년 3월 5일, Subject/Relay를 언제써야할지 모르겠다구요?](https://www.youtube.com/watch?v=N5EcLBzhZ64)
-- [2019년 3월 23일, ReactiveX 라이브러리의 정체가 한방에 풀린다.](https://www.youtube.com/watch?v=V6UGgjP2QgY)
-- [2019년 3월 25일, 비동기 프로그래밍에서 결과값을 전달하는 방법](https://www.youtube.com/watch?v=N2X2AbLMbzE)
-- [2019년 3월 28일, DisposeBag이 뭐길래, 왜 사용하는 건가요?](https://www.youtube.com/watch?v=pVWlpGthIH0)
-- [2019년 4월 1일, 마블 다이어그램 이해하기: 페이지 읽는 방법](https://www.youtube.com/watch?v=UJd_rVAZxCQ)
+- 🆕 [2019년 1월 27일, Legacy 코드를 RxSwift를 적용하여 리팩토링 하기](https://www.youtube.com/watch?v=fCNr9bNPdAA)
+- 🆕 [2019년 1월 29일, Observable.create() 를 사용하는 방법](https://www.youtube.com/watch?v=XAoQPlBzPCE&t=30s)
+- 🆕 [2019년 2월 8일, scan 과 window 오퍼레이터의 동작을 알아봅시다](https://www.youtube.com/watch?v=bRbJ3Nyfg-I)
+- 🆕 [2019년 2월 23일, RxSwift를 쓰면 왜 메모리 릭이 발생하나요? 어떻게 해결할 수 있을 까요?](https://www.youtube.com/watch?v=687KaKJ8B7U)
+- 🆕 [2019년 2월 25일, RxSwift의 stream은 어떻게 디버깅 해야 하나요?](https://www.youtube.com/watch?v=MWORX8dMPw0)
+- 🆕 [2019년 2월 28일, map과 flatMap이 뭐가 다른지 모르겠다구요?](https://www.youtube.com/watch?v=gtH4Cj7HQ48)
+- 🆕 [2019년 3월 5일, Subject/Relay를 언제써야할지 모르겠다구요?](https://www.youtube.com/watch?v=N5EcLBzhZ64)
+- 🆕 [2019년 3월 23일, ReactiveX 라이브러리의 정체가 한방에 풀린다.](https://www.youtube.com/watch?v=V6UGgjP2QgY)
+- 🆕 [2019년 3월 25일, 비동기 프로그래밍에서 결과값을 전달하는 방법](https://www.youtube.com/watch?v=N2X2AbLMbzE)
+- 🆕 [2019년 3월 28일, DisposeBag이 뭐길래, 왜 사용하는 건가요?](https://www.youtube.com/watch?v=pVWlpGthIH0)
+- 🆕 [2019년 4월 1일, 마블 다이어그램 이해하기: 페이지 읽는 방법](https://www.youtube.com/watch?v=UJd_rVAZxCQ)
 
 ## 세션
-- 🆕 [2018년 11월 6일, RxSwift Internal](https://www.youtube.com/watch?v=DsE-sagI04A&index=9&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
+- [2018년 11월 6일, RxSwift Internal](https://www.youtube.com/watch?v=DsE-sagI04A&index=9&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
 
-- 🆕 [2018년 11월 6일, Reactor Kit으로 RxSwift 시작하기](https://www.youtube.com/watch?v=G1b1sBy8XBA&index=7&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
+- [2018년 11월 6일, Reactor Kit으로 RxSwift 시작하기](https://www.youtube.com/watch?v=G1b1sBy8XBA&index=7&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
 
-- 🆕 [2018년 11월 6일, RxRIBs, Multiplatform architecture with Rx](https://www.youtube.com/watch?v=BvPW-cd8mpw&index=6&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
+- [2018년 11월 6일, RxRIBs, Multiplatform architecture with Rx](https://www.youtube.com/watch?v=BvPW-cd8mpw&index=6&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
 
 - **⭐⭐** [2017년 11월 4일, Functional Reactive Programming Paradigm](https://www.youtube.com/watch?v=cXi_CmZuBgg&feature=youtu.be) : 왜? rxswift를 해야되는 지, 기본이 되는 용어에 대해 좋은 설명을 해주십니다. 꼭 보셔요~ 
 
@@ -419,27 +419,27 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 구독과 댓글은 좋은 영상을 올려주시는 데, 큰 힘이 되실 것 입니다.😀<br />
 짧은 영상이지만 좋은 내용입니다. 추천 추천~
 
-- 🆕 [2018년 12월 09일, 마크다운으로 소스 문서화하기](https://www.youtube.com/watch?v=1EqGudbERF8)
+- [2018년 12월 09일, 마크다운으로 소스 문서화하기](https://www.youtube.com/watch?v=1EqGudbERF8)
 
-- 🆕 [2018년 12월 02일, Scheme으로 앱 다양화 하기](https://www.youtube.com/watch?v=j6Tsw_H8w_4)
+- [2018년 12월 02일, Scheme으로 앱 다양화 하기](https://www.youtube.com/watch?v=j6Tsw_H8w_4)
 
-- 🆕 [2018년 11월 22일, 파일헤더 커스텀하기](https://www.youtube.com/watch?v=kH-TTsyhbLk) : 벡터이미지 사용하는 방법을 쉽게 알려주고 있습니다.<br />
+- [2018년 11월 22일, 파일헤더 커스텀하기](https://www.youtube.com/watch?v=kH-TTsyhbLk) : 벡터이미지 사용하는 방법을 쉽게 알려주고 있습니다.<br />
 
-- 🆕 [2018년 11월 16일, PDF 벡터 이미지 사용하기](https://www.youtube.com/watch?v=9-cdvrLYrLs) : 벡터이미지 사용하는 방법을 쉽게 알려주고 있습니다.<br />
+- [2018년 11월 16일, PDF 벡터 이미지 사용하기](https://www.youtube.com/watch?v=9-cdvrLYrLs) : 벡터이미지 사용하는 방법을 쉽게 알려주고 있습니다.<br />
 
-- 🆕 [2018년 11월 06일, 라이브러리 전역으로 import 하기](https://www.youtube.com/watch?v=vWBEamf6Q0c) : 알면 정말 편합니다.<br />
+- [2018년 11월 06일, 라이브러리 전역으로 import 하기](https://www.youtube.com/watch?v=vWBEamf6Q0c) : 알면 정말 편합니다.<br />
 
-- 🆕 [2018년 10월 26일, 슬라이싱 이미지 사용하기](https://www.youtube.com/watch?v=rHJIEAyarik) : 이해하기 어려운 슬라이싱 이미지 사용법을 알기 쉽게 알려주십니다.<br />
+- [2018년 10월 26일, 슬라이싱 이미지 사용하기](https://www.youtube.com/watch?v=rHJIEAyarik) : 이해하기 어려운 슬라이싱 이미지 사용법을 알기 쉽게 알려주십니다.<br />
 
-- 🆕 [2018년 10월 20일, 시뮬레이터에 이미지 넣기](https://www.youtube.com/watch?v=LVabEI92yKA) : 헉.. 이렇게 가능했군요..<br />
+- [2018년 10월 20일, 시뮬레이터에 이미지 넣기](https://www.youtube.com/watch?v=LVabEI92yKA) : 헉.. 이렇게 가능했군요..<br />
 
-- 🆕 [2018년 10월 14일, 스토리보드에서 커스텀 칼라 파레트 사용하기](https://www.youtube.com/watch?v=CmlzOIzsBeA&t=7s) : 우와.. 이렇게 가능하군요!!<br />
+- [2018년 10월 14일, 스토리보드에서 커스텀 칼라 파레트 사용하기](https://www.youtube.com/watch?v=CmlzOIzsBeA&t=7s) : 우와.. 이렇게 가능하군요!!<br />
 
-- 🆕 [2018년 10월 12일, xcode에서 터미널 안열고 pod 적용하기](https://www.youtube.com/watch?v=0kvAm5n6-oc&t=15s) <br />
+- [2018년 10월 12일, xcode에서 터미널 안열고 pod 적용하기](https://www.youtube.com/watch?v=0kvAm5n6-oc&t=15s) <br />
 
-- 🆕 [2018년 10월 09일, xcode에서 터미널 바로 열기](https://www.youtube.com/watch?v=GNu6IuU_UeE&t=1s) : 정말 편해졌어요. <br />
+- [2018년 10월 09일, xcode에서 터미널 바로 열기](https://www.youtube.com/watch?v=GNu6IuU_UeE&t=1s) : 정말 편해졌어요. <br />
 
-- 🆕 [2018년 10월 08일, 콘솔 로그 출력할 때 팁](https://www.youtube.com/watch?v=jf9TBhyAXvo) : 로그를 어떻게 찍으면 좋을까.. 고민하시나요?
+- [2018년 10월 08일, 콘솔 로그 출력할 때 팁](https://www.youtube.com/watch?v=jf9TBhyAXvo) : 로그를 어떻게 찍으면 좋을까.. 고민하시나요?
 
 <br />
 
@@ -505,7 +505,7 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 		- [맥부기(네이버 카페)](https://cafe.naver.com/mcbugi) : 2008.8.22.에 만들어진 네이버 까페입니다. 한때 5만명이 넘던 회원이 있던 시절이 살짝 기억이 나는 것 같습니다. 오늘 들어가보니 1만 명이 조금 넘네요. 그렇치만 여전히 최신의 글도 있고 댓글도 잘 달아주시는 것 같습니다. 처음이시라면 가입해서 정보를 얻으셔도 좋을 것 같고, 과거에 가입하셨다면.. 옛날 글을 한번 찾아보셔요, 과거의 자신을 돌아보는 시간을 가질 수 있어서 좋을 것 같습니다. 
 		
 - 기타 세미나 동영상 링크
-	- 🆕 [if (kakao) dev 2018](https://if.kakao.com/program) : 지난 발표의 PDF 자료와 동영상을 보실 수 있습니다.
+	- [if (kakao) dev 2018](https://if.kakao.com/program) : 지난 발표의 PDF 자료와 동영상을 보실 수 있습니다.
 		
 <br />
 
