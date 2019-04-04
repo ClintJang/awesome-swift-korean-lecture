@@ -204,6 +204,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## Swift 기본 활용
+- 🆕 **⭐** [2019년 3월 30일, Immutable Data](https://youtu.be/25dvsEiwn4s)
+
 - **⭐⭐** [2018년 10월 20일, Advanced Higher-Order Function](https://youtu.be/HVRre-y1hnM)
 
 - **⭐** [2018년 10월 20일, Swift Generics](https://youtu.be/xICkz2rZcVA)
