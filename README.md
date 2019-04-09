@@ -403,6 +403,7 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 - 🆕 [2019년 3월 28일, DisposeBag이 뭐길래, 왜 사용하는 건가요?](https://www.youtube.com/watch?v=pVWlpGthIH0)
 - 🆕 [2019년 4월 1일, 마블 다이어그램 이해하기: 페이지 읽는 방법](https://www.youtube.com/watch?v=UJd_rVAZxCQ)
 - 🆕 [2019년 4월 4일, 마블 다이어그램 이해하기: just와 from](https://www.youtube.com/watch?v=XPvP9XNeikc)
+- 🆕 [2019년 4월 8일, 마블 다이어그램 이해하기: map, filter 그리고 first](https://www.youtube.com/watch?v=Nle000Z184o)
 
 ## 세션
 - [2018년 11월 6일, RxSwift Internal](https://www.youtube.com/watch?v=DsE-sagI04A&index=9&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
