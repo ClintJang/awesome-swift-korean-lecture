@@ -409,6 +409,7 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 - 🆕 [2019년 4월 18일, asDriver 하면 뭐가 달라지는 건가요?](https://www.youtube.com/watch?v=cB0uk_prhto)
 - 🆕 [2019년 4월 21일, Observable.just 하면 무슨일이 일어나는 건가요?](https://www.youtube.com/watch?v=nwMwBnoLg5E)
 - 🆕 [2019년 4월 24일, 마블 다이어그램 이해하기: observeOn 과 subscribeOn](https://www.youtube.com/watch?v=GPvJGFa4UOk)
+- 🆕 [2019년 4월 28일, RxCocoa 를 사용해서 컨트롤 이벤트를 Observable로 처리합니다.](https://www.youtube.com/watch?v=QwbSI9ZloOI)
 
 ## 세션
 - [2018년 11월 6일, RxSwift Internal](https://www.youtube.com/watch?v=DsE-sagI04A&index=9&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
