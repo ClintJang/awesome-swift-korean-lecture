@@ -147,6 +147,11 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - 2017년 4월 28일 : https://swiftkorea.github.io/meetup/1#
 - 2017년 12월 13일 : https://swiftkorea.github.io/meetup/2#
 
+## NAVER Tech Talk
+- [iOS 밋업 (2019년 2월, 4월)](https://d2.naver.com/news/7569447)
+- [iOS 밋업 (2018년 8월~10월)](https://d2.naver.com/news/7036256)
+
+
 ## Realm 아카데미 iOS 세션들
 <pre>
  Realm 아카데미는 항상 감사합니다.
