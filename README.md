@@ -119,7 +119,9 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## Let us:Go! ([iOS Developer KR](https://github.com/iOSDevKor))
 - 2019
   - 🆕 봄 세션 : https://iosdevkor.github.io/let_us_go_2019_spring_review/
-  - 여름 세션 : 정보를 얻게 되는 데로 업데이트 되는 데로 수정하겠습니다. (아직 미정)
+  - 🆕 여름 세션 : 태양이 뜨거운 8월 3일 토요일 **let us: Go! 2019 여름** 을 개최 예정
+      - 현재 스피커 모집 진행 중입니다.
+      - 업데이트 정보를 얻으면 다시 갱신하겠습니다.
 
 - 2018
   - 봄 세션 : https://iosdevkor.github.io/let_us_go_2018_spring_review/
