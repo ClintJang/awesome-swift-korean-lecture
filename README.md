@@ -391,6 +391,10 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 
 <br />
 
+<details><summary><code>클릭하면 열립니다. (Click!!) <br /><b>RxSwift In 4 Hours</b> <br /> 구체적인 내용들에 대한 링크들이 있습니다.</code></summary>
+
+<br />
+
 - 🆕 [2019년 1월 27일, Legacy 코드를 RxSwift를 적용하여 리팩토링 하기](https://www.youtube.com/watch?v=fCNr9bNPdAA)
 - 🆕 [2019년 1월 29일, Observable.create() 를 사용하는 방법](https://www.youtube.com/watch?v=XAoQPlBzPCE&t=30s)
 - 🆕 [2019년 2월 8일, scan 과 window 오퍼레이터의 동작을 알아봅시다](https://www.youtube.com/watch?v=bRbJ3Nyfg-I)
@@ -410,8 +414,18 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 - 🆕 [2019년 4월 21일, Observable.just 하면 무슨일이 일어나는 건가요?](https://www.youtube.com/watch?v=nwMwBnoLg5E)
 - 🆕 [2019년 4월 24일, 마블 다이어그램 이해하기: observeOn 과 subscribeOn](https://www.youtube.com/watch?v=GPvJGFa4UOk)
 - 🆕 [2019년 4월 28일, RxCocoa 를 사용해서 컨트롤 이벤트를 Observable로 처리합니다.](https://www.youtube.com/watch?v=QwbSI9ZloOI)
+- 🆕 [2019년 5월 1일, bind 를 하라구요? bind 가 뭡니까?](https://www.youtube.com/watch?v=FmcJYBw9i0U)
+- 🆕 [2019년 5월 5일, RxSwift + RxCocoa 라면 UI이벤트의 조합을 이렇게 간단하게 처리할 수 있습니다.](https://www.youtube.com/watch?v=OZGR75XRVJQ)
+- 🆕 [2019년 5월 8일, MVVM 아키텍쳐 적용하기 어렵지 않아요~](https://www.youtube.com/watch?v=PYnp6BhR6VU)
+- 🆕 [2019년 5월 12일, ViewModel을 적용하고 나면 별거 없다는 것을 알게될 겁니다.](https://www.youtube.com/watch?v=lOts3BGuOtY)
+- 🆕 [2019년 5월 15일, ViewModel 을 좀 더 고급지게 만들어 봅시다.
+](https://www.youtube.com/watch?v=XG5TILoZH-g)
 
-## 세션
+</details>
+
+<br />
+
+## RxSwift 세션
 - [2018년 11월 6일, RxSwift Internal](https://www.youtube.com/watch?v=DsE-sagI04A&index=9&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
 
 - [2018년 11월 6일, Reactor Kit으로 RxSwift 시작하기](https://www.youtube.com/watch?v=G1b1sBy8XBA&index=7&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
