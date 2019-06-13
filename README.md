@@ -144,8 +144,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## meetup
-- 2017년 4월 28일 : https://swiftkorea.github.io/meetup/1#
 - 2017년 12월 13일 : https://swiftkorea.github.io/meetup/2#
+- 2017년 4월 28일 : https://swiftkorea.github.io/meetup/1#
 
 ## NAVER Tech Talk
 - [iOS 밋업 (2019년 2월, 4월)](https://d2.naver.com/news/7569447)
@@ -313,6 +313,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 3월 16일, 2017년 애플 생태계의 변화](https://academy.realm.io/kr/posts/apple-trend-2017/)
 
 ## 라이브러리
+- 🆕 [2019년 6월 4일, iOS 프로젝트에 Unity를 붙일 수 있을까?](https://tv.naver.com/v/8629583)
+- 
 - 🆕 [2019년 3월 30일, RxFlow 시작하기](https://youtu.be/udqzq0vHpv0) : Coordinator Pattern을 아시나요?
 
 - 🆕 [2019년 3월 30일, Texture 입문기](https://youtu.be/tTG_XI6YKc0)
