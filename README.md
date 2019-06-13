@@ -263,6 +263,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## 디자인패턴 & 코드 스타일
 - 🆕 [2019년 6월 4일, Clean swift architecture](https://tv.naver.com/v/8629561)
 
+- 🆕 [2019년 6월 4일, 옆집사는 ‘함수’형 탐방기](https://tv.naver.com/v/8629615)
+
 - 🆕 [2019년 3월 30일, 상속에서 프로토콜로](https://youtu.be/3VQO_gwX8Fg)
 
 - 🆕 [2019년 3월 30일, iOS 환경에 SOLID 적용하기](https://youtu.be/QXVO2NcarkQ)
