@@ -120,7 +120,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - 2019
   - 🆕 봄 세션 : https://iosdevkor.github.io/let_us_go_2019_spring_review/
   - 🆕 여름 세션 : 태양이 뜨거운 8월 3일 토요일 **let us: Go! 2019 여름** 을 개최 예정
-      - 현재 스피커 모집 진행 중입니다.
+      - 현재 스피커 모집 완료, 스태프 모집 완료, 곧 본 행사 신청 받을 예정입니다.
       - 업데이트 정보를 얻으면 다시 갱신하겠습니다.
 
 - 2018
@@ -435,6 +435,14 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 ](https://www.youtube.com/watch?v=XG5TILoZH-g)
 
 </details>
+
+<br />
+
+> 그 외 RxSwift 관련 곰튀김님 유튜브 링크입니다.
+
+- 🆕 [2019년 6월 28일, RxSwift 와 Combine 로 각각 이미지를 다운로드하는 코드를 비교해보자.](https://www.youtube.com/watch?v=G_22bAj9m0w) (8분 40초)
+
+- 🆕 [2019년 7월 2일, RxSwift 와 Combine 로 각각 텍스트필드의 editingChaged 이벤트를 처리하는 코드를 비교해보자.](https://www.youtube.com/watch?v=RLRcaXLoQWE&t=8s) (8분 15초)
 
 <br />
 
