@@ -174,19 +174,19 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
  RxSwift는 카테고리에 넣지 않고 별로로 빼서 모아두었습니다.(목차 참고)
 </pre>
 ## 오토 레이아웃
-- **⭐** [2017년 7월 18일, 오토 레이아웃 기초 1 (입문자용 중요)](https://academy.realm.io/kr/posts/ios-layoutmargins/)
+- **⭐** [2017년 7월 18일, 알아두면 유용한 iOS의 LayoutMargins를 소개합니다!](https://academy.realm.io/kr/posts/ios-layoutmargins/) (16분 27초) : 오토 레이아웃 기초 1
 
-- **⭐** [2017년 4월 18일, 오토 레이아웃 기초 2 (입문자용 중요)](https://academy.realm.io/kr/posts/ios-autolayout/)
+- **⭐** [2017년 4월 18일, 오토 레이아웃으로 iOS 앱 쉽게 개발하기](https://academy.realm.io/kr/posts/ios-autolayout/) (20분 02초) : 오토 레이아웃 기초 2
 
 ## 메모리 & 컴파일러
-- **⭐** [2018년 10월 20일, Debugging With Xcode, LLDB and Chisel](https://youtu.be/U0tK6jPLtN8) : LLDB 알면 좋은 것!
+- **⭐** [2018년 10월 20일, Debugging With Xcode, LLDB and Chisel](https://youtu.be/U0tK6jPLtN8) (42분 38초) : LLDB 알면 좋은 것!
 
-- **⭐⭐** [2016년 7월 19일, Swift 성능 이해하기](https://academy.realm.io/kr/posts/letswift-swift-performance/) : Value 타입, Protocol과 스위프트의 성능 최적화
+- **⭐⭐** [2016년 7월 19일, Swift 성능 이해하기](https://academy.realm.io/kr/posts/letswift-swift-performance/) (42분 57초) : Value 타입, Protocol과 스위프트의 성능 최적화
 
-- [2016년 8월 16일, Swift Internals- LLVM, Type system, Swift Foundation을 중심으로](https://academy.realm.io/kr/posts/swift-internals-llvm-type-system-swift-foundation/)
+- **⭐** [2016년 8월 16일, Swift Internals- LLVM, Type system, Swift Foundation을 중심으로](https://academy.realm.io/kr/posts/swift-internals-llvm-type-system-swift-foundation/) (38분 38초)
 
 ## 단축키
-- **⭐** [2017년 6월 30일, Xcode와 MacOS의 단축키로 마우스 움직임 최소화하기](https://academy.realm.io/kr/posts/xcode-shortcuts/)
+- **⭐** [2017년 6월 30일, Xcode와 MacOS의 단축키로 마우스 움직임 최소화하기](https://academy.realm.io/kr/posts/xcode-shortcuts/) (16분 01초)
     - 스피커님 블러그 : https://learnswiftwithbob.com/
 
 ## iOS App 배포하기
