@@ -174,40 +174,40 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
  RxSwift는 카테고리에 넣지 않고 별로로 빼서 모아두었습니다.(목차 참고)
 </pre>
 ## 오토 레이아웃
-- **⭐** [2017년 7월 18일, 알아두면 유용한 iOS의 LayoutMargins를 소개합니다!](https://academy.realm.io/kr/posts/ios-layoutmargins/) (16분 27초) : 오토 레이아웃 기초 1
+- **⭐** [2017년 7월 18일, 알아두면 유용한 iOS의 LayoutMargins를 소개합니다!](https://academy.realm.io/kr/posts/ios-layoutmargins/) (16:27) : 오토 레이아웃 기초 1
 
-- **⭐** [2017년 4월 18일, 오토 레이아웃으로 iOS 앱 쉽게 개발하기](https://academy.realm.io/kr/posts/ios-autolayout/) (20분 02초) : 오토 레이아웃 기초 2
+- **⭐** [2017년 4월 18일, 오토 레이아웃으로 iOS 앱 쉽게 개발하기](https://academy.realm.io/kr/posts/ios-autolayout/) (20:02) : 오토 레이아웃 기초 2
 
 ## 메모리 & 컴파일러
-- **⭐** [2018년 10월 20일, Debugging With Xcode, LLDB and Chisel](https://youtu.be/U0tK6jPLtN8) (42분 38초) : LLDB 알면 좋은 것!
+- **⭐** [2018년 10월 20일, Debugging With Xcode, LLDB and Chisel](https://youtu.be/U0tK6jPLtN8) (42:38) : LLDB 알면 좋은 것!
 
-- **⭐⭐** [2016년 7월 19일, Swift 성능 이해하기](https://academy.realm.io/kr/posts/letswift-swift-performance/) (42분 57초) : Value 타입, Protocol과 스위프트의 성능 최적화
+- **⭐⭐** [2016년 7월 19일, Swift 성능 이해하기](https://academy.realm.io/kr/posts/letswift-swift-performance/) (42:57) : Value 타입, Protocol과 스위프트의 성능 최적화
 
-- **⭐** [2016년 8월 16일, Swift Internals- LLVM, Type system, Swift Foundation을 중심으로](https://academy.realm.io/kr/posts/swift-internals-llvm-type-system-swift-foundation/) (38분 38초)
+- **⭐** [2016년 8월 16일, Swift Internals- LLVM, Type system, Swift Foundation을 중심으로](https://academy.realm.io/kr/posts/swift-internals-llvm-type-system-swift-foundation/) (38:38)
 
 ## 단축키
-- **⭐** [2017년 6월 30일, Xcode와 MacOS의 단축키로 마우스 움직임 최소화하기](https://academy.realm.io/kr/posts/xcode-shortcuts/) (16분 01초)
+- **⭐** [2017년 6월 30일, Xcode와 MacOS의 단축키로 마우스 움직임 최소화하기](https://academy.realm.io/kr/posts/xcode-shortcuts/) (16:01)
     - 스피커님 블러그 : https://learnswiftwithbob.com/
 
 ## iOS App 배포하기
-- [2018년 3월 10일, 초보를 위한 iOS 앱 배포하기](https://www.youtube.com/watch?v=TPmHrv6eMZ8&feature=youtu.be)
+- [2018년 3월 10일, 초보를 위한 iOS 앱 배포하기](https://www.youtube.com/watch?v=TPmHrv6eMZ8&feature=youtu.be) (34:17)
 
-- [2017년 12월 20일, 토스의 개발/배포 환경](https://www.youtube.com/watch?v=338FdLzGhhY&feature=youtu.be)
+- [2017년 12월 20일, 토스의 개발/배포 환경](https://www.youtube.com/watch?v=338FdLzGhhY&feature=youtu.be) (33:13)
 
-- [2017년 5월 11일, 지속적인 전달을 위한 자동화 도구, fastlane: 데모와 함께 알아보기](https://academy.realm.io/kr/posts/ios-fastlane-demos/)
+- [2017년 5월 11일, 지속적인 전달을 위한 자동화 도구, fastlane: 데모와 함께 알아보기](https://academy.realm.io/kr/posts/ios-fastlane-demos/) (48:43)
 
 ## iOS 활용 및 팁
-- 🆕 **⭐** [2019년 3월 30일, 프레임워크 주도 개발](https://youtu.be/YiEpuZQPuko)
+- 🆕 **⭐** [2019년 3월 30일, 프레임워크 주도 개발](https://youtu.be/YiEpuZQPuko) (34:45)
 
-- 🆕 [2019년 1월 8일, 영어 변수명을 잘 지어보자](https://tv.naver.com/v/4980432)
+- 🆕 [2019년 1월 8일, 영어 변수명을 잘 지어보자](https://tv.naver.com/v/4980432) (34:45)
 
-- [2018년 10월 20일, 단축어와 놀기](https://youtu.be/yEH6gwWJ8fY)
+- [2018년 10월 20일, 단축어와 놀기](https://youtu.be/yEH6gwWJ8fY) (21:52)
 
-- [2018년 3월 10일, Haptic Feedback으로 시작하는 iOS 개발의 이모저모](https://www.youtube.com/watch?v=wouM0cQKx_w&feature=youtu.be)
+- [2018년 3월 10일, Haptic Feedback으로 시작하는 iOS 개발의 이모저모](https://www.youtube.com/watch?v=wouM0cQKx_w&feature=youtu.be) (36:10)
 
-- [2018년 3월 10일, Universal Link 적용하기](https://www.youtube.com/watch?v=desZAId5DMU&feature=youtu.be)
+- [2018년 3월 10일, Universal Link 적용하기](https://www.youtube.com/watch?v=desZAId5DMU&feature=youtu.be) (6:27)
 
-- [2017년 11월 4일, iOS 앱의 접근성 향상하기](https://www.youtube.com/watch?v=A80LVHABk-k&feature=youtu.be)
+- [2017년 11월 4일, iOS 앱의 접근성 향상하기](https://www.youtube.com/watch?v=A80LVHABk-k&feature=youtu.be) (25:19)
 
 
 ## Swift 기본 활용
@@ -440,9 +440,9 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 
 > 그 외 RxSwift 관련 곰튀김님 유튜브 링크입니다.
 
-- 🆕 [2019년 6월 28일, RxSwift 와 Combine 로 각각 이미지를 다운로드하는 코드를 비교해보자.](https://www.youtube.com/watch?v=G_22bAj9m0w) (8분 40초)
+- 🆕 [2019년 6월 28일, RxSwift 와 Combine 로 각각 이미지를 다운로드하는 코드를 비교해보자.](https://www.youtube.com/watch?v=G_22bAj9m0w) (08:40)
 
-- 🆕 [2019년 7월 2일, RxSwift 와 Combine 로 각각 텍스트필드의 editingChaged 이벤트를 처리하는 코드를 비교해보자.](https://www.youtube.com/watch?v=RLRcaXLoQWE&t=8s) (8분 15초)
+- 🆕 [2019년 7월 2일, RxSwift 와 Combine 로 각각 텍스트필드의 editingChaged 이벤트를 처리하는 코드를 비교해보자.](https://www.youtube.com/watch?v=RLRcaXLoQWE&t=8s) (08:15)
 
 <br />
 
