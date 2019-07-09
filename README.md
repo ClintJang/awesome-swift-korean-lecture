@@ -211,34 +211,34 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## Swift 기본 활용
-- 🆕 **⭐** [2019년 3월 30일, Immutable Data](https://youtu.be/25dvsEiwn4s)
+- 🆕 **⭐** [2019년 3월 30일, Immutable Data](https://youtu.be/25dvsEiwn4s) (20:01)
 
-- **⭐⭐** [2018년 10월 20일, Advanced Higher-Order Function](https://youtu.be/HVRre-y1hnM)
+- **⭐⭐** [2018년 10월 20일, Advanced Higher-Order Function](https://youtu.be/HVRre-y1hnM) (21:34)
 
-- **⭐** [2018년 10월 20일, Swift Generics](https://youtu.be/xICkz2rZcVA)
+- **⭐** [2018년 10월 20일, Swift Generics](https://youtu.be/xICkz2rZcVA) (24:50)
 
-- **⭐⭐** [2018년 3월 10일, Functional Programming 이 뭐하는 건가요?](https://www.youtube.com/watch?v=HZkqMiwT-5A&feature=youtu.be) : 함수형 프로그램이란? 아시나요? :)
+- **⭐⭐** [2018년 3월 10일, Functional Programming 이 뭐하는 건가요?](https://www.youtube.com/watch?v=HZkqMiwT-5A&feature=youtu.be) (34:03) : 함수형 프로그램이란? 아시나요? :)
 
-- [2017년 12월 20일, Swift, Kotlin과 모던 언어의 특징](https://www.youtube.com/watch?v=1wmn97Csi9g&feature=youtu.be) : Swift vs Kotlin
+- [2017년 12월 20일, Swift, Kotlin과 모던 언어의 특징](https://www.youtube.com/watch?v=1wmn97Csi9g&feature=youtu.be) (32:11) : Swift vs Kotlin
 
-- [2017년 12월 20일, Concurrency in Swift](https://www.youtube.com/watch?v=0yj6ftn1Nzw&feature=youtu.be) 
+- [2017년 12월 20일, Concurrency in Swift](https://www.youtube.com/watch?v=0yj6ftn1Nzw&feature=youtu.be) (31:21)
 
-- [2017년 6월 8일, Swift의 네임스페이스와 typealias](https://academy.realm.io/kr/posts/swift-namespace-typealias/) 
+- [2017년 6월 8일, Swift의 네임스페이스와 typealias](https://academy.realm.io/kr/posts/swift-namespace-typealias/) (18:48)
 
-- **⭐** [2017년 11월 4일, 인터페이스 : 유연하게 설계하기](https://www.youtube.com/watch?v=Au3EgsG4re4&feature=youtu.be)
+- **⭐** [2017년 11월 4일, 인터페이스 : 유연하게 설계하기](https://www.youtube.com/watch?v=Au3EgsG4re4&feature=youtu.be) (12:13)
 
-- [2017년 7월 25일, Swift Protocol 적재적소에 사용하기](https://academy.realm.io/kr/posts/understanding-swift-protocol/)
+- [2017년 7월 25일, Swift Protocol 적재적소에 사용하기](https://academy.realm.io/kr/posts/understanding-swift-protocol/) (22:52)
 
-- **⭐** [2017년 4월 27일, Swift의 클로저 및 고차 함수 이해하기](https://academy.realm.io/kr/posts/closure-and-higher-order-functions-of-swift/)
+- **⭐** [2017년 4월 27일, Swift의 클로저 및 고차 함수 이해하기](https://academy.realm.io/kr/posts/closure-and-higher-order-functions-of-swift/) (24:50)
 
-- [2017년 5월 4일, Swift 함수에 커링 사용하기](https://academy.realm.io/kr/posts/currying-on-the-swift-functions/)
+- [2017년 5월 4일, Swift 함수에 커링 사용하기](https://academy.realm.io/kr/posts/currying-on-the-swift-functions/) (36:16)
 
-- **⭐** [2017년 11월 4일, Swift 4의 Codable 활용](https://www.youtube.com/watch?v=NO6wQabhCy8&feature=youtu.be)
+- **⭐** [2017년 11월 4일, Swift 4의 Codable 활용](https://www.youtube.com/watch?v=NO6wQabhCy8&feature=youtu.be) (22:36)
 
-- [2017년 2월 22일, Objective-C에서 Swift로 - iOS Tech Talk](https://academy.realm.io/kr/posts/from-objective-c-to-swift-ios-techtalk/)
+- [2017년 2월 22일, Objective-C에서 Swift로 - iOS Tech Talk](https://academy.realm.io/kr/posts/from-objective-c-to-swift-ios-techtalk/) (22:24)
 
 ## Swift 버전 변화
-- [2017년 12월 20일, What's New Swift 4](https://www.youtube.com/watch?v=uIqP4SmSFww&feature=youtu.be)
+- [2017년 12월 20일, What's New Swift 4](https://www.youtube.com/watch?v=uIqP4SmSFww&feature=youtu.be) (31:01)
 
 
 ## iOS 내부 구조 및 기본 Framework 활용
