@@ -242,23 +242,23 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## iOS 내부 구조 및 기본 Framework 활용
-- 🆕 [2019년 1월 8일, SiriKit 소개](https://tv.naver.com/v/4980375)
+- 🆕 [2019년 1월 8일, SiriKit 소개](https://tv.naver.com/v/4980375) (14:35)
 
-- 🆕 [2019년 1월 8일, HTTP Live Streaming (HLS)](https://tv.naver.com/v/4980383)
+- 🆕 [2019년 1월 8일, HTTP Live Streaming (HLS)](https://tv.naver.com/v/4980383) (26:06)
 
-- [2018년 10월 20일, SIMD&MPS in Swift](https://www.youtube.com/watch?v=S5tJi4KCItI&index=10&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) : 조금 어렵습니다. 😓
+- [2018년 10월 20일, SIMD&MPS in Swift](https://www.youtube.com/watch?v=S5tJi4KCItI&index=10&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) (34:34): 조금 어렵습니다. 😓
 
-- [2018년 10월 20일, ARKit](https://youtu.be/pmMJXfY-h-g)
+- [2018년 10월 20일, ARKit](https://youtu.be/pmMJXfY-h-g) (21:30)
 : &nbsp;[예제코드 링크](https://github.com/tokijh/ARVideoPlayer) &nbsp;를 빌드해서 폰에 넣어보세요.
 
-- [2018년 3월 10일, The Sandbox Container Directory](https://www.youtube.com/watch?v=h0ROjqEEF50&feature=youtu.be)
+- [2018년 3월 10일, The Sandbox Container Directory](https://www.youtube.com/watch?v=h0ROjqEEF50&feature=youtu.be) (29:13)
 
-- [2018년 3월 10일, Core ML 시작하기](https://www.youtube.com/watch?v=ADtw_Ez5qWA&feature=youtu.be)
+- [2018년 3월 10일, Core ML 시작하기](https://www.youtube.com/watch?v=ADtw_Ez5qWA&feature=youtu.be) (14:00)
 
-- [2017년 12월 20일, iOS 11 ARKit 시작하기](https://www.youtube.com/watch?v=ODQE1u8S8_8&feature=youtu.be)
+- [2017년 12월 20일, iOS 11 ARKit 시작하기](https://www.youtube.com/watch?v=ODQE1u8S8_8&feature=youtu.be) (32:07)
 
 ## Playground
-- [2017년 6월 21일, Playground 100% 활용하기](https://academy.realm.io/kr/posts/swift-playground/)
+- [2017년 6월 21일, Playground 100% 활용하기](https://academy.realm.io/kr/posts/swift-playground/) (13:43)
 
 ## 디자인패턴 & 코드 스타일
 - 🆕 [2019년 6월 4일, Clean swift architecture](https://tv.naver.com/v/8629561)
