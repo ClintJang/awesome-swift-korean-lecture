@@ -261,60 +261,60 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 6월 21일, Playground 100% 활용하기](https://academy.realm.io/kr/posts/swift-playground/) (13:43)
 
 ## 디자인패턴 & 코드 스타일
-- 🆕 [2019년 6월 4일, Clean swift architecture](https://tv.naver.com/v/8629561)
+- 🆕 [2019년 6월 4일, Clean swift architecture](https://tv.naver.com/v/8629561) (26:12)
 
-- 🆕 [2019년 6월 4일, 옆집사는 ‘함수’형 탐방기](https://tv.naver.com/v/8629615)
+- 🆕 [2019년 6월 4일, 옆집사는 ‘함수’형 탐방기](https://tv.naver.com/v/8629615) (34:16)
 
-- 🆕 [2019년 3월 30일, 상속에서 프로토콜로](https://youtu.be/3VQO_gwX8Fg)
+- 🆕 [2019년 3월 30일, 상속에서 프로토콜로](https://youtu.be/3VQO_gwX8Fg) (21:27)
 
-- 🆕 [2019년 3월 30일, iOS 환경에 SOLID 적용하기](https://youtu.be/QXVO2NcarkQ)
+- 🆕 [2019년 3월 30일, iOS 환경에 SOLID 적용하기](https://youtu.be/QXVO2NcarkQ) (27:18)
 
-- 🆕 [2019년 1월 8일, Architecture + Clean Swift](https://tv.naver.com/v/4980400)
+- 🆕 [2019년 1월 8일, Architecture + Clean Swift](https://tv.naver.com/v/4980400) (25:49)
 
-- [2018년 11월 6일, ReSwift와 함께 Unidirectional Architecture](https://www.youtube.com/watch?v=ypI9VP0Q48k&index=8&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
+- [2018년 11월 6일, ReSwift와 함께 Unidirectional Architecture](https://www.youtube.com/watch?v=ypI9VP0Q48k&index=8&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) (25:51)
 
-- [2018년 10월 20일, 알아보자 DI와 Deli](https://youtu.be/Mw-8V0srRzA) : DI 란? 아시나요?
+- [2018년 10월 20일, 알아보자 DI와 Deli](https://youtu.be/Mw-8V0srRzA) (29:00) : DI 란? 아시나요?
 
-- [2017년 11월 4일, 디자인 패턴 적용기](https://www.youtube.com/watch?v=MXSKM6aQ7Wo&feature=youtu.be) : 디자인 패턴이 어렵게 여기지 않으셔도 될 것 같습니다. 개발자와 소통하기 위한 한 수단이 될 수 있습니다.
+- [2017년 11월 4일, 디자인 패턴 적용기](https://www.youtube.com/watch?v=MXSKM6aQ7Wo&feature=youtu.be) (22:21) : 디자인 패턴이 어렵게 여기지 않으셔도 될 것 같습니다. 개발자와 소통하기 위한 한 수단이 될 수 있습니다.
 
-- [2017년 11월 4일, 스위프트를 여행하는 히치하이커를 위한 스타일 안내서](https://www.youtube.com/watch?v=d1eA-r_Cd2Y&feature=youtu.be)
+- [2017년 11월 4일, 스위프트를 여행하는 히치하이커를 위한 스타일 안내서](https://www.youtube.com/watch?v=d1eA-r_Cd2Y&feature=youtu.be) (20:33)
 
-- [2017년 11월 4일, ReSwift로 리액티브 프로그래밍 구현하기](https://www.youtube.com/watch?v=H0WPEAnC5YQ&feature=youtu.be) : swift로 단방향 데이터 흐름 아키텍처의 Redux와 유사하게 구현합니다.
+- [2017년 11월 4일, ReSwift로 리액티브 프로그래밍 구현하기](https://www.youtube.com/watch?v=H0WPEAnC5YQ&feature=youtu.be) (14:48) : swift로 단방향 데이터 흐름 아키텍처의 Redux와 유사하게 구현합니다.
  
-- [2017년 8월 8일, 자주 사용하는 템플릿을 커스터마이징하기 - 커스텀 Xcode 템플릿 (with VIPER)](https://academy.realm.io/kr/posts/custom-xcode-template/)
+- [2017년 8월 8일, 자주 사용하는 템플릿을 커스터마이징하기 - 커스텀 Xcode 템플릿 (with VIPER)](https://academy.realm.io/kr/posts/custom-xcode-template/) (31:32)
 
-- **⭐** [2016년 8월 9일, Swift에서 프로토콜 중심 프로그래밍(POP)하기](https://academy.realm.io/kr/posts/protocol-oriented-programming-in-swift/)
+- **⭐** [2016년 8월 9일, Swift에서 프로토콜 중심 프로그래밍(POP)하기](https://academy.realm.io/kr/posts/protocol-oriented-programming-in-swift/) (30:43)
 
 ## TDD
-- [2018년 11월 6일, Let's TDD](https://www.youtube.com/watch?v=meTnd09Pf_M&feature=youtu.be) : 워크숍 세션이라 발표자료와 셈플 코드도 참고해주세요.
+- [2018년 11월 6일, Let's TDD](https://www.youtube.com/watch?v=meTnd09Pf_M&feature=youtu.be) (1:17:40) : 워크숍 세션이라 발표자료와 셈플 코드도 참고해주세요.
 	- [발표자료](https://www.slideshare.net/devxoul/lets-tdd-122653088), &nbsp; [샘플코드](https://github.com/devxoul/LetsGitHubSearch)
 
-- **⭐** [2018년 7월 21일, iOS TDD 실무에 적용하기](https://www.youtube.com/watch?v=wDo8656evW8&feature=player_embedded) : 애니옵젝님의 너무 멋진 말씀..
-- **⭐** [2017년 11월 4일, Test Driven Development](https://www.youtube.com/watch?v=eX_y33jHSHs&feature=youtu.be) : TDD를 하시나요?
+- **⭐** [2018년 7월 21일, iOS TDD 실무에 적용하기](https://www.youtube.com/watch?v=wDo8656evW8&feature=player_embedded) (1:00:03) : 애니옵젝님의 너무 멋진 말씀..
+- **⭐** [2017년 11월 4일, Test Driven Development](https://www.youtube.com/watch?v=eX_y33jHSHs&feature=youtu.be) (30:41) : TDD를 하시나요?
 
-- [2017년 3월 15일, iOS에서 TDD(Test-Driven Development)하기](https://academy.realm.io/kr/posts/ios-tdd-test-driven-development/)
+- [2017년 3월 15일, iOS에서 TDD(Test-Driven Development)하기](https://academy.realm.io/kr/posts/ios-tdd-test-driven-development/) (16:00)
 
 ## 알고리즘
-- [2017년 7월 27일, Swift로 꼬리 재귀 사용하기](https://academy.realm.io/kr/posts/swift-tail-recursion/)
+- [2017년 7월 27일, Swift로 꼬리 재귀 사용하기](https://academy.realm.io/kr/posts/swift-tail-recursion/) (26:57)
 
 ## 네트워킹
-- [2018년 11월 6일, GraphQL over Rest API](https://www.youtube.com/watch?v=4JW8kku0V5I&index=12&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
+- [2018년 11월 6일, GraphQL over Rest API](https://www.youtube.com/watch?v=4JW8kku0V5I&index=12&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) (28:28)
 
-- [2017년 11월 13일, 프로토콜을 활용한 비동기 네트워킹 로직 테스팅](https://www.youtube.com/watch?v=R3Bp3c8O3WM&feature=youtu.be)
+- [2017년 11월 13일, 프로토콜을 활용한 비동기 네트워킹 로직 테스팅](https://www.youtube.com/watch?v=R3Bp3c8O3WM&feature=youtu.be) (13:00)
 
 ## UI/UX
-- 🆕 **⭐** [2019년 3월 30일, 스토리보드 없이 UI 만들기](https://youtu.be/-QWm9r4BzMI) : 코드로 개발하면 어떤 장점이 있을까요??
+- 🆕 **⭐** [2019년 3월 30일, 스토리보드 없이 UI 만들기](https://youtu.be/-QWm9r4BzMI) (15:48) : 코드로 개발하면 어떤 장점이 있을까요??
 
-- [2017년 12월 20일, Metal 기반 특별한 UI/UX 제공하기](https://www.youtube.com/watch?v=mB9d5RDNryw&feature=youtu.be)
+- [2017년 12월 20일, Metal 기반 특별한 UI/UX 제공하기](https://www.youtube.com/watch?v=mB9d5RDNryw&feature=youtu.be) (25:19)
 
 ## WWDC & Apple
-- [2018년 11월 6일, Let'Swift 2018 키노트](https://www.youtube.com/watch?v=xZ5IywL9Zkg&index=2&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS&t=6s)
+- [2018년 11월 6일, Let'Swift 2018 키노트](https://www.youtube.com/watch?v=xZ5IywL9Zkg&index=2&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS&t=6s) (17:48)
 
-- [2018년 7월 21일, 미리보는 Marzipan](https://www.youtube.com/watch?v=egZ_kPa7MzE&feature=youtu.be)
+- [2018년 7월 21일, 미리보는 Marzipan](https://www.youtube.com/watch?v=egZ_kPa7MzE&feature=youtu.be) (20:49)
 
-- [2017년 8월 14일, WWDC 2017 톺아보기](https://academy.realm.io/kr/posts/wwdc-2017-review/)
+- [2017년 8월 14일, WWDC 2017 톺아보기](https://academy.realm.io/kr/posts/wwdc-2017-review/) (31:23)
 
-- [2017년 3월 16일, 2017년 애플 생태계의 변화](https://academy.realm.io/kr/posts/apple-trend-2017/)
+- [2017년 3월 16일, 2017년 애플 생태계의 변화](https://academy.realm.io/kr/posts/apple-trend-2017/) (19:30)
 
 ## 라이브러리
 - 🆕 [2019년 6월 4일, iOS 프로젝트에 Unity를 붙일 수 있을까?](https://tv.naver.com/v/8629583)
