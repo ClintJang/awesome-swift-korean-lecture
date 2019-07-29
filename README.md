@@ -317,59 +317,59 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 3월 16일, 2017년 애플 생태계의 변화](https://academy.realm.io/kr/posts/apple-trend-2017/) (19:30)
 
 ## 라이브러리
-- 🆕 [2019년 6월 4일, iOS 프로젝트에 Unity를 붙일 수 있을까?](https://tv.naver.com/v/8629583)
+- 🆕 [2019년 6월 4일, iOS 프로젝트에 Unity를 붙일 수 있을까?](https://tv.naver.com/v/8629583) (15:43)
 - 
-- 🆕 [2019년 3월 30일, RxFlow 시작하기](https://youtu.be/udqzq0vHpv0) : Coordinator Pattern을 아시나요?
+- 🆕 [2019년 3월 30일, RxFlow 시작하기](https://youtu.be/udqzq0vHpv0) (16:44) : Coordinator Pattern을 아시나요?
 
-- 🆕 [2019년 3월 30일, Texture 입문기](https://youtu.be/tTG_XI6YKc0)
+- 🆕 [2019년 3월 30일, Texture 입문기](https://youtu.be/tTG_XI6YKc0) (21:32)
 
-- [2018년 7월 21일, Texture Reactive wrapper 만들고 응용하기](https://www.youtube.com/watch?v=cnW2B019_2w&feature=player_embedded)
+- [2018년 7월 21일, Texture Reactive wrapper 만들고 응용하기](https://www.youtube.com/watch?v=cnW2B019_2w&feature=player_embedded) (23:34)
 
 
 ## 개발경험
-- 🆕 [2019년 3월 30일, 개발자 스탠딩 코미디](https://youtu.be/vB4juojkfcY)
+- 🆕 [2019년 3월 30일, 개발자 스탠딩 코미디](https://youtu.be/vB4juojkfcY) (12:04)
 
-- [2018년 11월 6일, 사이드프로젝트로 앱스토어1위공략하기](https://www.youtube.com/watch?v=_2t24zQvRFs&index=3&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
+- [2018년 11월 6일, 사이드프로젝트로 앱스토어1위공략하기](https://www.youtube.com/watch?v=_2t24zQvRFs&index=3&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) (29:21)
 
-- [2018년 11월 6일, TDS(Toss Design System) v2 소개](https://www.youtube.com/watch?v=fWdXnLERm8E&index=5&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
+- [2018년 11월 6일, TDS(Toss Design System) v2 소개](https://www.youtube.com/watch?v=fWdXnLERm8E&index=5&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) (24:38)
 
-- [2018년 10월 20일, Swift 개발자의 React-Native 도전 후기](https://youtu.be/Ko5XanZmxFo)
+- [2018년 10월 20일, Swift 개발자의 React-Native 도전 후기](https://youtu.be/Ko5XanZmxFo) (20:24)
 
-- [2018년 3월 19일, Swift로 코인 트레이딩 하기](https://www.youtube.com/watch?v=QRIs7khkNXc&list=PLJ0BuvoGAkXtLlG8xQEmG18CuamDy5LG8&index=6&t=0s)
+- [2018년 3월 19일, Swift로 코인 트레이딩 하기](https://www.youtube.com/watch?v=QRIs7khkNXc&list=PLJ0BuvoGAkXtLlG8xQEmG18CuamDy5LG8&index=6&t=0s) (17:53)
 
-- [2017년 2월 28일, 기획, 디자인 변경에 강한 카드뷰 만들기 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-make-cardview-ios-tech-talk/)
+- [2017년 2월 28일, 기획, 디자인 변경에 강한 카드뷰 만들기 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-make-cardview-ios-tech-talk/) (10:06)
 
 ## 세션 투어
-- 🆕 [2019년 3월 30일, try! Swift 2019 후기](https://youtu.be/K0VFMOanmlw)
+- 🆕 [2019년 3월 30일, try! Swift 2019 후기](https://youtu.be/K0VFMOanmlw) (24:19)
 
-- [2017년 6월 27일, try! Swift Tokyo 2017 후기](https://academy.realm.io/kr/posts/try-swift-tokyo-2017-review/)
+- [2017년 6월 27일, try! Swift Tokyo 2017 후기](https://academy.realm.io/kr/posts/try-swift-tokyo-2017-review/) (12:24)
 
 
 ## Realm
-- [2017년 4월 13일, 프알못의 Realm 사용기 + 라이브 코딩 데모](https://academy.realm.io/kr/posts/realm-swift-live-coding-beginner/)
+- [2017년 4월 13일, 프알못의 Realm 사용기 + 라이브 코딩 데모](https://academy.realm.io/kr/posts/realm-swift-live-coding-beginner/) (41:30)
 
-- [2017년 4월 6일, 좌충우돌 Realm 모바일 플랫폼 사용기](https://academy.realm.io/kr/posts/develop-app-in-3-days-with-rmp/)
+- [2017년 4월 6일, 좌충우돌 Realm 모바일 플랫폼 사용기](https://academy.realm.io/kr/posts/develop-app-in-3-days-with-rmp/) (27:27)
 
-- [2017년 4월 6일, 실시간 데이터베이스 비교: Realm 모바일 플랫폼 vs. Firebase](https://academy.realm.io/kr/posts/welcome-to-reactive-world/)
+- [2017년 4월 6일, 실시간 데이터베이스 비교: Realm 모바일 플랫폼 vs. Firebase](https://academy.realm.io/kr/posts/welcome-to-reactive-world/) (13:00)
 
-- [2017년 3월 30일, 데모와 함께 하는 Realm 모바일 플랫폼 따라잡기: Scanner, RealmPop 예제](https://academy.realm.io/kr/posts/realm-mobile-platform-demos/)
+- [2017년 3월 30일, 데모와 함께 하는 Realm 모바일 플랫폼 따라잡기: Scanner, RealmPop 예제](https://academy.realm.io/kr/posts/realm-mobile-platform-demos/) (35:22)
 
-- [2016년 9월 11일, Swift 모바일데이터베이스 : Realm](https://academy.realm.io/kr/posts/realm-swift-mobile-database/)
+- [2016년 9월 11일, Swift 모바일데이터베이스 : Realm](https://academy.realm.io/kr/posts/realm-swift-mobile-database/) (15:59)
 
 ## Tool?좋은 개발을 위한 도구의 활용
-- [2018년 11월 6일, iOS Ruby](https://www.youtube.com/watch?v=BDuVrhfnsnE&index=4&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
+- [2018년 11월 6일, iOS Ruby](https://www.youtube.com/watch?v=BDuVrhfnsnE&index=4&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) (29:15)
 
-- [2017년 12월 13일, Simulator Customizing & Testing](https://www.youtube.com/watch?v=4i2EBnmUMcs&feature=youtu.be)
+- [2017년 12월 13일, Simulator Customizing & Testing](https://www.youtube.com/watch?v=4i2EBnmUMcs&feature=youtu.be) (18:17)
 
 
 ## 서버 사이드
-- [2017년 12월 20일, Server-less vs. Server-side](https://www.youtube.com/watch?v=3eneYtXdmR4&feature=youtu.be)
+- [2017년 12월 20일, Server-less vs. Server-side](https://www.youtube.com/watch?v=3eneYtXdmR4&feature=youtu.be) (25:07)
 
-- [2016년 6월 14일, Swift 서버 사이드 프레임워크 비교 분석](https://academy.realm.io/kr/posts/swift-server-side-framework/)
+- [2016년 6월 14일, Swift 서버 사이드 프레임워크 비교 분석](https://academy.realm.io/kr/posts/swift-server-side-framework/) (12:26)
 
 
 ## 딥러닝 
-- [2017년 12월 13일, iOS와 케라스의 만남](https://www.youtube.com/watch?v=V4uRLSz9Ou0&feature=youtu.be)
+- [2017년 12월 13일, iOS와 케라스의 만남](https://www.youtube.com/watch?v=V4uRLSz9Ou0&feature=youtu.be) (19:08)
 	- [모두를 위한 딥러닝 강좌 시즌 1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) : 스위프트는 아닙니다. 머신러닝 입분부터 종결은 여기를 참고해서 공부하세요. .. 교수님 감사합니다. (￣～￣)a
 
 <br />
