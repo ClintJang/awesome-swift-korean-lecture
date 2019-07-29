@@ -448,6 +448,8 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 
 - 🆕 [2019년 7월 16일, RxSwift 와 Combine 로 여러 스트림을 함께 처리하는 코드를 비교해보자.](https://www.youtube.com/watch?v=2BTA2HZSVG8&t=7s) (06:48)
 
+- 🆕 [2019년 7월 23일, RxSwift 와 Combine 로 각각 메모리 관리하는 코드를 비교해보자.](https://www.youtube.com/watch?v=CA27QgPfCx8) (08:07)
+
 <br />
 
 ## RxSwift 세션
