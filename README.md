@@ -453,6 +453,10 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 
 - 🆕 [2019년 7월 23일, RxSwift 와 Combine 로 각각 메모리 관리하는 코드를 비교해보자.](https://www.youtube.com/watch?v=CA27QgPfCx8) (08:07)
 
+- 🆕 [2019년 8월 6일, 기존의 async 함수를 RxSwift 와 Combine 를 사용하는 함수로 변환해 봅시다.](https://www.youtube.com/watch?v=6bjjU74B5PY) (06:39)
+
+- 🆕 [2019년 8월 13일, 여러개의 데이터가 발생되는 기존의 비동기 함수를 스트림으로 변환해 봅시다.](https://www.youtube.com/watch?v=Jbas61jX--A) (06:02)
+
 <br />
 
 ## RxSwift 세션
