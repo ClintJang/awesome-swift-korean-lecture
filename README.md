@@ -327,6 +327,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## 개발경험
+- 🆕 [2019년 7월 31일, TECH CONCERT: MOBILE 2019 - iOS 개발자의 성장 루트](https://tv.naver.com/v/9342837) (01:10:09)
+
 - 🆕 [2019년 3월 30일, 개발자 스탠딩 코미디](https://youtu.be/vB4juojkfcY) (12:04)
 
 - [2018년 11월 6일, 사이드프로젝트로 앱스토어1위공략하기](https://www.youtube.com/watch?v=_2t24zQvRFs&index=3&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) (29:21)
