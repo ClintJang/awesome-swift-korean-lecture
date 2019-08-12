@@ -119,9 +119,10 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## Let us:Go! ([iOS Developer KR](https://github.com/iOSDevKor))
 - 2019
   - 🆕 봄 세션 : https://iosdevkor.github.io/let_us_go_2019_spring_review/
-  - 🆕 여름 세션 : 태양이 뜨거운 8월 3일 토요일 **let us: Go! 2019 여름** 을 개최 합니다.
+  - 🆕 여름 세션 : **let us: Go! 2019 여름** (8월 3일 토요일) 행사는 끝났습니다. 
       - https://letusgo.app
-      - 참가 신청은 마감되었습니다.
+      - Review 링크가 업데이트 되는 것을 알게 되는 데로, readme page도 업데이트 하겠습니다.
+  - 🆕 가을 세션 : 아직 날짜는 미정입니다.
 
 - 2018
   - 봄 세션 : https://iosdevkor.github.io/let_us_go_2018_spring_review/
@@ -318,7 +319,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 ## 라이브러리
 - 🆕 [2019년 6월 4일, iOS 프로젝트에 Unity를 붙일 수 있을까?](https://tv.naver.com/v/8629583) (15:43)
-- 
+
 - 🆕 [2019년 3월 30일, RxFlow 시작하기](https://youtu.be/udqzq0vHpv0) (16:44) : Coordinator Pattern을 아시나요?
 
 - 🆕 [2019년 3월 30일, Texture 입문기](https://youtu.be/tTG_XI6YKc0) (21:32)
