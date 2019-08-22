@@ -119,10 +119,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## Let us:Go! ([iOS Developer KR](https://github.com/iOSDevKor))
 - 2019
   - 🆕 봄 세션 : https://iosdevkor.github.io/let_us_go_2019_spring_review/
-  - 🆕 여름 세션 : **let us: Go! 2019 여름** (8월 3일 토요일) 행사는 끝났습니다. 
-      - https://letusgo.app
-      - Review 링크가 업데이트 되는 것을 알게 되는 데로, readme page도 업데이트 하겠습니다.
-  - 🆕 가을 세션 : 아직 날짜는 미정입니다.
+  - 🆕 여름 세션 : https://letusgo.app
+  - 🆕 가을 세션 : **let us: Go! 2019 가을** 아직 날짜는 **미정**입니다.
 
 - 2018
   - 봄 세션 : https://iosdevkor.github.io/let_us_go_2018_spring_review/
@@ -212,6 +210,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## Swift 기본 활용
+- 🆕 **⭐** [2019년 8월 3일, StringInterpolation과 SwiftUI](https://youtu.be/jS6vcFisuj4) (17:44)
+
 - 🆕 **⭐** [2019년 3월 30일, Immutable Data](https://youtu.be/25dvsEiwn4s) (20:01)
 
 - **⭐⭐** [2018년 10월 20일, Advanced Higher-Order Function](https://youtu.be/HVRre-y1hnM) (21:34)
@@ -391,10 +391,10 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니다. <br />
 구독과 추천은 계속된 영상을 올려주시는 데 큰 힘이 될 것 입니다. 😍
 
-- [2018년 12월 22일, 1 ReactiveX 사이트 둘러보기](https://www.youtube.com/watch?v=2uumx7Vzidc&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=1)
-- [2018년 12월 22일, 2 비동기 작업과 Observable](https://www.youtube.com/watch?v=5EI65fm4oqc&index=2&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
-- [2018년 12월 24일, 3 Disposable DisposeBag](https://www.youtube.com/watch?v=TFd6JJAQXOc&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=3)
-- [2018년 12월 26일, 4 기본 Operators](https://www.youtube.com/watch?v=dzk-Q6F26KM&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=4)
+- [2018년 12월 22일, 1 ReactiveX 사이트 둘러보기](https://www.youtube.com/watch?v=2uumx7Vzidc&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=1) (06:31)
+- [2018년 12월 22일, 2 비동기 작업과 Observable](https://www.youtube.com/watch?v=5EI65fm4oqc&index=2&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq) (10:00)
+- [2018년 12월 24일, 3 Disposable DisposeBag](https://www.youtube.com/watch?v=TFd6JJAQXOc&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=3) (07:28)
+- [2018년 12월 26일, 4 기본 Operators](https://www.youtube.com/watch?v=dzk-Q6F26KM&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=4) (11:49)
 - [2018년 12월 27일, 5 Operator 종류들](https://www.youtube.com/watch?v=w_5PC61J-I8&index=5&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
 - [2018년 12월 28일, 6 Marble Diagram 이해하기](https://www.youtube.com/watch?v=FJf2l3-6ijk&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=6)
 - [2018년 12월 31일, 7 Next, Error, Completed](https://www.youtube.com/watch?v=GPI9zXatyog&index=7&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
