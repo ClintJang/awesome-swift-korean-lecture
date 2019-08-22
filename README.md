@@ -238,11 +238,16 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 - [2017년 2월 22일, Objective-C에서 Swift로 - iOS Tech Talk](https://academy.realm.io/kr/posts/from-objective-c-to-swift-ios-techtalk/) (22:24)
 
-## Swift 버전 변화
+
+## Swift / Xcode 버전 변화
+- 🆕 [2019년 8월 3일, What's new in Xcode / iOS13](https://youtu.be/qPB_2QUmS3Y) (26:23)
+
 - [2017년 12월 20일, What's New Swift 4](https://www.youtube.com/watch?v=uIqP4SmSFww&feature=youtu.be) (31:01)
 
 
 ## iOS 내부 구조 및 기본 Framework 활용
+- 🆕 [2019년 8월 3일, ARKit 3 톺아보기](https://youtu.be/tskZHFjoPPA) (23:07)
+
 - 🆕 [2019년 1월 8일, SiriKit 소개](https://tv.naver.com/v/4980375) (14:35)
 
 - 🆕 [2019년 1월 8일, HTTP Live Streaming (HLS)](https://tv.naver.com/v/4980383) (26:06)
@@ -258,8 +263,10 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 - [2017년 12월 20일, iOS 11 ARKit 시작하기](https://www.youtube.com/watch?v=ODQE1u8S8_8&feature=youtu.be) (32:07)
 
+
 ## Playground
 - [2017년 6월 21일, Playground 100% 활용하기](https://academy.realm.io/kr/posts/swift-playground/) (13:43)
+
 
 ## 디자인패턴 & 코드 스타일
 - 🆕 [2019년 6월 4일, Clean swift architecture](https://tv.naver.com/v/8629561) (26:12)
@@ -286,6 +293,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 - **⭐** [2016년 8월 9일, Swift에서 프로토콜 중심 프로그래밍(POP)하기](https://academy.realm.io/kr/posts/protocol-oriented-programming-in-swift/) (30:43)
 
+
 ## TDD
 - [2018년 11월 6일, Let's TDD](https://www.youtube.com/watch?v=meTnd09Pf_M&feature=youtu.be) (1:17:40) : 워크숍 세션이라 발표자료와 셈플 코드도 참고해주세요.
 	- [발표자료](https://www.slideshare.net/devxoul/lets-tdd-122653088), &nbsp; [샘플코드](https://github.com/devxoul/LetsGitHubSearch)
@@ -295,20 +303,26 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 - [2017년 3월 15일, iOS에서 TDD(Test-Driven Development)하기](https://academy.realm.io/kr/posts/ios-tdd-test-driven-development/) (16:00)
 
+
 ## 알고리즘
 - [2017년 7월 27일, Swift로 꼬리 재귀 사용하기](https://academy.realm.io/kr/posts/swift-tail-recursion/) (26:57)
+
 
 ## 네트워킹
 - [2018년 11월 6일, GraphQL over Rest API](https://www.youtube.com/watch?v=4JW8kku0V5I&index=12&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) (28:28)
 
 - [2017년 11월 13일, 프로토콜을 활용한 비동기 네트워킹 로직 테스팅](https://www.youtube.com/watch?v=R3Bp3c8O3WM&feature=youtu.be) (13:00)
 
+
 ## UI/UX
 - 🆕 **⭐** [2019년 3월 30일, 스토리보드 없이 UI 만들기](https://youtu.be/-QWm9r4BzMI) (15:48) : 코드로 개발하면 어떤 장점이 있을까요??
 
 - [2017년 12월 20일, Metal 기반 특별한 UI/UX 제공하기](https://www.youtube.com/watch?v=mB9d5RDNryw&feature=youtu.be) (25:19)
 
+
 ## WWDC & Apple
+- 🆕 [2019년 8월 3일, WWDC Cheatsheet](https://youtu.be/RqRPMKqEGZE) (45:55) : WWDC 2019 주요 세션을 살펴봅니다. 👍 iOS 개발 열정을 느낄 수 있습니다.
+
 - [2018년 11월 6일, Let'Swift 2018 키노트](https://www.youtube.com/watch?v=xZ5IywL9Zkg&index=2&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS&t=6s) (17:48)
 
 - [2018년 7월 21일, 미리보는 Marzipan](https://www.youtube.com/watch?v=egZ_kPa7MzE&feature=youtu.be) (20:49)
@@ -316,6 +330,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 8월 14일, WWDC 2017 톺아보기](https://academy.realm.io/kr/posts/wwdc-2017-review/) (31:23)
 
 - [2017년 3월 16일, 2017년 애플 생태계의 변화](https://academy.realm.io/kr/posts/apple-trend-2017/) (19:30)
+
 
 ## 라이브러리
 - 🆕 [2019년 6월 4일, iOS 프로젝트에 Unity를 붙일 수 있을까?](https://tv.naver.com/v/8629583) (15:43)
@@ -328,6 +343,12 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## 개발경험
+- 🆕 [2019년 8월 3일, 그래요 저 비전공 개발자에요..](https://youtu.be/7u1pp7QIhBM) (19:28)
+
+- 🆕 [2019년 8월 3일, 인디 앱 수입으로 월세 내기](https://youtu.be/1DZyTyI4P-o) (22:48)
+
+- 🆕 [2019년 8월 3일, iOS 개발자로써의 프리랜서 경험담](https://youtu.be/1QlneFvP0K8) (18:50)
+
 - 🆕 [2019년 7월 31일, TECH CONCERT: MOBILE 2019 - iOS 개발자의 성장 루트](https://tv.naver.com/v/9342837) (01:10:09)
 
 - 🆕 [2019년 3월 30일, 개발자 스탠딩 코미디](https://youtu.be/vB4juojkfcY) (12:04)
@@ -462,6 +483,8 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 <br />
 
 ## RxSwift 세션
+- 🆕 [2019년 8월 3일, Combine vs RxSwift](https://youtu.be/Amt4KS-J7_k) (18:27)
+
 - [2018년 11월 6일, RxSwift Internal](https://www.youtube.com/watch?v=DsE-sagI04A&index=9&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
 
 - [2018년 11월 6일, Reactor Kit으로 RxSwift 시작하기](https://www.youtube.com/watch?v=G1b1sBy8XBA&index=7&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
