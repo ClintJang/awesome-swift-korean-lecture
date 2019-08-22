@@ -441,7 +441,7 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 
 <br />
 
-> 그 외 RxSwift 관련 곰튀김님 유튜브 링크입니다.
+> 그 외 RxSwift, Combine(🆕) 관련 곰튀김님 YouTube 링크입니다.
 
 - 🆕 [2019년 6월 28일, RxSwift 와 Combine 로 각각 이미지를 다운로드하는 코드를 비교해보자.](https://www.youtube.com/watch?v=G_22bAj9m0w) (08:40)
 
@@ -456,6 +456,8 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 - 🆕 [2019년 8월 6일, 기존의 async 함수를 RxSwift 와 Combine 를 사용하는 함수로 변환해 봅시다.](https://www.youtube.com/watch?v=6bjjU74B5PY) (06:39)
 
 - 🆕 [2019년 8월 13일, 여러개의 데이터가 발생되는 기존의 비동기 함수를 스트림으로 변환해 봅시다.](https://www.youtube.com/watch?v=Jbas61jX--A) (06:02)
+
+- 🆕 [2019년 8월 20일, 하나의 스트림을 여러번 구독할 때는 share가 필요합니다.](https://www.youtube.com/watch?v=9fwbtceXBKs) (07:26)
 
 <br />
 
