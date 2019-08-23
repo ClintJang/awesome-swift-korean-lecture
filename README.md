@@ -210,7 +210,9 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## Swift 기본 활용
-- 🆕 **⭐** [2019년 8월 3일, StringInterpolation과 SwiftUI](https://youtu.be/jS6vcFisuj4) (17:44)
+- 🆕 [2019년 8월 3일, 빨간맛 SwiftUI](https://youtu.be/y438H9bCyJ0) (38:04)
+
+- 🆕 [2019년 8월 3일, StringInterpolation과 SwiftUI](https://youtu.be/jS6vcFisuj4) (17:44)
 
 - 🆕 **⭐** [2019년 3월 30일, Immutable Data](https://youtu.be/25dvsEiwn4s) (20:01)
 
@@ -246,6 +248,10 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## iOS 내부 구조 및 기본 Framework 활용
+- 🆕 [2019년 8월 3일, App Lifecycle](https://youtu.be/Ki19PRHJHXo) (35:20)
+
+- 🆕 [2019년 8월 3일, iPadOS 13 앱 Step by Step](https://youtu.be/fM0-tZecO1I) (48:05)
+
 - 🆕 [2019년 8월 3일, ARKit 3 톺아보기](https://youtu.be/tskZHFjoPPA) (23:07)
 
 - 🆕 [2019년 1월 8일, SiriKit 소개](https://tv.naver.com/v/4980375) (14:35)
@@ -309,6 +315,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## 네트워킹
+- 🆕 [2019년 8월 3일, 누구나 할 수 있다. Networking](https://youtu.be/MJRYHtnvkqM) (32:06)
+
 - [2018년 11월 6일, GraphQL over Rest API](https://www.youtube.com/watch?v=4JW8kku0V5I&index=12&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) (28:28)
 
 - [2017년 11월 13일, 프로토콜을 활용한 비동기 네트워킹 로직 테스팅](https://www.youtube.com/watch?v=R3Bp3c8O3WM&feature=youtu.be) (13:00)
@@ -483,9 +491,11 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 <br />
 
 ## RxSwift 세션
+- 🆕 [2019년 8월 3일, RxSwift Internal](https://youtu.be/h-mGbK1SMiw) (28:58) : DisposeBag에 대하여 알아봅시다.
+
 - 🆕 [2019년 8월 3일, Combine vs RxSwift](https://youtu.be/Amt4KS-J7_k) (18:27)
 
-- [2018년 11월 6일, RxSwift Internal](https://www.youtube.com/watch?v=DsE-sagI04A&index=9&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
+- [2018년 11월 6일, RxSwift Internal](https://www.youtube.com/watch?v=DsE-sagI04A&index=9&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) : 옵저버와 이벤트 중심~.
 
 - [2018년 11월 6일, Reactor Kit으로 RxSwift 시작하기](https://www.youtube.com/watch?v=G1b1sBy8XBA&index=7&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
 
