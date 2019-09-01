@@ -137,6 +137,10 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## Let's Swift
+- 2019 : Let'Swift 2019 공식 일정
+	- **2019년 11월 12일 화요일, 양재 at센터**
+	- [Let'Swift 2019 준비위원회 신청](http://bit.ly/letswift19-staff)
+	- [Let'Swift 2019 발표자 신청](https://bit.ly/letswift19-speaker?fbclid=IwAR1y4RnyjnRHBOQYoqq6m5Fkxx53EY_lOVgNhkfOGpt-ie5KmWhNl84Hmoo)
 - 2018 : [http://letswift.kr/2018/](http://letswift.kr/2018/)
 - 2017 : http://letswift.kr/2017/
 - 2016 : http://letswift.kr/2016/
