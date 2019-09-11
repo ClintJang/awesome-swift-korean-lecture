@@ -280,6 +280,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## 디자인패턴 & 코드 스타일
+- 🆕 [2019년 8월 14일, Multiplatform Architecture RIBs in Swift](https://tv.naver.com/v/9502363) (48:13)
+
 - 🆕 [2019년 6월 4일, Clean swift architecture](https://tv.naver.com/v/8629561) (26:12)
 
 - 🆕 [2019년 6월 4일, 옆집사는 ‘함수’형 탐방기](https://tv.naver.com/v/8629615) (34:16)
@@ -356,6 +358,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## 개발경험
+- 🆕 [2019년 8월 14일, CocoaPods 제거를 통한 블로그 빌드 속도 개선](https://tv.naver.com/v/9501931) (26:45)
+
 - 🆕 [2019년 8월 3일, 그래요 저 비전공 개발자에요..](https://youtu.be/7u1pp7QIhBM) (19:28)
 
 - 🆕 [2019년 8월 3일, 인디 앱 수입으로 월세 내기](https://youtu.be/1DZyTyI4P-o) (22:48)
