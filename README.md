@@ -433,15 +433,15 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 - [2018년 12월 22일, 2 비동기 작업과 Observable](https://www.youtube.com/watch?v=5EI65fm4oqc&index=2&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq) (10:00)
 - [2018년 12월 24일, 3 Disposable DisposeBag](https://www.youtube.com/watch?v=TFd6JJAQXOc&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=3) (07:28)
 - [2018년 12월 26일, 4 기본 Operators](https://www.youtube.com/watch?v=dzk-Q6F26KM&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=4) (11:49)
-- [2018년 12월 27일, 5 Operator 종류들](https://www.youtube.com/watch?v=w_5PC61J-I8&index=5&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
-- [2018년 12월 28일, 6 Marble Diagram 이해하기](https://www.youtube.com/watch?v=FJf2l3-6ijk&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=6)
-- [2018년 12월 31일, 7 Next, Error, Completed](https://www.youtube.com/watch?v=GPI9zXatyog&index=7&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
-- 🆕 [2019년 1월 4일, 8 Scheduler](https://www.youtube.com/watch?v=HwRG3COUncA&index=8&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
-- 🆕 [2019년 1월 10일, 9 RxSwift 응용해보기](https://www.youtube.com/watch?v=gzJj_4X28wM&index=9&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
-- 🆕 [2019년 1월 13일, 10 Subject](https://www.youtube.com/watch?v=IZr2E_CcO28&index=10&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
-- 🆕 [2019년 1월 16일, 11 확장라이브러리들 그리고 마무리](https://www.youtube.com/watch?v=Ug_q8SPpvAY&index=11&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq)
+- [2018년 12월 27일, 5 Operator 종류들](https://www.youtube.com/watch?v=w_5PC61J-I8&index=5&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq) (07:48)
+- [2018년 12월 28일, 6 Marble Diagram 이해하기](https://www.youtube.com/watch?v=FJf2l3-6ijk&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=6) (12:05)
+- [2018년 12월 31일, 7 Next, Error, Completed](https://www.youtube.com/watch?v=GPI9zXatyog&index=7&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq) (13:32)
+- 🆕 [2019년 1월 4일, 8 Scheduler](https://www.youtube.com/watch?v=HwRG3COUncA&index=8&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq) (11:20)
+- 🆕 [2019년 1월 10일, 9 RxSwift 응용해보기](https://www.youtube.com/watch?v=gzJj_4X28wM&index=9&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq) (32:34)
+- 🆕 [2019년 1월 13일, 10 Subject](https://www.youtube.com/watch?v=IZr2E_CcO28&index=10&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq) (16:22)
+- 🆕 [2019년 1월 16일, 11 확장라이브러리들 그리고 마무리](https://www.youtube.com/watch?v=Ug_q8SPpvAY&index=11&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq) (16:24)
 - 🆕 [2019년 1월 20일, RxSwift 4시간에 끝내기 (종합편)](https://www.youtube.com/watch?v=w5Qmie-GbiA&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=1)
-	- [Github 자료 링크, RxSwift In 4 Hours](https://github.com/iamchiwon/RxSwift_In_4_Hours)
+	- [Github 자료 링크, RxSwift In 4 Hours](https://github.com/iamchiwon/RxSwift_In_4_Hours) (02:25:30)
 
 <br />
 
@@ -474,6 +474,20 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 - 🆕 [2019년 5월 12일, ViewModel을 적용하고 나면 별거 없다는 것을 알게될 겁니다.](https://www.youtube.com/watch?v=lOts3BGuOtY)
 - 🆕 [2019년 5월 15일, ViewModel 을 좀 더 고급지게 만들어 봅시다.
 ](https://www.youtube.com/watch?v=XG5TILoZH-g)
+
+</details>
+
+<br />
+
+<details><summary><code>클릭하면 열립니다. (Click!!) <br /><b>RxSwift 4시간에 끝내기 시즌2</b> <br /> 구체적인 내용들에 대한 링크들이 있습니다.</code></summary>
+
+<br />
+
+- 🆕 [2019년 8월 26일, 시즌2는 어떤 내용이 변경되었나요?](https://www.youtube.com/watch?v=r8wMr8pbXg0&list=PL03rJBlpwTaBrhux_C8RmtWDI_kZSLvdQ&index=4) (00:37)
+- 🆕 [2019년 8월 29일, 비동기로 발생하는 데이터는 어떻게 전달해야 합니까?](https://www.youtube.com/watch?v=9zusmT9nRBU&list=PL03rJBlpwTaBrhux_C8RmtWDI_kZSLvdQ&index=3) (02:08)
+- 🆕 [2019년 9월 5일, 비동기적으로 나중에 생기는 데이터를 리턴값으로 전달하기](https://www.youtube.com/watch?v=WIzkr7_CSWo&list=PL03rJBlpwTaBrhux_C8RmtWDI_kZSLvdQ&index=2) (03:47)
+- 🆕 [2019년 9월 12일, 나중에 생기는 데이터 Observable로 전달하기](https://www.youtube.com/watch?v=ozQZih39nCA&list=PL03rJBlpwTaBrhux_C8RmtWDI_kZSLvdQ&index=1) (02:59)
+- 🆕 [2019년 9월 19일, Operator 란 무엇이냐~](https://www.youtube.com/watch?v=NVfrkDlb8HU) (06:35)
 
 </details>
 
