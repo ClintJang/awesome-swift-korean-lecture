@@ -490,6 +490,9 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 - 🆕 [2019년 9월 5일, 비동기적으로 나중에 생기는 데이터를 리턴값으로 전달하기](https://www.youtube.com/watch?v=WIzkr7_CSWo&list=PL03rJBlpwTaBrhux_C8RmtWDI_kZSLvdQ&index=2) (03:47)
 - 🆕 [2019년 9월 12일, 나중에 생기는 데이터 Observable로 전달하기](https://www.youtube.com/watch?v=ozQZih39nCA&list=PL03rJBlpwTaBrhux_C8RmtWDI_kZSLvdQ&index=1) (02:59)
 - 🆕 [2019년 9월 19일, Operator 란 무엇이냐~](https://www.youtube.com/watch?v=NVfrkDlb8HU) (06:35)
+- 🆕 [2019년 9월 26일, 스트림을 내 맘대로.. 잘라쓰고~ 붙여쓰고~](https://www.youtube.com/watch?v=YSYnETTi1pE) (09:41)
+- 🆕 [2019년 10월 3일, 뷰모델을 만들어서 사용해 봅시다.](https://www.youtube.com/watch?v=sZjwyvY-xUM) (12:40)
+- 🆕 [2019년 10월 10일, MVC, MVP, MVVM 차이점 알아보기](https://www.youtube.com/watch?v=bjVAVm3t5cQ) (06:31)
 
 </details>
 
