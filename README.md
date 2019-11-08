@@ -121,8 +121,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
   - 🆕 봄 세션 : https://iosdevkor.github.io/let_us_go_2019_spring_review/
   - 🆕 여름 세션 : https://letusgo.app
   - 🆕 가을 세션 : https://iosdevkor.github.io/let_us_go_2019_fall/
-      - **let us: Go! 2019 가을** 아직 날짜는 **11월 16일 토요일**입니다.
-      - 모집으 종료된 상황입니다.
+      - **let us: Go! 2019 가을**, 날짜는 **11월 16일 토요일**입니다.
+      - 모집은 종료된 상황입니다.
 
 - 2018
   - 봄 세션 : https://iosdevkor.github.io/let_us_go_2018_spring_review/
