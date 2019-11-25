@@ -120,9 +120,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - 2019
   - 🆕 봄 세션 : https://iosdevkor.github.io/let_us_go_2019_spring_review/
   - 🆕 여름 세션 : https://letusgo.app
-  - 🆕 가을 세션 : https://iosdevkor.github.io/let_us_go_2019_fall/
-      - **let us: Go! 2019 가을**, 날짜는 **11월 16일 토요일**입니다.
-      - 모집은 종료된 상황입니다.
+  - 🆕 가을 세션 : https://iosdevkor.github.io/let_us_go_2019_fall_review/
+  - 겨울 : **?**
 
 - 2018
   - 봄 세션 : https://iosdevkor.github.io/let_us_go_2018_spring_review/
@@ -139,15 +138,14 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## Let's Swift
-- 2019 : [Let'Swift 2019 공식 일정](http://letswift.kr/2019/)
-	- **2019년 11월 12일 화요일, 양재 at센터**
-	- http://letswift.kr/2019/
+- 2019 : [http://letswift.kr/2019/](http://letswift.kr/2019/)
 - 2018 : [http://letswift.kr/2018/](http://letswift.kr/2018/)
-- 2017 : http://letswift.kr/2017/
-- 2016 : http://letswift.kr/2016/
-
+- 2017 : [http://letswift.kr/2017/](http://letswift.kr/2017/)
+- 2016 : [http://letswift.kr/2016/](http://letswift.kr/2016/)
 
 ## meetup
+> 2018년는 Let's Swift와 함께 했습니다.
+
 - 2017년 12월 13일 : https://swiftkorea.github.io/meetup/2#
 - 2017년 4월 28일 : https://swiftkorea.github.io/meetup/1#
 
@@ -216,6 +214,10 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## Swift 기본 활용
+- 🆕 [2019년 11월 12일, 미려한 UI/UX를 위한 여정](https://www.youtube.com/watch?v=u6bIQWy0KwU&feature=youtu.be) (44:16)
+
+- **⭐** 🆕 [2019년 11월 12일, Behind Scene of Delightful Experience](https://www.youtube.com/watch?v=okWX5Ub-lUc&feature=youtu.be) (22:26) : 에니메이션에서 Frame, Timing, Easing 에 대한 원칙 같은 것을 아시나요?
+
 - 🆕 [2019년 8월 3일, 빨간맛 SwiftUI](https://youtu.be/y438H9bCyJ0) (38:04)
 
 - 🆕 [2019년 8월 3일, StringInterpolation과 SwiftUI](https://youtu.be/jS6vcFisuj4) (17:44)
@@ -337,6 +339,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## WWDC & Apple
+>  애플의 WWDC와 관련된 이야기 모음
+
 - 🆕 [2019년 8월 3일, WWDC Cheatsheet](https://youtu.be/RqRPMKqEGZE) (45:55) : WWDC 2019 주요 세션을 살펴봅니다. 👍 iOS 개발 열정을 느낄 수 있습니다.
 
 - [2018년 11월 6일, Let'Swift 2018 키노트](https://www.youtube.com/watch?v=xZ5IywL9Zkg&index=2&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS&t=6s) (17:48)
@@ -382,6 +386,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 2월 28일, 기획, 디자인 변경에 강한 카드뷰 만들기 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-make-cardview-ios-tech-talk/) (10:06)
 
 ## 세션 투어
+> WWDC & Apple, 애플의 WWDC 외의 국내/외 세미나 관련 이야기 모임
+
 - 🆕 [2019년 3월 30일, try! Swift 2019 후기](https://youtu.be/K0VFMOanmlw) (24:19)
 
 - [2017년 6월 27일, try! Swift Tokyo 2017 후기](https://academy.realm.io/kr/posts/try-swift-tokyo-2017-review/) (12:24)
@@ -520,6 +526,8 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 <br />
 
 ## RxSwift 세션
+- 🆕 [2019년 11월 12일, RxSwift to Combine](https://www.youtube.com/watch?v=Y273NDkYBg4&feature=youtu.be) (38:05)
+
 - 🆕 [2019년 8월 3일, RxSwift Internal](https://youtu.be/h-mGbK1SMiw) (28:58) : DisposeBag에 대하여 알아봅시다.
 
 - 🆕 [2019년 8월 3일, Combine vs RxSwift](https://youtu.be/Amt4KS-J7_k) (18:27)
