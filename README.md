@@ -214,9 +214,11 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## Swift 기본 활용
+- 🆕 [2019년 11월 12일, Swift in SwiftUI](https://www.youtube.com/watch?v=Gr-rwKqIaeE&feature=youtu.be) (18:28)
+
 - 🆕 [2019년 11월 12일, 미려한 UI/UX를 위한 여정](https://www.youtube.com/watch?v=u6bIQWy0KwU&feature=youtu.be) (44:16)
 
-- **⭐** 🆕 [2019년 11월 12일, Behind Scene of Delightful Experience](https://www.youtube.com/watch?v=okWX5Ub-lUc&feature=youtu.be) (22:26) : 에니메이션에서 Frame, Timing, Easing 에 대한 원칙 같은 것을 아시나요?
+- 🆕 **⭐** [2019년 11월 12일, Behind Scene of Delightful Experience](https://www.youtube.com/watch?v=okWX5Ub-lUc&feature=youtu.be) (22:26) : 에니메이션에서 Frame, Timing, Easing 에 대한 원칙 같은 것을 아시나요?
 
 - 🆕 [2019년 8월 3일, 빨간맛 SwiftUI](https://youtu.be/y438H9bCyJ0) (38:04)
 
@@ -282,7 +284,9 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 6월 21일, Playground 100% 활용하기](https://academy.realm.io/kr/posts/swift-playground/) (13:43)
 
 
-## 디자인패턴 & 코드 스타일
+## 디자인 패턴, 아키텍쳐 패턴 & 코드 스타일
+- 🆕 [2019년 11월 12일, MVC, MVVM, ReactorKit, Viper를 거쳐 RIB 정착기](https://www.youtube.com/watch?v=3XS6xLzKRjc&feature=youtu.be) (26:34)
+
 - 🆕 [2019년 8월 14일, Multiplatform Architecture RIBs in Swift](https://tv.naver.com/v/9502363) (48:13)
 
 - 🆕 [2019년 6월 4일, Clean swift architecture](https://tv.naver.com/v/8629561) (26:12)
