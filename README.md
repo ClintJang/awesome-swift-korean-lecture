@@ -216,6 +216,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## Swift 기본 활용
 - 🆕 [2019년 11월 12일, Swift in SwiftUI](https://www.youtube.com/watch?v=Gr-rwKqIaeE&feature=youtu.be) (18:28)
 
+- 🆕 [2019년 11월 12일, Xcode Previews - IB 없이 개발하기](https://www.youtube.com/watch?v=eGerQUlXeyg&feature=youtu.be) (40:55)
+
 - 🆕 [2019년 11월 12일, 미려한 UI/UX를 위한 여정](https://www.youtube.com/watch?v=u6bIQWy0KwU&feature=youtu.be) (44:16)
 
 - 🆕 **⭐** [2019년 11월 12일, Behind Scene of Delightful Experience](https://www.youtube.com/watch?v=okWX5Ub-lUc&feature=youtu.be) (22:26) : 에니메이션에서 Frame, Timing, Easing 에 대한 원칙 같은 것을 아시나요?
@@ -531,6 +533,8 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 
 ## RxSwift 세션
 - 🆕 [2019년 11월 12일, RxSwift to Combine](https://www.youtube.com/watch?v=Y273NDkYBg4&feature=youtu.be) (38:05)
+
+- 🆕 [2019년 11월 12일, RxTesting 같이 시작하기](https://www.youtube.com/watch?v=tVWKUMxyqVo&feature=youtu.be) (17:04)
 
 - 🆕 [2019년 8월 3일, RxSwift Internal](https://youtu.be/h-mGbK1SMiw) (28:58) : DisposeBag에 대하여 알아봅시다.
 
