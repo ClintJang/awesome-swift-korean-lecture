@@ -182,6 +182,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - **⭐** [2017년 4월 18일, 오토 레이아웃으로 iOS 앱 쉽게 개발하기](https://academy.realm.io/kr/posts/ios-autolayout/) (20:02) : 오토 레이아웃 기초 2
 
 ## 메모리 & 컴파일러
+- [2019년 11월 16일, 디버깅 시작해버깅](https://youtu.be/2lwWggsYeXU) (22:48)
+
 - **⭐** [2018년 10월 20일, Debugging With Xcode, LLDB and Chisel](https://youtu.be/U0tK6jPLtN8) (42:38) : LLDB 알면 좋은 것!
 
 - **⭐⭐** [2016년 7월 19일, Swift 성능 이해하기](https://academy.realm.io/kr/posts/letswift-swift-performance/) (42:57) : Value 타입, Protocol과 스위프트의 성능 최적화
@@ -371,6 +373,10 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## 개발경험
+- 🆕 [2019년 11월 16일, 내 소스를 오픈하면 생기는 일](https://www.youtube.com/watch?v=eU_8cC6GEsQ&feature=youtu.be) (29:24)
+
+- 🆕 [2019년 11월 16일, Swift 개발이 좋아요](https://youtu.be/aqmf7YPyUsQ) (27:58) : Swift 개발을 왜 좋아하세요?
+
 - 🆕 [2019년 11월 16일, 주니어 개발자 해외 취업기](https://www.youtube.com/watch?v=KLP2j7GxajU&feature=youtu.be) (55:43) : 독일 베를린에 iOS 개발자로 취업한 경험 이야기에요~.
 
 - 🆕 [2019년 8월 14일, CocoaPods 제거를 통한 블로그 빌드 속도 개선](https://tv.naver.com/v/9501931) (26:45)
