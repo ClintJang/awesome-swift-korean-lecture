@@ -371,6 +371,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## 개발경험
+- 🆕 [2019년 11월 16일, 주니어 개발자 해외 취업기](https://www.youtube.com/watch?v=KLP2j7GxajU&feature=youtu.be) (55:43) : 독일 베를린에 iOS 개발자로 취업한 경험 이야기에요~.
+
 - 🆕 [2019년 8월 14일, CocoaPods 제거를 통한 블로그 빌드 속도 개선](https://tv.naver.com/v/9501931) (26:45)
 
 - 🆕 [2019년 8월 3일, 그래요 저 비전공 개발자에요..](https://youtu.be/7u1pp7QIhBM) (19:28)
