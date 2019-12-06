@@ -218,6 +218,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 - 🆕 [2019년 11월 12일, Xcode Previews - IB 없이 개발하기](https://www.youtube.com/watch?v=eGerQUlXeyg&feature=youtu.be) (40:55)
 
+- 🆕 [2019년 11월 12일, 코드로 iOS UI 편하게 작업하기 위한 라이브러리 작업](https://www.youtube.com/watch?v=EzjyuEf61Vo&feature=youtu.be) (17:01)
+
 - 🆕 [2019년 11월 12일, 미려한 UI/UX를 위한 여정](https://www.youtube.com/watch?v=u6bIQWy0KwU&feature=youtu.be) (44:16)
 
 - 🆕 **⭐** [2019년 11월 12일, Behind Scene of Delightful Experience](https://www.youtube.com/watch?v=okWX5Ub-lUc&feature=youtu.be) (22:26) : 에니메이션에서 Frame, Timing, Easing 에 대한 원칙 같은 것을 아시나요?
@@ -423,6 +425,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## 딥러닝 
+- 🆕 [2019년 11월 12일, iOS 앱에서 머신러닝이 해결할 수 있는 문제들](https://www.youtube.com/watch?v=zKPB8rnS-EM&feature=youtu.be) (35:09)
+
 - [2017년 12월 13일, iOS와 케라스의 만남](https://www.youtube.com/watch?v=V4uRLSz9Ou0&feature=youtu.be) (19:08)
 	- [모두를 위한 딥러닝 강좌 시즌 1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) : 스위프트는 아닙니다. 머신러닝 입분부터 종결은 여기를 참고해서 공부하세요. .. 교수님 감사합니다. (￣～￣)a
 
