@@ -216,6 +216,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## Swift 기본 활용
+- 🆕 [2019년 11월 16일, Custom Operators in Swift](https://youtu.be/ZLCYtCxd98s) (21:43)
+
 - 🆕 [2019년 11월 12일, Swift in SwiftUI](https://www.youtube.com/watch?v=Gr-rwKqIaeE&feature=youtu.be) (18:28)
 
 - 🆕 [2019년 11월 12일, Xcode Previews - IB 없이 개발하기](https://www.youtube.com/watch?v=eGerQUlXeyg&feature=youtu.be) (40:55)
@@ -264,6 +266,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## iOS 내부 구조 및 기본 Framework 활용
+- 🆕 [2019년 11월 16일, Static Framework와 Dynamic Framework 그리고 Encapsulation](https://www.youtube.com/watch?v=SztMN6F2BDQ&feature=youtu.be) (35:20)
+
 - 🆕 [2019년 8월 3일, App Lifecycle](https://youtu.be/Ki19PRHJHXo) (35:20)
 
 - 🆕 [2019년 8월 3일, iPadOS 13 앱 Step by Step](https://youtu.be/fM0-tZecO1I) (48:05)
@@ -421,6 +425,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2016년 9월 11일, Swift 모바일데이터베이스 : Realm](https://academy.realm.io/kr/posts/realm-swift-mobile-database/) (15:59)
 
 ## Tool?좋은 개발을 위한 도구의 활용
+- 🆕 [2019년 11월 16일, fastlane init Swift](https://youtu.be/Mq_NrK-SlEc) (21:28)
+
 - [2018년 11월 6일, iOS Ruby](https://www.youtube.com/watch?v=BDuVrhfnsnE&index=4&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) (29:15)
 
 - [2017년 12월 13일, Simulator Customizing & Testing](https://www.youtube.com/watch?v=4i2EBnmUMcs&feature=youtu.be) (18:17)
