@@ -117,11 +117,13 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 링크 안에 강의 동영상을 볼 수 있는 링크가 있습니다.
 
 ## Let us:Go! ([iOS Developer KR](https://github.com/iOSDevKor))
+- 2020
+  - 봄 세션 : COVID-19로 인한 취소
+  
 - 2019
-  - 🆕 봄 세션 : https://iosdevkor.github.io/let_us_go_2019_spring_review/
-  - 🆕 여름 세션 : https://letusgo.app
-  - 🆕 가을 세션 : https://iosdevkor.github.io/let_us_go_2019_fall_review/
-  - 겨울 : **?**
+  - 봄 세션 : https://iosdevkor.github.io/let_us_go_2019_spring_review/
+  - 여름 세션 : https://letusgo.app
+  - 가을 세션 : https://iosdevkor.github.io/let_us_go_2019_fall_review/
 
 - 2018
   - 봄 세션 : https://iosdevkor.github.io/let_us_go_2018_spring_review/
@@ -202,9 +204,9 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 5월 11일, 지속적인 전달을 위한 자동화 도구, fastlane: 데모와 함께 알아보기](https://academy.realm.io/kr/posts/ios-fastlane-demos/) (48:43)
 
 ## iOS 활용 및 팁
-- 🆕 **⭐** [2019년 3월 30일, 프레임워크 주도 개발](https://youtu.be/YiEpuZQPuko) (34:45)
+- **⭐** [2019년 3월 30일, 프레임워크 주도 개발](https://youtu.be/YiEpuZQPuko) (34:45)
 
-- 🆕 [2019년 1월 8일, 영어 변수명을 잘 지어보자](https://tv.naver.com/v/4980432) (34:45)
+- [2019년 1월 8일, 영어 변수명을 잘 지어보자](https://tv.naver.com/v/4980432) (34:45)
 
 - [2018년 10월 20일, 단축어와 놀기](https://youtu.be/yEH6gwWJ8fY) (21:52)
 
@@ -216,23 +218,23 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## Swift 기본 활용
-- 🆕 [2019년 11월 16일, Custom Operators in Swift](https://youtu.be/ZLCYtCxd98s) (21:43)
+- [2019년 11월 16일, Custom Operators in Swift](https://youtu.be/ZLCYtCxd98s) (21:43)
 
-- 🆕 [2019년 11월 12일, Swift in SwiftUI](https://www.youtube.com/watch?v=Gr-rwKqIaeE&feature=youtu.be) (18:28)
+- [2019년 11월 12일, Swift in SwiftUI](https://www.youtube.com/watch?v=Gr-rwKqIaeE&feature=youtu.be) (18:28)
 
-- 🆕 [2019년 11월 12일, Xcode Previews - IB 없이 개발하기](https://www.youtube.com/watch?v=eGerQUlXeyg&feature=youtu.be) (40:55)
+- [2019년 11월 12일, Xcode Previews - IB 없이 개발하기](https://www.youtube.com/watch?v=eGerQUlXeyg&feature=youtu.be) (40:55)
 
-- 🆕 [2019년 11월 12일, 코드로 iOS UI 편하게 작업하기 위한 라이브러리 작업](https://www.youtube.com/watch?v=EzjyuEf61Vo&feature=youtu.be) (17:01)
+- [2019년 11월 12일, 코드로 iOS UI 편하게 작업하기 위한 라이브러리 작업](https://www.youtube.com/watch?v=EzjyuEf61Vo&feature=youtu.be) (17:01)
 
-- 🆕 [2019년 11월 12일, 미려한 UI/UX를 위한 여정](https://www.youtube.com/watch?v=u6bIQWy0KwU&feature=youtu.be) (44:16)
+- [2019년 11월 12일, 미려한 UI/UX를 위한 여정](https://www.youtube.com/watch?v=u6bIQWy0KwU&feature=youtu.be) (44:16)
 
-- 🆕 **⭐** [2019년 11월 12일, Behind Scene of Delightful Experience](https://www.youtube.com/watch?v=okWX5Ub-lUc&feature=youtu.be) (22:26) : 에니메이션에서 Frame, Timing, Easing 에 대한 원칙 같은 것을 아시나요?
+- **⭐** [2019년 11월 12일, Behind Scene of Delightful Experience](https://www.youtube.com/watch?v=okWX5Ub-lUc&feature=youtu.be) (22:26) : 에니메이션에서 Frame, Timing, Easing 에 대한 원칙 같은 것을 아시나요?
 
-- 🆕 [2019년 8월 3일, 빨간맛 SwiftUI](https://youtu.be/y438H9bCyJ0) (38:04)
+- [2019년 8월 3일, 빨간맛 SwiftUI](https://youtu.be/y438H9bCyJ0) (38:04)
 
-- 🆕 [2019년 8월 3일, StringInterpolation과 SwiftUI](https://youtu.be/jS6vcFisuj4) (17:44)
+- [2019년 8월 3일, StringInterpolation과 SwiftUI](https://youtu.be/jS6vcFisuj4) (17:44)
 
-- 🆕 **⭐** [2019년 3월 30일, Immutable Data](https://youtu.be/25dvsEiwn4s) (20:01)
+- **⭐** [2019년 3월 30일, Immutable Data](https://youtu.be/25dvsEiwn4s) (20:01)
 
 - **⭐⭐** [2018년 10월 20일, Advanced Higher-Order Function](https://youtu.be/HVRre-y1hnM) (21:34)
 
@@ -260,23 +262,23 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## Swift / Xcode 버전 변화
-- 🆕 [2019년 8월 3일, What's new in Xcode / iOS13](https://youtu.be/qPB_2QUmS3Y) (26:23)
+- [2019년 8월 3일, What's new in Xcode / iOS13](https://youtu.be/qPB_2QUmS3Y) (26:23)
 
 - [2017년 12월 20일, What's New Swift 4](https://www.youtube.com/watch?v=uIqP4SmSFww&feature=youtu.be) (31:01)
 
 
 ## iOS 내부 구조 및 기본 Framework 활용
-- 🆕 [2019년 11월 16일, Static Framework와 Dynamic Framework 그리고 Encapsulation](https://www.youtube.com/watch?v=SztMN6F2BDQ&feature=youtu.be) (35:20)
+- [2019년 11월 16일, Static Framework와 Dynamic Framework 그리고 Encapsulation](https://www.youtube.com/watch?v=SztMN6F2BDQ&feature=youtu.be) (35:20)
 
-- 🆕 [2019년 8월 3일, App Lifecycle](https://youtu.be/Ki19PRHJHXo) (35:20)
+- [2019년 8월 3일, App Lifecycle](https://youtu.be/Ki19PRHJHXo) (35:20)
 
-- 🆕 [2019년 8월 3일, iPadOS 13 앱 Step by Step](https://youtu.be/fM0-tZecO1I) (48:05)
+- [2019년 8월 3일, iPadOS 13 앱 Step by Step](https://youtu.be/fM0-tZecO1I) (48:05)
 
-- 🆕 [2019년 8월 3일, ARKit 3 톺아보기](https://youtu.be/tskZHFjoPPA) (23:07)
+- [2019년 8월 3일, ARKit 3 톺아보기](https://youtu.be/tskZHFjoPPA) (23:07)
 
-- 🆕 [2019년 1월 8일, SiriKit 소개](https://tv.naver.com/v/4980375) (14:35)
+- [2019년 1월 8일, SiriKit 소개](https://tv.naver.com/v/4980375) (14:35)
 
-- 🆕 [2019년 1월 8일, HTTP Live Streaming (HLS)](https://tv.naver.com/v/4980383) (26:06)
+- [2019년 1월 8일, HTTP Live Streaming (HLS)](https://tv.naver.com/v/4980383) (26:06)
 
 - [2018년 10월 20일, SIMD&MPS in Swift](https://www.youtube.com/watch?v=S5tJi4KCItI&index=10&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) (34:34): 조금 어렵습니다. 😓
 
@@ -295,19 +297,19 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## 디자인 패턴, 아키텍쳐 패턴 & 코드 스타일
-- 🆕 [2019년 11월 12일, MVC, MVVM, ReactorKit, Viper를 거쳐 RIB 정착기](https://www.youtube.com/watch?v=3XS6xLzKRjc&feature=youtu.be) (26:34)
+- [2019년 11월 12일, MVC, MVVM, ReactorKit, Viper를 거쳐 RIB 정착기](https://www.youtube.com/watch?v=3XS6xLzKRjc&feature=youtu.be) (26:34)
 
-- 🆕 [2019년 8월 14일, Multiplatform Architecture RIBs in Swift](https://tv.naver.com/v/9502363) (48:13)
+- [2019년 8월 14일, Multiplatform Architecture RIBs in Swift](https://tv.naver.com/v/9502363) (48:13)
 
-- 🆕 [2019년 6월 4일, Clean swift architecture](https://tv.naver.com/v/8629561) (26:12)
+- [2019년 6월 4일, Clean swift architecture](https://tv.naver.com/v/8629561) (26:12)
 
-- 🆕 [2019년 6월 4일, 옆집사는 ‘함수’형 탐방기](https://tv.naver.com/v/8629615) (34:16)
+- [2019년 6월 4일, 옆집사는 ‘함수’형 탐방기](https://tv.naver.com/v/8629615) (34:16)
 
-- 🆕 [2019년 3월 30일, 상속에서 프로토콜로](https://youtu.be/3VQO_gwX8Fg) (21:27)
+- [2019년 3월 30일, 상속에서 프로토콜로](https://youtu.be/3VQO_gwX8Fg) (21:27)
 
-- 🆕 [2019년 3월 30일, iOS 환경에 SOLID 적용하기](https://youtu.be/QXVO2NcarkQ) (27:18)
+- [2019년 3월 30일, iOS 환경에 SOLID 적용하기](https://youtu.be/QXVO2NcarkQ) (27:18)
 
-- 🆕 [2019년 1월 8일, Architecture + Clean Swift](https://tv.naver.com/v/4980400) (25:49)
+- [2019년 1월 8일, Architecture + Clean Swift](https://tv.naver.com/v/4980400) (25:49)
 
 - [2018년 11월 6일, ReSwift와 함께 Unidirectional Architecture](https://www.youtube.com/watch?v=ypI9VP0Q48k&index=8&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) (25:51)
 
@@ -339,7 +341,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## 네트워킹
-- 🆕 [2019년 8월 3일, 누구나 할 수 있다. Networking](https://youtu.be/MJRYHtnvkqM) (32:06)
+- [2019년 8월 3일, 누구나 할 수 있다. Networking](https://youtu.be/MJRYHtnvkqM) (32:06)
 
 - [2018년 11월 6일, GraphQL over Rest API](https://www.youtube.com/watch?v=4JW8kku0V5I&index=12&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) (28:28)
 
@@ -347,7 +349,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## UI/UX
-- 🆕 **⭐** [2019년 3월 30일, 스토리보드 없이 UI 만들기](https://youtu.be/-QWm9r4BzMI) (15:48) : 코드로 개발하면 어떤 장점이 있을까요??
+- **⭐** [2019년 3월 30일, 스토리보드 없이 UI 만들기](https://youtu.be/-QWm9r4BzMI) (15:48) : 코드로 개발하면 어떤 장점이 있을까요??
 
 - [2017년 12월 20일, Metal 기반 특별한 UI/UX 제공하기](https://www.youtube.com/watch?v=mB9d5RDNryw&feature=youtu.be) (25:19)
 
@@ -355,7 +357,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## WWDC & Apple
 >  애플의 WWDC와 관련된 이야기 모음
 
-- 🆕 [2019년 8월 3일, WWDC Cheatsheet](https://youtu.be/RqRPMKqEGZE) (45:55) : WWDC 2019 주요 세션을 살펴봅니다. 👍 iOS 개발 열정을 느낄 수 있습니다.
+- [2019년 8월 3일, WWDC Cheatsheet](https://youtu.be/RqRPMKqEGZE) (45:55) : WWDC 2019 주요 세션을 살펴봅니다. 👍 iOS 개발 열정을 느낄 수 있습니다.
 
 - [2018년 11월 6일, Let'Swift 2018 키노트](https://www.youtube.com/watch?v=xZ5IywL9Zkg&index=2&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS&t=6s) (17:48)
 
@@ -367,33 +369,33 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## 라이브러리
-- 🆕 [2019년 6월 4일, iOS 프로젝트에 Unity를 붙일 수 있을까?](https://tv.naver.com/v/8629583) (15:43)
+- [2019년 6월 4일, iOS 프로젝트에 Unity를 붙일 수 있을까?](https://tv.naver.com/v/8629583) (15:43)
 
-- 🆕 [2019년 3월 30일, RxFlow 시작하기](https://youtu.be/udqzq0vHpv0) (16:44) : Coordinator Pattern을 아시나요?
+- [2019년 3월 30일, RxFlow 시작하기](https://youtu.be/udqzq0vHpv0) (16:44) : Coordinator Pattern을 아시나요?
 
-- 🆕 [2019년 3월 30일, Texture 입문기](https://youtu.be/tTG_XI6YKc0) (21:32)
+- [2019년 3월 30일, Texture 입문기](https://youtu.be/tTG_XI6YKc0) (21:32)
 
 - [2018년 7월 21일, Texture Reactive wrapper 만들고 응용하기](https://www.youtube.com/watch?v=cnW2B019_2w&feature=player_embedded) (23:34)
 
 
 ## 개발경험
-- 🆕 [2019년 11월 16일, 내 소스를 오픈하면 생기는 일](https://www.youtube.com/watch?v=eU_8cC6GEsQ&feature=youtu.be) (29:24)
+- [2019년 11월 16일, 내 소스를 오픈하면 생기는 일](https://www.youtube.com/watch?v=eU_8cC6GEsQ&feature=youtu.be) (29:24)
 
-- 🆕 [2019년 11월 16일, Swift 개발이 좋아요](https://youtu.be/aqmf7YPyUsQ) (27:58) : Swift 개발을 왜 좋아하세요?
+- [2019년 11월 16일, Swift 개발이 좋아요](https://youtu.be/aqmf7YPyUsQ) (27:58) : Swift 개발을 왜 좋아하세요?
 
-- 🆕 [2019년 11월 16일, 주니어 개발자 해외 취업기](https://www.youtube.com/watch?v=KLP2j7GxajU&feature=youtu.be) (55:43) : 독일 베를린에 iOS 개발자로 취업한 경험 이야기에요~.
+- [2019년 11월 16일, 주니어 개발자 해외 취업기](https://www.youtube.com/watch?v=KLP2j7GxajU&feature=youtu.be) (55:43) : 독일 베를린에 iOS 개발자로 취업한 경험 이야기에요~.
 
-- 🆕 [2019년 8월 14일, CocoaPods 제거를 통한 블로그 빌드 속도 개선](https://tv.naver.com/v/9501931) (26:45)
+- [2019년 8월 14일, CocoaPods 제거를 통한 블로그 빌드 속도 개선](https://tv.naver.com/v/9501931) (26:45)
 
-- 🆕 [2019년 8월 3일, 그래요 저 비전공 개발자에요..](https://youtu.be/7u1pp7QIhBM) (19:28)
+- [2019년 8월 3일, 그래요 저 비전공 개발자에요..](https://youtu.be/7u1pp7QIhBM) (19:28)
 
-- 🆕 [2019년 8월 3일, 인디 앱 수입으로 월세 내기](https://youtu.be/1DZyTyI4P-o) (22:48)
+- [2019년 8월 3일, 인디 앱 수입으로 월세 내기](https://youtu.be/1DZyTyI4P-o) (22:48)
 
-- 🆕 [2019년 8월 3일, iOS 개발자로써의 프리랜서 경험담](https://youtu.be/1QlneFvP0K8) (18:50)
+- [2019년 8월 3일, iOS 개발자로써의 프리랜서 경험담](https://youtu.be/1QlneFvP0K8) (18:50)
 
-- 🆕 [2019년 7월 31일, TECH CONCERT: MOBILE 2019 - iOS 개발자의 성장 루트](https://tv.naver.com/v/9342837) (01:10:09)
+- [2019년 7월 31일, TECH CONCERT: MOBILE 2019 - iOS 개발자의 성장 루트](https://tv.naver.com/v/9342837) (01:10:09)
 
-- 🆕 [2019년 3월 30일, 개발자 스탠딩 코미디](https://youtu.be/vB4juojkfcY) (12:04)
+- [2019년 3월 30일, 개발자 스탠딩 코미디](https://youtu.be/vB4juojkfcY) (12:04)
 
 - [2018년 11월 6일, 사이드프로젝트로 앱스토어1위공략하기](https://www.youtube.com/watch?v=_2t24zQvRFs&index=3&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) (29:21)
 
@@ -425,7 +427,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2016년 9월 11일, Swift 모바일데이터베이스 : Realm](https://academy.realm.io/kr/posts/realm-swift-mobile-database/) (15:59)
 
 ## Tool?좋은 개발을 위한 도구의 활용
-- 🆕 [2019년 11월 16일, fastlane init Swift](https://youtu.be/Mq_NrK-SlEc) (21:28)
+- [2019년 11월 16일, fastlane init Swift](https://youtu.be/Mq_NrK-SlEc) (21:28)
 
 - [2018년 11월 6일, iOS Ruby](https://www.youtube.com/watch?v=BDuVrhfnsnE&index=4&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) (29:15)
 
@@ -439,7 +441,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## 딥러닝 
-- 🆕 [2019년 11월 12일, iOS 앱에서 머신러닝이 해결할 수 있는 문제들](https://www.youtube.com/watch?v=zKPB8rnS-EM&feature=youtu.be) (35:09)
+- [2019년 11월 12일, iOS 앱에서 머신러닝이 해결할 수 있는 문제들](https://www.youtube.com/watch?v=zKPB8rnS-EM&feature=youtu.be) (35:09)
 
 - [2017년 12월 13일, iOS와 케라스의 만남](https://www.youtube.com/watch?v=V4uRLSz9Ou0&feature=youtu.be) (19:08)
 	- [모두를 위한 딥러닝 강좌 시즌 1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) : 스위프트는 아닙니다. 머신러닝 입분부터 종결은 여기를 참고해서 공부하세요. .. 교수님 감사합니다. (￣～￣)a
@@ -467,11 +469,11 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 - [2018년 12월 27일, 5 Operator 종류들](https://www.youtube.com/watch?v=w_5PC61J-I8&index=5&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq) (07:48)
 - [2018년 12월 28일, 6 Marble Diagram 이해하기](https://www.youtube.com/watch?v=FJf2l3-6ijk&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=6) (12:05)
 - [2018년 12월 31일, 7 Next, Error, Completed](https://www.youtube.com/watch?v=GPI9zXatyog&index=7&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq) (13:32)
-- 🆕 [2019년 1월 4일, 8 Scheduler](https://www.youtube.com/watch?v=HwRG3COUncA&index=8&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq) (11:20)
-- 🆕 [2019년 1월 10일, 9 RxSwift 응용해보기](https://www.youtube.com/watch?v=gzJj_4X28wM&index=9&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq) (32:34)
-- 🆕 [2019년 1월 13일, 10 Subject](https://www.youtube.com/watch?v=IZr2E_CcO28&index=10&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq) (16:22)
-- 🆕 [2019년 1월 16일, 11 확장라이브러리들 그리고 마무리](https://www.youtube.com/watch?v=Ug_q8SPpvAY&index=11&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq) (16:24)
-- 🆕 [2019년 1월 20일, RxSwift 4시간에 끝내기 (종합편)](https://www.youtube.com/watch?v=w5Qmie-GbiA&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=1) (02:25:30)
+- [2019년 1월 4일, 8 Scheduler](https://www.youtube.com/watch?v=HwRG3COUncA&index=8&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq) (11:20)
+- [2019년 1월 10일, 9 RxSwift 응용해보기](https://www.youtube.com/watch?v=gzJj_4X28wM&index=9&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq) (32:34)
+- [2019년 1월 13일, 10 Subject](https://www.youtube.com/watch?v=IZr2E_CcO28&index=10&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq) (16:22)
+- [2019년 1월 16일, 11 확장라이브러리들 그리고 마무리](https://www.youtube.com/watch?v=Ug_q8SPpvAY&index=11&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq) (16:24)
+- [2019년 1월 20일, RxSwift 4시간에 끝내기 (종합편)](https://www.youtube.com/watch?v=w5Qmie-GbiA&list=PL03rJBlpwTaAh5zfc8KWALc3ADgugJwjq&index=1) (02:25:30)
 	- [Github 자료 링크, RxSwift In 4 Hours](https://github.com/iamchiwon/RxSwift_In_4_Hours)
 
 <br />
@@ -480,32 +482,32 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 
 <br />
 
-- 🆕 [2019년 1월 27일, Legacy 코드를 RxSwift를 적용하여 리팩토링 하기](https://www.youtube.com/watch?v=fCNr9bNPdAA) (03:37)
-- 🆕 [2019년 1월 29일, Observable.create() 를 사용하는 방법](https://www.youtube.com/watch?v=XAoQPlBzPCE&t=30s) (03:26)
-- 🆕 [2019년 2월 1일, Subject와 Relay, Observable과 Driver 는 무슨 차이가 있는 걸까요?](https://www.youtube.com/watch?v=YOsnXawC6wc) (04:31)
-- 🆕 [2019년 2월 2일, map과 flatMap 오퍼레이터의 차이를 알아봅니다.](https://www.youtube.com/watch?v=xF8jraXhEAU) (02:15)
-- 🆕 [2019년 2월 8일, scan 과 window 오퍼레이터의 동작을 알아봅시다](https://www.youtube.com/watch?v=bRbJ3Nyfg-I) (04:32)
-- 🆕 [2019년 2월 23일, RxSwift를 쓰면 왜 메모리 릭이 발생하나요? 어떻게 해결할 수 있을 까요?](https://www.youtube.com/watch?v=687KaKJ8B7U) (06:12)
-- 🆕 [2019년 2월 25일, RxSwift의 stream은 어떻게 디버깅 해야 하나요?](https://www.youtube.com/watch?v=MWORX8dMPw0) (04:07)
-- 🆕 [2019년 2월 28일, map과 flatMap이 뭐가 다른지 모르겠다구요?](https://www.youtube.com/watch?v=gtH4Cj7HQ48) (02:55)
-- 🆕 [2019년 3월 5일, Subject/Relay를 언제써야할지 모르겠다구요?](https://www.youtube.com/watch?v=N5EcLBzhZ64) (13:35)
-- 🆕 [2019년 3월 23일, ReactiveX 라이브러리의 정체가 한방에 풀린다.](https://www.youtube.com/watch?v=V6UGgjP2QgY) (03:57)
-- 🆕 [2019년 3월 25일, 비동기 프로그래밍에서 결과값을 전달하는 방법](https://www.youtube.com/watch?v=N2X2AbLMbzE) (05:10)
-- 🆕 [2019년 3월 28일, DisposeBag이 뭐길래, 왜 사용하는 건가요?](https://www.youtube.com/watch?v=pVWlpGthIH0) (05:39)
-- 🆕 [2019년 4월 1일, 마블 다이어그램 이해하기: 페이지 읽는 방법](https://www.youtube.com/watch?v=UJd_rVAZxCQ) (02:13)
-- 🆕 [2019년 4월 4일, 마블 다이어그램 이해하기: just와 from](https://www.youtube.com/watch?v=XPvP9XNeikc) (01:47)
-- 🆕 [2019년 4월 8일, 마블 다이어그램 이해하기: map, filter 그리고 first](https://www.youtube.com/watch?v=Nle000Z184o) (03:13)
-- 🆕 [2019년 4월 11일, 마블 다이어그램 이해하기: combineLatest 와 zip](https://www.youtube.com/watch?v=bSE8Q0zNHJY) (02:19)
-- 🆕 [2019년 4월 15일, Observable.combineLatest 가 이렇게 쓰는 거구나!](https://www.youtube.com/watch?v=RjHnm2f3YjA) (03:02)
-- 🆕 [2019년 4월 18일, asDriver 하면 뭐가 달라지는 건가요?](https://www.youtube.com/watch?v=cB0uk_prhto) (01:58)
-- 🆕 [2019년 4월 21일, Observable.just 하면 무슨일이 일어나는 건가요?](https://www.youtube.com/watch?v=nwMwBnoLg5E) (03:45)
-- 🆕 [2019년 4월 24일, 마블 다이어그램 이해하기: observeOn 과 subscribeOn](https://www.youtube.com/watch?v=GPvJGFa4UOk) (04:12)
-- 🆕 [2019년 4월 28일, RxCocoa 를 사용해서 컨트롤 이벤트를 Observable로 처리합니다.](https://www.youtube.com/watch?v=QwbSI9ZloOI) (05:09)
-- 🆕 [2019년 5월 1일, bind 를 하라구요? bind 가 뭡니까?](https://www.youtube.com/watch?v=FmcJYBw9i0U) (01:54)
-- 🆕 [2019년 5월 5일, RxSwift + RxCocoa 라면 UI이벤트의 조합을 이렇게 간단하게 처리할 수 있습니다.](https://www.youtube.com/watch?v=OZGR75XRVJQ) (04:52)
-- 🆕 [2019년 5월 8일, MVVM 아키텍쳐 적용하기 어렵지 않아요~](https://www.youtube.com/watch?v=PYnp6BhR6VU) (06:47)
-- 🆕 [2019년 5월 12일, ViewModel을 적용하고 나면 별거 없다는 것을 알게될 겁니다.](https://www.youtube.com/watch?v=lOts3BGuOtY) (03:31)
-- 🆕 [2019년 5월 15일, ViewModel 을 좀 더 고급지게 만들어 봅시다.
+- [2019년 1월 27일, Legacy 코드를 RxSwift를 적용하여 리팩토링 하기](https://www.youtube.com/watch?v=fCNr9bNPdAA) (03:37)
+- [2019년 1월 29일, Observable.create() 를 사용하는 방법](https://www.youtube.com/watch?v=XAoQPlBzPCE&t=30s) (03:26)
+- [2019년 2월 1일, Subject와 Relay, Observable과 Driver 는 무슨 차이가 있는 걸까요?](https://www.youtube.com/watch?v=YOsnXawC6wc) (04:31)
+- [2019년 2월 2일, map과 flatMap 오퍼레이터의 차이를 알아봅니다.](https://www.youtube.com/watch?v=xF8jraXhEAU) (02:15)
+- [2019년 2월 8일, scan 과 window 오퍼레이터의 동작을 알아봅시다](https://www.youtube.com/watch?v=bRbJ3Nyfg-I) (04:32)
+- [2019년 2월 23일, RxSwift를 쓰면 왜 메모리 릭이 발생하나요? 어떻게 해결할 수 있을 까요?](https://www.youtube.com/watch?v=687KaKJ8B7U) (06:12)
+- [2019년 2월 25일, RxSwift의 stream은 어떻게 디버깅 해야 하나요?](https://www.youtube.com/watch?v=MWORX8dMPw0) (04:07)
+- [2019년 2월 28일, map과 flatMap이 뭐가 다른지 모르겠다구요?](https://www.youtube.com/watch?v=gtH4Cj7HQ48) (02:55)
+- [2019년 3월 5일, Subject/Relay를 언제써야할지 모르겠다구요?](https://www.youtube.com/watch?v=N5EcLBzhZ64) (13:35)
+- [2019년 3월 23일, ReactiveX 라이브러리의 정체가 한방에 풀린다.](https://www.youtube.com/watch?v=V6UGgjP2QgY) (03:57)
+- [2019년 3월 25일, 비동기 프로그래밍에서 결과값을 전달하는 방법](https://www.youtube.com/watch?v=N2X2AbLMbzE) (05:10)
+- [2019년 3월 28일, DisposeBag이 뭐길래, 왜 사용하는 건가요?](https://www.youtube.com/watch?v=pVWlpGthIH0) (05:39)
+- [2019년 4월 1일, 마블 다이어그램 이해하기: 페이지 읽는 방법](https://www.youtube.com/watch?v=UJd_rVAZxCQ) (02:13)
+- [2019년 4월 4일, 마블 다이어그램 이해하기: just와 from](https://www.youtube.com/watch?v=XPvP9XNeikc) (01:47)
+- [2019년 4월 8일, 마블 다이어그램 이해하기: map, filter 그리고 first](https://www.youtube.com/watch?v=Nle000Z184o) (03:13)
+- [2019년 4월 11일, 마블 다이어그램 이해하기: combineLatest 와 zip](https://www.youtube.com/watch?v=bSE8Q0zNHJY) (02:19)
+- [2019년 4월 15일, Observable.combineLatest 가 이렇게 쓰는 거구나!](https://www.youtube.com/watch?v=RjHnm2f3YjA) (03:02)
+- [2019년 4월 18일, asDriver 하면 뭐가 달라지는 건가요?](https://www.youtube.com/watch?v=cB0uk_prhto) (01:58)
+- [2019년 4월 21일, Observable.just 하면 무슨일이 일어나는 건가요?](https://www.youtube.com/watch?v=nwMwBnoLg5E) (03:45)
+- [2019년 4월 24일, 마블 다이어그램 이해하기: observeOn 과 subscribeOn](https://www.youtube.com/watch?v=GPvJGFa4UOk) (04:12)
+- [2019년 4월 28일, RxCocoa 를 사용해서 컨트롤 이벤트를 Observable로 처리합니다.](https://www.youtube.com/watch?v=QwbSI9ZloOI) (05:09)
+- [2019년 5월 1일, bind 를 하라구요? bind 가 뭡니까?](https://www.youtube.com/watch?v=FmcJYBw9i0U) (01:54)
+- [2019년 5월 5일, RxSwift + RxCocoa 라면 UI이벤트의 조합을 이렇게 간단하게 처리할 수 있습니다.](https://www.youtube.com/watch?v=OZGR75XRVJQ) (04:52)
+- [2019년 5월 8일, MVVM 아키텍쳐 적용하기 어렵지 않아요~](https://www.youtube.com/watch?v=PYnp6BhR6VU) (06:47)
+- [2019년 5월 12일, ViewModel을 적용하고 나면 별거 없다는 것을 알게될 겁니다.](https://www.youtube.com/watch?v=lOts3BGuOtY) (03:31)
+- [2019년 5월 15일, ViewModel 을 좀 더 고급지게 만들어 봅시다.
 ](https://www.youtube.com/watch?v=XG5TILoZH-g) (05:52)
 
 </details>
@@ -516,47 +518,47 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 
 <br />
 
-- 🆕 [2019년 8월 26일, 시즌2는 어떤 내용이 변경되었나요?](https://www.youtube.com/watch?v=r8wMr8pbXg0&list=PL03rJBlpwTaBrhux_C8RmtWDI_kZSLvdQ&index=4) (00:37)
-- 🆕 [2019년 8월 29일, 비동기로 발생하는 데이터는 어떻게 전달해야 합니까?](https://www.youtube.com/watch?v=9zusmT9nRBU&list=PL03rJBlpwTaBrhux_C8RmtWDI_kZSLvdQ&index=3) (02:08)
-- 🆕 [2019년 9월 5일, 비동기적으로 나중에 생기는 데이터를 리턴값으로 전달하기](https://www.youtube.com/watch?v=WIzkr7_CSWo&list=PL03rJBlpwTaBrhux_C8RmtWDI_kZSLvdQ&index=2) (03:47)
-- 🆕 [2019년 9월 12일, 나중에 생기는 데이터 Observable로 전달하기](https://www.youtube.com/watch?v=ozQZih39nCA&list=PL03rJBlpwTaBrhux_C8RmtWDI_kZSLvdQ&index=1) (02:59)
-- 🆕 [2019년 9월 19일, Operator 란 무엇이냐~](https://www.youtube.com/watch?v=NVfrkDlb8HU) (06:35)
-- 🆕 [2019년 9월 26일, 스트림을 내 맘대로.. 잘라쓰고~ 붙여쓰고~](https://www.youtube.com/watch?v=YSYnETTi1pE) (09:41)
-- 🆕 [2019년 10월 3일, 뷰모델을 만들어서 사용해 봅시다.](https://www.youtube.com/watch?v=sZjwyvY-xUM) (12:40)
-- 🆕 [2019년 10월 10일, MVC, MVP, MVVM 차이점 알아보기](https://www.youtube.com/watch?v=bjVAVm3t5cQ) (06:31)
+- [2019년 8월 26일, 시즌2는 어떤 내용이 변경되었나요?](https://www.youtube.com/watch?v=r8wMr8pbXg0&list=PL03rJBlpwTaBrhux_C8RmtWDI_kZSLvdQ&index=4) (00:37)
+- [2019년 8월 29일, 비동기로 발생하는 데이터는 어떻게 전달해야 합니까?](https://www.youtube.com/watch?v=9zusmT9nRBU&list=PL03rJBlpwTaBrhux_C8RmtWDI_kZSLvdQ&index=3) (02:08)
+- [2019년 9월 5일, 비동기적으로 나중에 생기는 데이터를 리턴값으로 전달하기](https://www.youtube.com/watch?v=WIzkr7_CSWo&list=PL03rJBlpwTaBrhux_C8RmtWDI_kZSLvdQ&index=2) (03:47)
+- [2019년 9월 12일, 나중에 생기는 데이터 Observable로 전달하기](https://www.youtube.com/watch?v=ozQZih39nCA&list=PL03rJBlpwTaBrhux_C8RmtWDI_kZSLvdQ&index=1) (02:59)
+- [2019년 9월 19일, Operator 란 무엇이냐~](https://www.youtube.com/watch?v=NVfrkDlb8HU) (06:35)
+- [2019년 9월 26일, 스트림을 내 맘대로.. 잘라쓰고~ 붙여쓰고~](https://www.youtube.com/watch?v=YSYnETTi1pE) (09:41)
+- [2019년 10월 3일, 뷰모델을 만들어서 사용해 봅시다.](https://www.youtube.com/watch?v=sZjwyvY-xUM) (12:40)
+- [2019년 10월 10일, MVC, MVP, MVVM 차이점 알아보기](https://www.youtube.com/watch?v=bjVAVm3t5cQ) (06:31)
 
 </details>
 
 <br />
 
-> 그 외 RxSwift, Combine(🆕) 관련 곰튀김님 YouTube 링크입니다.
+> 그 외 RxSwift, Combine 관련 곰튀김님 YouTube 링크입니다.
 
-- 🆕 [2019년 6월 28일, RxSwift 와 Combine 로 각각 이미지를 다운로드하는 코드를 비교해보자.](https://www.youtube.com/watch?v=G_22bAj9m0w) (08:40)
+- [2019년 6월 28일, RxSwift 와 Combine 로 각각 이미지를 다운로드하는 코드를 비교해보자.](https://www.youtube.com/watch?v=G_22bAj9m0w) (08:40)
 
-- 🆕 [2019년 7월 2일, RxSwift 와 Combine 로 각각 텍스트필드의 editingChaged 이벤트를 처리하는 코드를 비교해보자.](https://www.youtube.com/watch?v=RLRcaXLoQWE&t=8s) (08:15)
+- [2019년 7월 2일, RxSwift 와 Combine 로 각각 텍스트필드의 editingChaged 이벤트를 처리하는 코드를 비교해보자.](https://www.youtube.com/watch?v=RLRcaXLoQWE&t=8s) (08:15)
 
-- 🆕 [2019년 7월 9일, RxSwift 와 Combine 로 각각 타이머 이벤트를 처리하는 코드를 비교해보자.](https://www.youtube.com/watch?v=mPkJVetfIzM&t=136s) (06:16)
+- [2019년 7월 9일, RxSwift 와 Combine 로 각각 타이머 이벤트를 처리하는 코드를 비교해보자.](https://www.youtube.com/watch?v=mPkJVetfIzM&t=136s) (06:16)
 
-- 🆕 [2019년 7월 16일, RxSwift 와 Combine 로 여러 스트림을 함께 처리하는 코드를 비교해보자.](https://www.youtube.com/watch?v=2BTA2HZSVG8&t=7s) (06:48)
+- [2019년 7월 16일, RxSwift 와 Combine 로 여러 스트림을 함께 처리하는 코드를 비교해보자.](https://www.youtube.com/watch?v=2BTA2HZSVG8&t=7s) (06:48)
 
-- 🆕 [2019년 7월 23일, RxSwift 와 Combine 로 각각 메모리 관리하는 코드를 비교해보자.](https://www.youtube.com/watch?v=CA27QgPfCx8) (08:07)
+- [2019년 7월 23일, RxSwift 와 Combine 로 각각 메모리 관리하는 코드를 비교해보자.](https://www.youtube.com/watch?v=CA27QgPfCx8) (08:07)
 
-- 🆕 [2019년 8월 6일, 기존의 async 함수를 RxSwift 와 Combine 를 사용하는 함수로 변환해 봅시다.](https://www.youtube.com/watch?v=6bjjU74B5PY) (06:39)
+- [2019년 8월 6일, 기존의 async 함수를 RxSwift 와 Combine 를 사용하는 함수로 변환해 봅시다.](https://www.youtube.com/watch?v=6bjjU74B5PY) (06:39)
 
-- 🆕 [2019년 8월 13일, 여러개의 데이터가 발생되는 기존의 비동기 함수를 스트림으로 변환해 봅시다.](https://www.youtube.com/watch?v=Jbas61jX--A) (06:02)
+- [2019년 8월 13일, 여러개의 데이터가 발생되는 기존의 비동기 함수를 스트림으로 변환해 봅시다.](https://www.youtube.com/watch?v=Jbas61jX--A) (06:02)
 
-- 🆕 [2019년 8월 20일, 하나의 스트림을 여러번 구독할 때는 share가 필요합니다.](https://www.youtube.com/watch?v=9fwbtceXBKs) (07:26)
+- [2019년 8월 20일, 하나의 스트림을 여러번 구독할 때는 share가 필요합니다.](https://www.youtube.com/watch?v=9fwbtceXBKs) (07:26)
 
 <br />
 
 ## RxSwift 세션
-- 🆕 [2019년 11월 12일, RxSwift to Combine](https://www.youtube.com/watch?v=Y273NDkYBg4&feature=youtu.be) (38:05)
+- [2019년 11월 12일, RxSwift to Combine](https://www.youtube.com/watch?v=Y273NDkYBg4&feature=youtu.be) (38:05)
 
-- 🆕 [2019년 11월 12일, RxTesting 같이 시작하기](https://www.youtube.com/watch?v=tVWKUMxyqVo&feature=youtu.be) (17:04)
+- [2019년 11월 12일, RxTesting 같이 시작하기](https://www.youtube.com/watch?v=tVWKUMxyqVo&feature=youtu.be) (17:04)
 
-- 🆕 [2019년 8월 3일, RxSwift Internal](https://youtu.be/h-mGbK1SMiw) (28:58) : DisposeBag에 대하여 알아봅시다.
+- [2019년 8월 3일, RxSwift Internal](https://youtu.be/h-mGbK1SMiw) (28:58) : DisposeBag에 대하여 알아봅시다.
 
-- 🆕 [2019년 8월 3일, Combine vs RxSwift](https://youtu.be/Amt4KS-J7_k) (18:27)
+- [2019년 8월 3일, Combine vs RxSwift](https://youtu.be/Amt4KS-J7_k) (18:27)
 
 - [2018년 11월 6일, RxSwift Internal](https://www.youtube.com/watch?v=DsE-sagI04A&index=9&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) : 옵저버와 이벤트 중심~.
 
