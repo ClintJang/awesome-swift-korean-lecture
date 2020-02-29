@@ -65,6 +65,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ```
 
 - [야곰님의 iOS개발(블로그)](http://blog.yagom.net/) : swift 공부할 때에..  출/퇴근 시, 야곰님 유튜브 강의를 많이 반복해서 들었었습니다. 인프런에 새로운 강좌(앱 개발에서 끝까지)도 오픈해서 iOS 입문하시는 분들에게 많은 도움이 될 것 같습니다. 🐻
+	- **⭐** 🆕[야곰닷넷](https://yagom.net/) : 2020년 iOS 개발자들을 위한 놀이터, 배움터, 모임터 사이트를 오픈하셨네요. 한번 들려보셔도 좋을 것 같아요.
 	- **⭐⭐** [# 야곰님의 유튜브 프로그래밍 채널](https://m.youtube.com/channel/UCkwWWEv3C-3ToeO57r5LCHQ) : 꼭 들어보세요. 설명이 필요없죠? 감사합니다. 야곰님 :) 👍
 		- [강좌소개](https://www.youtube.com/watch?v=2n-fSlW-jts), &nbsp; &nbsp;  [Xcode - Interface builder 팁과 유의사항](https://www.youtube.com/watch?v=KppJZS43O4Y) 
 		- [고차함수](https://www.youtube.com/watch?v=HmabXrK2tRo), &nbsp; &nbsp; [오류처리](https://www.youtube.com/watch?v=l0fGtNnNsJg), &nbsp; &nbsp; [익스텐션](https://www.youtube.com/watch?v=VRkCPbN_XPs)
@@ -680,9 +681,14 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 		- [Slack swiftkorea 링크](http://slack.swiftkorea.org/) : 채널에 찾아가는 것이 조금 어렵습니다.^^;;; 갓 고수님들의 지나간 대화내용을 볼 수 있어요. 좋은 정보를 얻을 수있고 여쭤보면 답변도 잘 해주실 것 같은 느낌입니다. 
 		- [카카오 RxSwift 오픈채팅방](https://open.kakao.com/o/gl2YZjq) : 만약 RxSwift에 대해 질문하고 싶으시다면, 여기서 하면됩니다. 인성좋으신 Rx 고수님들이 많으십니다. iOS 질문은 이곳이 아닙니다. 당연히 메너는 필수입니다.
 	- swift 관련 그룹
+		- 🆕[야곰닷넷](https://yagom.net/) : 2020년 2월 야곰닷넷이 오픈되었습니다. 커뮤니티, 교육, iOS 개발자들의 놀이터를 만들어주셨네요.
 		- [스위프트 한국 개발자 그룹(페이스북)](https://www.facebook.com/groups/swiftkor/) : 좋은 정보를 얻을 수 있어서 제가 아침마다 확인하는 개발자 커뮤니티 그룹방입니다. 훌륭한 분들이 함께하는 그룹방입니다. 
-		- [맥부기(네이버 카페)](https://cafe.naver.com/mcbugi) : 2008.8.22.에 만들어진 네이버 까페입니다. 한때 5만명이 넘던 회원이 있던 시절이 살짝 기억이 나는 것 같습니다. 오늘 들어가보니 1만 명이 조금 넘네요. 그렇치만 여전히 최신의 글도 있고 댓글도 잘 달아주시는 것 같습니다. 처음이시라면 가입해서 정보를 얻으셔도 좋을 것 같고, 과거에 가입하셨다면.. 옛날 글을 한번 찾아보셔요, 과거의 자신을 돌아보는 시간을 가질 수 있어서 좋을 것 같습니다. 
-		
+		- [맥부기(네이버 카페)](https://cafe.naver.com/mcbugi) : 2008.8.22.에 만들어진 네이버 까페입니다. 한때 5만명이 넘던 회원이 있던 시절이 살짝 기억이 나는 것 같습니다. 오늘 들어가보니 1만 명이 조금 넘네요. 그렇치만 여전히 최신의 글도 있고 댓글도 잘 달아주시는 것 같습니다. 처음이시라면 가입해서 정보를 얻으셔도 좋을 것 같고, 과거에 가입하셨다면.. 옛날 글을 한번 찾아보셔요, 과거의 자신을 돌아보는 시간을 가질 수 있어서 좋을 것 같습니다.
+	
+- QnA
+	- [야곰닷넷 QnA](https://yagom.net/forums/forum/qna/) : 만약 어디에 물어볼 곳이 없다면.. 야곰닷넷의 QnA를 이용해 보시는 것은 어떠세요?
+	- [iOS(Swift, Objc) 질문과 답변 모음](https://github.com/ClintJang/ios-swift-objc-questions-and-answers) : 제가 정리해본 기본적이면서 약간의 질문과 답변을 정리해봤습니다. 
+	
 - 기타 세미나 동영상 링크
  	- [if (kakao) dev 2019](https://if.kakao.com/) 
 		- 8월 29일(목)-30일(금) COEX 그랜드볼룸, 카카오가 선보이는 두번째 개발자 컨퍼런스
