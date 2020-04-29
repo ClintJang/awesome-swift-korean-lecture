@@ -515,6 +515,8 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 
 <br />
 
+[2019년 10월 29일, RxSwift 4시간에 끝내기 시즌2 모임 종합편](https://www.youtube.com/watch?v=iHKBNYMWd5I) (03:41:52)
+
 <details><summary><code>클릭하면 열립니다. (Click!!) <br /><b>RxSwift 4시간에 끝내기 시즌2</b> <br /> 구체적인 내용들에 대한 링크들이 있습니다.</code></summary>
 
 <br />
@@ -527,6 +529,7 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 - [2019년 9월 26일, 스트림을 내 맘대로.. 잘라쓰고~ 붙여쓰고~](https://www.youtube.com/watch?v=YSYnETTi1pE) (09:41)
 - [2019년 10월 3일, 뷰모델을 만들어서 사용해 봅시다.](https://www.youtube.com/watch?v=sZjwyvY-xUM) (12:40)
 - [2019년 10월 10일, MVC, MVP, MVVM 차이점 알아보기](https://www.youtube.com/watch?v=bjVAVm3t5cQ) (06:31)
+- [2019년 10월 17일, Clean Architecture 에 대해서 알아봅시다.](https://www.youtube.com/watch?v=jVyA5DV6r8w) (07:28)
 
 </details>
 
@@ -666,8 +669,8 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 - [누구나 쉽게 이해할 수 있는 Git입문](https://backlog.com/git-tutorial/kr/) : 형상관리 중에 git은 지금 github의 베이스가 되는 관리시스템입니다. 
 	> github, gitbucket 사이트에서 pull request, wiki, followers, following.. 등 의 기능을 보셨나요? 기본 git의 시스템 기능에 별도의 기능을 추가로 녹여넣은 서비스 사이트입니다. 사이트를 사용(이용)하기에 앞서서 git의 기본 적인 사용법은 알아야겠지요?
 	
-	- 브런치 관리 (상황에 따라 당연히 다르지만, 참고가 되실것입니다.)
-		- [nvie.com의 A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) : 다들 브런치 고민할때 한번은 보셨을 것 입니다. 최고!👍
+	- 브랜치 관리 (상황에 따라 당연히 다르지만, 참고가 되실것입니다.)
+		- [nvie.com의 A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) : 다들 브랜치 고민할때 한번은 보셨을 것 입니다. 최고!👍
 		- [위 칼럼의 한국어 버전](https://backlog.com/git-tutorial/kr/stepup/stepup1_5.html) : 역시 한국어!
 	- 커밋 메시지 작성법 (Commit Convention, 정답은 없죠!)
 		- [Git commit message convention](https://ckeditor.com/docs/ckeditor5/latest/framework/guides/contributing/git-commit-message-convention.html) : 좋다고 생각되는 링크입니다.
