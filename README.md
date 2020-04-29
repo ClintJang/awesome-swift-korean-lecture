@@ -33,6 +33,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 	- [iOS App 배포하기](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#ios-app-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 	- [iOS 활용 및 팁](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#ios-%ED%99%9C%EC%9A%A9-%EB%B0%8F-%ED%8C%81)
 	- [Swift 기본 활용](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#swift-%EA%B8%B0%EB%B3%B8-%ED%99%9C%EC%9A%A9)
+	- [SwiftUI](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#swiftui)
 	- [Swift 버전 변화](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#swift-%EB%B2%84%EC%A0%84-%EB%B3%80%ED%99%94)
 	- [iOS 내부 구조 및 기본 Framework 활용](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#ios-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EA%B8%B0%EB%B3%B8-framework-%ED%99%9C%EC%9A%A9)
 	- [Playground](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#playground)
@@ -221,8 +222,6 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## Swift 기본 활용
 - [2019년 11월 16일, Custom Operators in Swift](https://youtu.be/ZLCYtCxd98s) (21:43)
 
-- [2019년 11월 12일, Swift in SwiftUI](https://www.youtube.com/watch?v=Gr-rwKqIaeE&feature=youtu.be) (18:28)
-
 - [2019년 11월 12일, Xcode Previews - IB 없이 개발하기](https://www.youtube.com/watch?v=eGerQUlXeyg&feature=youtu.be) (40:55)
 
 - [2019년 11월 12일, 코드로 iOS UI 편하게 작업하기 위한 라이브러리 작업](https://www.youtube.com/watch?v=EzjyuEf61Vo&feature=youtu.be) (17:01)
@@ -230,10 +229,6 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2019년 11월 12일, 미려한 UI/UX를 위한 여정](https://www.youtube.com/watch?v=u6bIQWy0KwU&feature=youtu.be) (44:16)
 
 - **⭐** [2019년 11월 12일, Behind Scene of Delightful Experience](https://www.youtube.com/watch?v=okWX5Ub-lUc&feature=youtu.be) (22:26) : 에니메이션에서 Frame, Timing, Easing 에 대한 원칙 같은 것을 아시나요?
-
-- [2019년 8월 3일, 빨간맛 SwiftUI](https://youtu.be/y438H9bCyJ0) (38:04)
-
-- [2019년 8월 3일, StringInterpolation과 SwiftUI](https://youtu.be/jS6vcFisuj4) (17:44)
 
 - **⭐** [2019년 3월 30일, Immutable Data](https://youtu.be/25dvsEiwn4s) (20:01)
 
@@ -261,6 +256,12 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 - [2017년 2월 22일, Objective-C에서 Swift로 - iOS Tech Talk](https://academy.realm.io/kr/posts/from-objective-c-to-swift-ios-techtalk/) (22:24)
 
+## SwiftUI
+- [2019년 11월 12일, Swift in SwiftUI](https://www.youtube.com/watch?v=Gr-rwKqIaeE&feature=youtu.be) (18:28)
+
+- [2019년 8월 3일, StringInterpolation과 SwiftUI](https://youtu.be/jS6vcFisuj4) (17:44)
+
+- [2019년 8월 3일, 빨간맛 SwiftUI](https://youtu.be/y438H9bCyJ0) (38:04)
 
 ## Swift / Xcode 버전 변화
 - [2019년 8월 3일, What's new in Xcode / iOS13](https://youtu.be/qPB_2QUmS3Y) (26:23)
