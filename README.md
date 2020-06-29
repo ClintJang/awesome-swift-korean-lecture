@@ -635,6 +635,8 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 ```
 동영상은 아니지만, 동영상 처럼 편하게 입문 시점에서 읽어두면 좋은 링크라고 생각되는 것을 모아보겠습니다.
 ```
+- **⭐** [레츠스위프트 뉴스레터](https://github.com/letswiftconf/newsletter) : 레츠스위프트 커뮤니티에 참여하는 분들이 자발적으로 iOS / Swift 관련 소식을 모아서 메일로 전송해주고 계십니다.
+	- [레츠스위프트 뉴스레터 구독하기](https://page.stibee.com/subscriptions/58654) : 누구나 함께하는 뉴스레터 가입하기 링크 입니다. 만약 필요하신 분!은 메일로 편하게 받아보세요~ 😉
 
 - **⭐** [The Swift Language Guide (한국어)](https://jusung.gitbook.io/the-swift-language-guide/) : 정리를 정말 잘해주신 것 같습니다. 👍
 
