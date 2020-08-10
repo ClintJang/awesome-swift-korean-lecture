@@ -121,6 +121,9 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## Let us:Go! ([iOS Developer KR](https://github.com/iOSDevKor))
 - 2020
   - 봄 세션 : COVID-19로 인한 취소
+  - 여름 세션 : [let us: Go! LIVE STREAMING](https://let-us-go-2020-summer.vercel.app/)
+      - 2020년 8월 15일 13:00~18:00
+      - 라이브 영상 링크는 당일 게시 될 예정입니다.
   
 - 2019
   - 봄 세션 : https://iosdevkor.github.io/let_us_go_2019_spring_review/
