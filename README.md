@@ -265,7 +265,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## SwiftUI
 - [2020년 11월 20일, SwiftUI를 망설이고 있다면?](https://if.kakao.com/session/98) (12:46)
 
-- [2020년 11월 20일, iOS 14 WidgetKit 카카오톡 적용기](https://if.kakao.com/session/111) : WidgetKit은 SwiftUI를 반드시 사용해야됩니다. 🤗 (09:23)
+- [2020년 11월 20일, iOS 14 WidgetKit 카카오톡 적용기](https://if.kakao.com/session/111) (09:23) : WidgetKit은 SwiftUI를 반드시 사용해야됩니다. 🤗
 
 - [2019년 11월 12일, Swift in SwiftUI](https://www.youtube.com/watch?v=Gr-rwKqIaeE&feature=youtu.be) (18:28)
 
@@ -294,7 +294,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 - [2019년 1월 8일, HTTP Live Streaming (HLS)](https://tv.naver.com/v/4980383) (26:06)
 
-- [2018년 10월 20일, SIMD&MPS in Swift](https://www.youtube.com/watch?v=S5tJi4KCItI&index=10&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) (34:34): 조금 어렵습니다. 😓
+- [2018년 10월 20일, SIMD&MPS in Swift](https://www.youtube.com/watch?v=S5tJi4KCItI&index=10&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) (34:34) : 조금 어렵습니다. 😓
 
 - [2018년 10월 20일, ARKit](https://youtu.be/pmMJXfY-h-g) (21:30)
 : &nbsp;[예제코드 링크](https://github.com/tokijh/ARVideoPlayer) &nbsp;를 빌드해서 폰에 넣어보세요.
@@ -579,17 +579,17 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 
 - [2019년 8월 3일, Combine vs RxSwift](https://youtu.be/Amt4KS-J7_k) (18:27)
 
-- [2018년 11월 6일, RxSwift Internal](https://www.youtube.com/watch?v=DsE-sagI04A&index=9&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) : 옵저버와 이벤트 중심~.
+- [2018년 11월 6일, RxSwift Internal](https://www.youtube.com/watch?v=DsE-sagI04A&index=9&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) (29:39) : 옵저버와 이벤트 중심~.
 
-- [2018년 11월 6일, Reactor Kit으로 RxSwift 시작하기](https://www.youtube.com/watch?v=G1b1sBy8XBA&index=7&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
+- [2018년 11월 6일, Reactor Kit으로 RxSwift 시작하기](https://www.youtube.com/watch?v=G1b1sBy8XBA&index=7&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) (23:13)
 
-- [2018년 11월 6일, RxRIBs, Multiplatform architecture with Rx](https://www.youtube.com/watch?v=BvPW-cd8mpw&index=6&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS)
+- [2018년 11월 6일, RxRIBs, Multiplatform architecture with Rx](https://www.youtube.com/watch?v=BvPW-cd8mpw&index=6&list=PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS) (29:54)
 
-- **⭐⭐** [2017년 11월 4일, Functional Reactive Programming Paradigm](https://www.youtube.com/watch?v=cXi_CmZuBgg&feature=youtu.be) : 왜? rxswift를 해야되는 지, 기본이 되는 용어에 대해 좋은 설명을 해주십니다. 꼭 보셔요~ 
+- **⭐⭐** [2017년 11월 4일, Functional Reactive Programming Paradigm](https://www.youtube.com/watch?v=cXi_CmZuBgg&feature=youtu.be) (19:10) : 왜? rxswift를 해야되는 지, 기본이 되는 용어에 대해 좋은 설명을 해주십니다. 꼭 보셔요~ 
 
-- [2017년 12월 20일, ReactorKit으로 단방향 반응형 앱 만들기](https://www.youtube.com/watch?v=ASwBnMJNUK4&feature=youtu.be)
+- [2017년 12월 20일, ReactorKit으로 단방향 반응형 앱 만들기](https://www.youtube.com/watch?v=ASwBnMJNUK4&feature=youtu.be) (31:38)
 
-- [2017년 12월 20일, RxSwift 활용하기](https://www.youtube.com/watch?v=WN6s3xWZ3tw)
+- [2017년 12월 20일, RxSwift 활용하기](https://www.youtube.com/watch?v=WN6s3xWZ3tw) (32:26)
 
 - [2017년 7월 4일, RxSwift로 반응형 프로그래밍하기](https://academy.realm.io/kr/posts/reactive-programming-with-rxswift/)
 
@@ -597,7 +597,7 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 
 - [2017년 7월 4일, RxSwift로 반응형 프로그래밍하기](https://academy.realm.io/kr/posts/reactive-programming-with-rxswift/)
 
-- [2016년 10월 19일, RxSwift를 이용하여 콜백 지옥 탈출하기](https://www.youtube.com/watch?v=jCT-eUaD-d4&t=713s)
+- [2016년 10월 19일, RxSwift를 이용하여 콜백 지옥 탈출하기](https://www.youtube.com/watch?v=jCT-eUaD-d4&t=713s) (42:39)
 
 - [2016년 7월 14일, RxSwift 시작하기](https://academy.realm.io/kr/posts/letswift-rxswift/)
 
