@@ -263,6 +263,10 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 2월 22일, Objective-C에서 Swift로 - iOS Tech Talk](https://academy.realm.io/kr/posts/from-objective-c-to-swift-ios-techtalk/) (22:24)
 
 ## SwiftUI
+- [2020년 11월 20일, SwiftUI를 망설이고 있다면?](https://if.kakao.com/session/98) (12:46)
+
+- [2020년 11월 20일, iOS 14 WidgetKit 카카오톡 적용기](https://if.kakao.com/session/111) : WidgetKit은 SwiftUI를 반드시 사용해야됩니다. 🤗 (09:23)
+
 - [2019년 11월 12일, Swift in SwiftUI](https://www.youtube.com/watch?v=Gr-rwKqIaeE&feature=youtu.be) (18:28)
 
 - [2019년 8월 3일, StringInterpolation과 SwiftUI](https://youtu.be/jS6vcFisuj4) (17:44)
@@ -276,6 +280,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## iOS 내부 구조 및 기본 Framework 활용
+- [2020년, 11월 20일, iOS Audio Programming Mechanism](https://if.kakao.com/session/110) (17:12)
+
 - [2019년 11월 16일, Static Framework와 Dynamic Framework 그리고 Encapsulation](https://www.youtube.com/watch?v=SztMN6F2BDQ&feature=youtu.be) (35:20)
 
 - [2019년 8월 3일, App Lifecycle](https://youtu.be/Ki19PRHJHXo) (35:20)
@@ -387,6 +393,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## 개발경험
+- [2020년 11월 20일, 유연한 해외 현지화를 위한 iOS 앱 구성](https://www.youtube.com/watch?v=eU_8cC6GEsQ&feature=youtu.be) (20:57)
+
 - [2019년 11월 16일, 내 소스를 오픈하면 생기는 일](https://www.youtube.com/watch?v=eU_8cC6GEsQ&feature=youtu.be) (29:24)
 
 - [2019년 11월 16일, Swift 개발이 좋아요](https://youtu.be/aqmf7YPyUsQ) (27:58) : Swift 개발을 왜 좋아하세요?
