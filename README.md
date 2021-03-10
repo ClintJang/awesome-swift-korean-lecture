@@ -422,6 +422,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2018년 3월 19일, Swift로 코인 트레이딩 하기](https://www.youtube.com/watch?v=QRIs7khkNXc&list=PLJ0BuvoGAkXtLlG8xQEmG18CuamDy5LG8&index=6&t=0s) (17:53)
 
 - [2017년 2월 28일, 기획, 디자인 변경에 강한 카드뷰 만들기 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-make-cardview-ios-tech-talk/) (10:06)
+- [2021년 2월 24일, iOS 개발자 코딩테스트 이야기](https://yagom.net/courses/tech-cast-1/) (1:33:57) : iOS 개발자의 코딩테스트를 어떻게 준비하면 좋을까요? (유료강의, ₩5500) 
 
 ## 세션 투어
 > WWDC & Apple, 애플의 WWDC 외의 국내/외 세미나 관련 이야기 모임
