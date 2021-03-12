@@ -366,7 +366,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - **⭐** [2019년 3월 30일, 스토리보드 없이 UI 만들기](https://youtu.be/-QWm9r4BzMI) (15:48) : 코드로 개발하면 어떤 장점이 있을까요??
 
 - [2017년 12월 20일, Metal 기반 특별한 UI/UX 제공하기](https://www.youtube.com/watch?v=mB9d5RDNryw&feature=youtu.be) (25:19)
-
+- [2020년 4월 3일, iOS HIG 독서모임](https://youtu.be/A79TQAlYxEw) : 애플의 Human Interface Guildeline은 개발자, 기획자, 디자이너 할 것 없이 앱 개발 팀의 모두가 읽어야하는 문서입니다. 혼자서 쭉 읽어보는 것도 좋지만, 부담이 된다면 독서모임처럼 함께 읽어나가는 것도 좋은 방법인 것 같아요.
 
 ## WWDC & Apple
 >  애플의 WWDC와 관련된 이야기 모음
@@ -422,6 +422,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2018년 3월 19일, Swift로 코인 트레이딩 하기](https://www.youtube.com/watch?v=QRIs7khkNXc&list=PLJ0BuvoGAkXtLlG8xQEmG18CuamDy5LG8&index=6&t=0s) (17:53)
 
 - [2017년 2월 28일, 기획, 디자인 변경에 강한 카드뷰 만들기 - iOS Tech Talk](https://academy.realm.io/kr/posts/how-to-make-cardview-ios-tech-talk/) (10:06)
+- [2021년 2월 24일, iOS 개발자 코딩테스트 이야기](https://yagom.net/courses/tech-cast-1/) (1:33:57) : iOS 개발자의 코딩테스트를 어떻게 준비하면 좋을까요? (유료강의, ₩5500) 
 
 ## 세션 투어
 > WWDC & Apple, 애플의 WWDC 외의 국내/외 세미나 관련 이야기 모임
