@@ -159,7 +159,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 ## NAVER Tech Talk
 - [iOS 밋업 (2021년 3월)](https://d2.naver.com/news/2206864)
-- [iOS 밋업 (2020년 4월, 7월)](https://d2.naver.com/news/2206864)
+- [iOS / Android 밋업 (2020년 4월, 7월)](https://d2.naver.com/news/2579889)
 - [iOS 밋업 (2019년 6월)](https://d2.naver.com/news/0427227)
 - [iOS 밋업 (2019년 2월, 4월)](https://d2.naver.com/news/7569447)
 - [iOS 밋업 (2018년 8월~10월)](https://d2.naver.com/news/7036256)
