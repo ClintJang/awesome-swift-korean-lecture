@@ -158,6 +158,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - 2017년 4월 28일 : https://swiftkorea.github.io/meetup/1#
 
 ## NAVER Tech Talk
+- [iOS 밋업 (2021년 3월)(https://d2.naver.com/news/2206864)
 - [iOS 밋업 (2019년 6월)](https://d2.naver.com/news/0427227)
 - [iOS 밋업 (2019년 2월, 4월)](https://d2.naver.com/news/7569447)
 - [iOS 밋업 (2018년 8월~10월)](https://d2.naver.com/news/7036256)
@@ -572,6 +573,10 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 <br />
 
 ## RxSwift 세션
+- [2021년 3월, RxSwift, Combine 둘 중에 어느 것을 공부해야 할까요](https://tv.naver.com/v/19397553) (12:24)
+
+- [2021년 3월, SwiftUI + UIKit + RxSwift + Combine + DDD = ?](https://tv.naver.com/v/19397822) (59:26)
+
 - [2019년 11월 12일, RxSwift to Combine](https://www.youtube.com/watch?v=Y273NDkYBg4&feature=youtu.be) (38:05)
 
 - [2019년 11월 12일, RxTesting 같이 시작하기](https://www.youtube.com/watch?v=tVWKUMxyqVo&feature=youtu.be) (17:04)
