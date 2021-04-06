@@ -159,6 +159,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 ## NAVER Tech Talk
 - [iOS 밋업 (2021년 3월)](https://d2.naver.com/news/2206864)
+- [iOS 밋업 (2020년 4월, 7월)](https://d2.naver.com/news/2206864)
 - [iOS 밋업 (2019년 6월)](https://d2.naver.com/news/0427227)
 - [iOS 밋업 (2019년 2월, 4월)](https://d2.naver.com/news/7569447)
 - [iOS 밋업 (2018년 8월~10월)](https://d2.naver.com/news/7036256)
@@ -267,6 +268,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2020년 11월 20일, SwiftUI를 망설이고 있다면?](https://if.kakao.com/session/98) (12:46)
 
 - [2020년 11월 20일, iOS 14 WidgetKit 카카오톡 적용기](https://if.kakao.com/session/111) (09:23) : WidgetKit은 SwiftUI를 반드시 사용해야됩니다. 🤗
+
+- [2020년 8월(실제 7월) 18일, 당장 적용하는 SwiftUI의 아이디어](https://tv.naver.com/v/15314288) (22:53)
 
 - [2019년 11월 12일, Swift in SwiftUI](https://www.youtube.com/watch?v=Gr-rwKqIaeE&feature=youtu.be) (18:28)
 
@@ -573,9 +576,9 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 <br />
 
 ## RxSwift 세션
-- [2021년 3월, RxSwift, Combine 둘 중에 어느 것을 공부해야 할까요](https://tv.naver.com/v/19397553) (12:24)
+- [2021년 4월(실제 3월) 5일, RxSwift, Combine 둘 중에 어느 것을 공부해야 할까요](https://tv.naver.com/v/19397553) (12:24)
 
-- [2021년 3월, SwiftUI + UIKit + RxSwift + Combine + DDD = ?](https://tv.naver.com/v/19397822) (59:26)
+- [2021년 4월(실제 3월) 5일, SwiftUI + UIKit + RxSwift + Combine + DDD = ?](https://tv.naver.com/v/19397822) (59:26)
 
 - [2019년 11월 12일, RxSwift to Combine](https://www.youtube.com/watch?v=Y273NDkYBg4&feature=youtu.be) (38:05)
 
