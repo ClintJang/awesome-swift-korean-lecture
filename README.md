@@ -146,6 +146,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## Let's Swift
+- 2020 : [http://letswift.kr/2020/](http://letswift.kr/2020/)
 - 2019 : [http://letswift.kr/2019/](http://letswift.kr/2019/)
 - 2018 : [http://letswift.kr/2018/](http://letswift.kr/2018/)
 - 2017 : [http://letswift.kr/2017/](http://letswift.kr/2017/)
@@ -396,7 +397,17 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2018년 7월 21일, Texture Reactive wrapper 만들고 응용하기](https://www.youtube.com/watch?v=cnW2B019_2w&feature=player_embedded) (23:34)
 
 
-## 개발경험
+## 기술토크 & 개발경험
+- [2020년 11월 30일, 레츠스위프트 2020 테크토크 Day1](https://www.youtube.com/watch?v=MMyfZ3pX2TA) (2:14:33) : 스위프트, 오픈소스, CoreML
+
+- [2020년 12월 1일, 레츠스위프트 2020 테크토크 Day2](https://www.youtube.com/watch?v=1KWRic-e5gg) (2:16:54) : SwiftUI vs. UIKit 끝장토론
+
+- [2020년 12월 2일, 레츠스위프트 2020 테크토크 Day3](https://www.youtube.com/watch?v=yXcRDHrHnik) (2:08:33) : Xcode, 패키지 관리, 빌드환경
+
+- [2020년 12월 3일, 레츠스위프트 2020 테크토크 Day4](https://www.youtube.com/watch?v=Pm8mgJXRHCY) (2:04:44) : 아키텍처, 테스트, 배포
+
+- [2020년 12월 4일, 레츠스위프트 2020 테크토크 Day5](https://www.youtube.com/watch?v=rq2SqGi7LRs) (2:13:09) :   개발문화, 코드리뷰, 기술블로그
+
 - [2020년 11월 20일, 유연한 해외 현지화를 위한 iOS 앱 구성](https://www.youtube.com/watch?v=eU_8cC6GEsQ&feature=youtu.be) (20:57)
 
 - [2019년 11월 16일, 내 소스를 오픈하면 생기는 일](https://www.youtube.com/watch?v=eU_8cC6GEsQ&feature=youtu.be) (29:24)
