@@ -66,7 +66,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ```
 
 - [야곰님의 iOS개발(블로그)](http://blog.yagom.net/) : swift 공부할 때에..  출/퇴근 시, 야곰님 유튜브 강의를 많이 반복해서 들었었습니다. 인프런에 새로운 강좌(앱 개발에서 끝까지)도 오픈해서 iOS 입문하시는 분들에게 많은 도움이 될 것 같습니다. 🐻
-	- **⭐** 🆕[야곰닷넷](https://yagom.net/) : 2020년 iOS 개발자들을 위한 놀이터, 배움터, 모임터 사이트를 오픈하셨네요. 한번 들려보셔도 좋을 것 같아요.
+	- **⭐⭐** 🆕 [야곰 아카데미 캠프](https://www.yagom-academy.kr/) : 야곰 아카데미는 코드 스타터 캠프와 커리어 스타터 캠프, 두 캠프를 운영하시네요. 홈페이지에 신청방법, 진행과정과 후기가 있습니다. <b>코드를 제대로 작성하는 법을 배울 수 있는 코드 캠퍼</b>, <b>실무에 가까운 경험을 얻을 수 있는 커리어 캠퍼</b> 모두 좋아보입니다. 시작하는 개발자 & 실무 테크닉을 익히고 싶은 개발자 분들에게 많은 도움이 될 것 같습니다.!!
+	- **⭐** [야곰닷넷](https://yagom.net/) : 2020년 iOS 개발자들을 위한 놀이터, 배움터, 모임터 사이트를 오픈하셨네요. 한번 들려보셔도 좋을 것 같아요.
 	- **⭐⭐** [# 야곰님의 유튜브 프로그래밍 채널](https://m.youtube.com/channel/UCkwWWEv3C-3ToeO57r5LCHQ) : 꼭 들어보세요. 설명이 필요없죠? 감사합니다. 야곰님 :) 👍
 		- [강좌소개](https://www.youtube.com/watch?v=2n-fSlW-jts), &nbsp; &nbsp;  [Xcode - Interface builder 팁과 유의사항](https://www.youtube.com/watch?v=KppJZS43O4Y) 
 		- [고차함수](https://www.youtube.com/watch?v=HmabXrK2tRo), &nbsp; &nbsp; [오류처리](https://www.youtube.com/watch?v=l0fGtNnNsJg), &nbsp; &nbsp; [익스텐션](https://www.youtube.com/watch?v=VRkCPbN_XPs)
