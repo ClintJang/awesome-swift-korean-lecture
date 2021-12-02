@@ -156,8 +156,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## meetup
 > 2018년는 Let's Swift와 함께 했습니다.
 
-- 2017년 12월 13일 : https://swiftkorea.github.io/meetup/2#
-- 2017년 4월 28일 : https://swiftkorea.github.io/meetup/1#
+- 2017년 12월 13일 : [https://swiftkorea.github.io/meetup/2#](https://swiftkorea.github.io/meetup/2#)
+- 2017년 4월 28일 : [https://swiftkorea.github.io/meetup/1#](https://swiftkorea.github.io/meetup/1#)
 
 ## NAVER Tech Talk
 - [iOS 밋업 (2021년 3월)](https://d2.naver.com/news/2206864)
@@ -166,6 +166,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [iOS 밋업 (2019년 2월, 4월)](https://d2.naver.com/news/7569447)
 - [iOS 밋업 (2018년 8월~10월)](https://d2.naver.com/news/7036256)
 
+## 토스 개발자 컨퍼런스
+- [SLASH 21](https://toss.im/slash-21) : 3일차에 iOS 세션이 있습니다.
 
 ## Realm 아카데미 iOS 세션들
 <pre>
@@ -230,6 +232,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## Swift 기본 활용
+- [2021년 4월 30일, 메모리에 남지 않는 문자열](https://toss.im/slash-21/sessions/3-6) (17:19)
+
 - [2019년 11월 16일, Custom Operators in Swift](https://youtu.be/ZLCYtCxd98s) (21:43)
 
 - [2019년 11월 12일, Xcode Previews - IB 없이 개발하기](https://www.youtube.com/watch?v=eGerQUlXeyg&feature=youtu.be) (40:55)
