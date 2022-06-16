@@ -120,6 +120,14 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 링크 안에 강의 동영상을 볼 수 있는 링크가 있습니다.
 
 ## Let us:Go! ([iOS Developer KR](https://github.com/iOSDevKor))
+- 2022
+  - 봄 세션 : COVID-19
+  - 여름 세션 : https://let-us-go-2022-summer.vercel.app/
+  	- 일시 : 2022년 7월 16일(토) 13:00 ~ 18:00
+  	- 장소 : 서울 강남구 테헤란로 231 센터필드
+  	- let us: Go! 2022 Summer 참가 신청은 KST(GMT +9) 7월 1일(금) 14:00 부터!!! 😍
+  	- 기타 정보는 세션 정보 사이트로 확인해주세요~~
+- 2021 : COVID-19
 - 2020
   - 봄 세션 : COVID-19로 인한 취소
   - 여름 세션 : https://let-us-go-2020-summer.vercel.app/
