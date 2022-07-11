@@ -18,15 +18,15 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 > (Awesome Swift Korean lecture information)
 
 # 목차
-- [입문자용](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EC%9E%85%EB%AC%B8%EC%9E%90%EC%9A%A9)
+- [입문자용](#입문자용)
 
-- [좋은 세션](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EC%A2%8B%EC%9D%80-%EC%84%B8%EC%85%98)
+- [좋은 세션](#좋은-세션)
 	- [Let us:Go! (iOS Developer KR)](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#let-usgo-ios-developer-kr)
 	- [Let's Swift](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#lets-swift)
 	- [meetup](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#meetup)
 	- [Realm 아카데미 iOS 세션들](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#realm-%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8-ios-%EC%84%B8%EC%85%98%EB%93%A4)
 	
-- [카테고리별](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%B3%84)
+- [카테고리별](#카테고리별)
 	- [오토 레이아웃](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EC%98%A4%ED%86%A0-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83)
 	- [메모리 & 컴파일러](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EB%A9%94%EB%AA%A8%EB%A6%AC--%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC)
 	- [단축키](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EB%8B%A8%EC%B6%95%ED%82%A4)
@@ -51,11 +51,11 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 	- [서버 사이드](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EC%84%9C%EB%B2%84-%EC%82%AC%EC%9D%B4%EB%93%9C)
 	- [딥러닝](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EB%94%A5%EB%9F%AC%EB%8B%9D)
 
-- [RxSwift](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#rxswift)
+- [RxSwift](#rxswift)
 
-- [iOS 개발팁](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#ios-%EA%B0%9C%EB%B0%9C-%ED%8C%81)
+- [iOS 개발팁](#ios-개발-팁)
 
-- [기타링크](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EA%B8%B0%ED%83%80-%EB%A7%81%ED%81%AC)
+- [기타링크](#기타-링크)
 	
 	
 # 입문자용
