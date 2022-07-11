@@ -25,6 +25,8 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 	- [Let's Swift](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#lets-swift)
 	- [meetup](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#meetup)
 	- [Realm 아카데미 iOS 세션들](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#realm-%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8-ios-%EC%84%B8%EC%85%98%EB%93%A4)
+	- [adiOS](#adios)
+	- [asyncSwift](#asyncswift)
 	
 - [카테고리별](#카테고리별)
 	- [오토 레이아웃](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EC%98%A4%ED%86%A0-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83)
@@ -106,6 +108,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 - [코드스쿼드 iOS 교육과정](https://codesquad.kr/page/masters/ios.html) : 강사님이 훌륭해 보이십니다. 8주 커리큘럼을 통해 당신이 얼마나 크게 성장할 수 있는지 경험해볼 수 있을 것 같습니다.
 
+- [개발자리](https://www.youtube.com/channel/UCz03fpnmfEDOZCrE2hwcsUg) : SwiftUI를 배우기 좋은 입문자용 유튜브 입니다.
+
 
 <br />
 
@@ -182,6 +186,21 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
  Realm 아카데미는 항상 감사합니다.
 </pre>
 - [https://academy.realm.io/kr/section/apple/](https://academy.realm.io/kr/section/apple/) : Realm 아카데미 Apple(iOS) 탭, Apple 세션들이 다양하게 있습니다.
+
+## adiOS
+> 가장 캐쥬얼한 iOS 컨퍼런스 adiOS 입니다
+- 2022
+	- adiOS ASAP (2022년 9월 3일) : 추후 업데이트 하겠습니다.
+	- [adiOS Intro(2022년 4월)](https://www.youtube.com/watch?v=M678vw6qPrc&list=PLUsr11byBStEAiW2zHCqpGXvT6U5iMjfH)
+	- [adiOS Blossom(2022년 3월)](https://www.youtube.com/watch?v=2drL8a2jhfc&list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7)
+- 2021
+	- [adiOS Dec(2021년 12월)](https://www.youtube.com/watch?v=hOEsIUa7-1M&list=PLUsr11byBStGcYShIseKJOR54lNUz-sho)
+	- [adiOS Oct(2021년 10월)](https://www.youtube.com/watch?v=VPoxaE7w7wk&list=PLUsr11byBStFxL1J6wvflz_xyoiD2OeW9)
+
+## AsyncSwift
+> 포항에서 열리는 iOS 커뮤니티 행사
+- 2022
+	- [1st 안녕하세요(7월 15일 온,오프라인)](https://www.eventbrite.com/e/378518558197)
 
 <br />
 
