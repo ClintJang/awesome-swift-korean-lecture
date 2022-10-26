@@ -128,10 +128,10 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
   - 봄 세션 : COVID-19
   - 여름 세션 : https://let-us-go-2022-summer.vercel.app/
   - 가을 세션 : https://let-us-go-2022-fall.vercel.app/
-  		- 일시 : 2022년 11월 5일(토) 13:00~17:00
-  		- 장소 : 테헤란로 518, 한국섬유산업연합회 4층
-  		- 참가 신청은 끝이 났고, 세미나 참여를 기다리는 중이네요. 👍
-  		- 기타 자세한 정보는 세션 정보 사이트로 확인해주세요~~
+      - 일시 : 2022년 11월 5일(토) 13:00~17:00
+      - 장소 : 테헤란로 518, 한국섬유산업연합회 4층
+      - 기타 자세한 정보는 세션 정보 사이트로 확인해주세요~~
+  		
 - 2021 : COVID-19
 - 2020
   - 봄 세션 : COVID-19로 인한 취소
@@ -299,6 +299,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 2월 22일, Objective-C에서 Swift로 - iOS Tech Talk](https://academy.realm.io/kr/posts/from-objective-c-to-swift-ios-techtalk/) (22:24)
 
 ## SwiftUI
+- [2022년 7월 16일, SSG의 뻔하지 않은 SwiftUI 도입 고민 (feat. WWDC22)](https://www.youtube.com/watch?v=lx4Qy9Mw1cU&list=PLfx4MMAj7YbGO8f6R6A8L_E09JamSy63D&index=3&ab_channel=letus%3AGo%21) (31:48)
+
 - [2020년 11월 20일, SwiftUI를 망설이고 있다면?](https://if.kakao.com/session/98) (12:46)
 
 - [2020년 11월 20일, iOS 14 WidgetKit 카카오톡 적용기](https://if.kakao.com/session/111) (09:23) : WidgetKit은 SwiftUI를 반드시 사용해야됩니다. 🤗
