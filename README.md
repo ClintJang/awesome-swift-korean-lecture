@@ -39,14 +39,14 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 	- [Swift 버전 변화](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#swift-%EB%B2%84%EC%A0%84-%EB%B3%80%ED%99%94)
 	- [iOS 내부 구조 및 기본 Framework 활용](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#ios-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EA%B8%B0%EB%B3%B8-framework-%ED%99%9C%EC%9A%A9)
 	- [Playground](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#playground)
-	- [디자인패턴 & 코드 스타일](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4--%EC%BD%94%EB%93%9C-%EC%8A%A4%ED%83%80%EC%9D%BC)
+	- [디자인 패턴, 아키텍쳐 패턴 & 코드 스타일](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-%ED%8C%A8%ED%84%B4--%EC%BD%94%EB%93%9C-%EC%8A%A4%ED%83%80%EC%9D%BC)
 	- [TDD](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#tdd)
 	- [알고리즘](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 	- [네트워킹](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9)
 	- [UI/UX](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#uiux)
 	- [WWDC & Apple](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#wwdc--apple)
 	- [라이브러리](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
-	- [개발경험](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EA%B0%9C%EB%B0%9C%EA%B2%BD%ED%97%98)
+	- [기술토크 & 개발경험](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EA%B8%B0%EC%88%A0%ED%86%A0%ED%81%AC--%EA%B0%9C%EB%B0%9C%EA%B2%BD%ED%97%98)
 	- [세션 투어](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EC%84%B8%EC%85%98-%ED%88%AC%EC%96%B4)
 	- [Realm](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#realm)
 	- [Tool?좋은 개발을 위한 도구의 활용](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#tool%EC%A2%8B%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%8F%84%EA%B5%AC%EC%9D%98-%ED%99%9C%EC%9A%A9)
@@ -255,6 +255,10 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 5월 11일, 지속적인 전달을 위한 자동화 도구, fastlane: 데모와 함께 알아보기](https://academy.realm.io/kr/posts/ios-fastlane-demos/) (48:43)
 
 ## iOS 활용 및 팁
+- [2022년 7월 16일, InjectionIII를 이용한 Hot Reload로 앱 개발하기](https://www.youtube.com/watch?v=8185Baa8WqM&list=PLfx4MMAj7YbGO8f6R6A8L_E09JamSy63D&index=3&ab_channel=letus%3AGo%21) (19:49)
+
+- [2022년 7월 16일, 이제 문서는 DocC로 만들때가 되지 않았나요?](https://www.youtube.com/watch?v=loJeC6vZUlo&list=PLfx4MMAj7YbGO8f6R6A8L_E09JamSy63D&index=7&ab_channel=letus%3AGo%21) (19:47)
+
 - **⭐** [2019년 3월 30일, 프레임워크 주도 개발](https://youtu.be/YiEpuZQPuko) (34:45)
 
 - [2019년 1월 8일, 영어 변수명을 잘 지어보자](https://tv.naver.com/v/4980432) (34:45)
@@ -360,6 +364,10 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## 디자인 패턴, 아키텍쳐 패턴 & 코드 스타일
+- [2022년 7월 16일, 만들면서 느껴보는 POP](https://www.youtube.com/watch?v=q_mPAZB3RQY&list=PLfx4MMAj7YbGO8f6R6A8L_E09JamSy63D&index=6&ab_channel=letus%3AGo%21) (21:46)
+
+- [2022년 7월 16일, 주니어 입장에서 바라보는 디자인패턴 & 아키텍쳐](https://www.youtube.com/watch?v=-GzZ0Yj8h1g&list=PLfx4MMAj7YbGO8f6R6A8L_E09JamSy63D&index=5&ab_channel=letus%3AGo%21) (17:50)
+
 - [2019년 11월 12일, MVC, MVVM, ReactorKit, Viper를 거쳐 RIB 정착기](https://www.youtube.com/watch?v=3XS6xLzKRjc&feature=youtu.be) (26:34)
 
 - [2019년 8월 14일, Multiplatform Architecture RIBs in Swift](https://tv.naver.com/v/9502363) (48:13)
@@ -442,6 +450,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## 기술토크 & 개발경험
+- [2022년 7월 16일, 단톡방의 스마트 질문러](https://www.youtube.com/watch?v=sepOymHTzvw&list=PLfx4MMAj7YbGO8f6R6A8L_E09JamSy63D&index=4&ab_channel=letus%3AGo%21) (15:22)
+
 - [2020년 11월 30일, 레츠스위프트 2020 테크토크 Day1](https://www.youtube.com/watch?v=MMyfZ3pX2TA) (2:14:33) : 스위프트, 오픈소스, CoreML
 
 - [2020년 12월 1일, 레츠스위프트 2020 테크토크 Day2](https://www.youtube.com/watch?v=1KWRic-e5gg) (2:16:54) : SwiftUI vs. UIKit 끝장토론
