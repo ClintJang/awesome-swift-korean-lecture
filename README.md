@@ -160,6 +160,10 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## Let's Swift
+- 2022 : [http://letswift.kr/2022/](http://letswift.kr/2020/)
+	- November 30th, 2022 at Yangjae AT Center
+	- 11.16일에 티켓 판매 예정입니다
+- 2021 : COVID-19
 - 2020 : [http://letswift.kr/2020/](http://letswift.kr/2020/)
 - 2019 : [http://letswift.kr/2019/](http://letswift.kr/2019/)
 - 2018 : [http://letswift.kr/2018/](http://letswift.kr/2018/)
@@ -201,7 +205,12 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## AsyncSwift
 > 포항에서 열리는 iOS 커뮤니티 행사
 - 2022
+	- [SyncSwift 2022 Nesting, 둥지를 틀다.](https://www.asyncswift.org/)
+		- AsyncSwift의 첫 컨퍼런스 (SyncSwift 2022: Nesting 은 1년에 단 한 번뿐인, 애플 생태계 구성원들의 가장 큰 축제입니다.
+		- 2022년 11월 12일 토요일, 10:00~18:00
+		- 포항공과대학교 체인지업그라운드 LF 컨퍼런스홀
 	- [1st 안녕하세요(7월 15일 온,오프라인)](https://www.eventbrite.com/e/378518558197)
+	
 
 <br />
 
