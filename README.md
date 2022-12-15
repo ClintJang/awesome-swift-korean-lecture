@@ -128,9 +128,6 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
   - 봄 세션 : COVID-19
   - 여름 세션 : https://let-us-go-2022-summer.vercel.app/
   - 가을 세션 : https://let-us-go-2022-fall.vercel.app/
-      - 일시 : 2022년 11월 5일(토) 13:00~17:00
-      - 장소 : 테헤란로 518, 한국섬유산업연합회 4층
-      - 기타 자세한 정보는 세션 정보 사이트로 확인해주세요~~
   		
 - 2021 : COVID-19
 - 2020
@@ -160,9 +157,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## Let's Swift
-- 2022 : [http://letswift.kr/2022/](http://letswift.kr/2020/)
-	- November 30th, 2022 at Yangjae AT Center
-	- 11.16일에 티켓 판매 예정입니다
+- 2022 : [http://letswift.kr/2022/](http://letswift.kr/2022/)
 - 2021 : COVID-19
 - 2020 : [http://letswift.kr/2020/](http://letswift.kr/2020/)
 - 2019 : [http://letswift.kr/2019/](http://letswift.kr/2019/)
@@ -312,6 +307,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2017년 2월 22일, Objective-C에서 Swift로 - iOS Tech Talk](https://academy.realm.io/kr/posts/from-objective-c-to-swift-ios-techtalk/) (22:24)
 
 ## SwiftUI
+- [2022년 11월 05일, SwiftUI를 도입하기 전 대비하는 자세](https://www.youtube.com/watch?v=Q9F_DgHzsB8&list=PLfx4MMAj7YbFUnrH7M4Fc8IMAkP5NusNi&index=3) (16:03)
+
 - [2022년 7월 16일, SSG의 뻔하지 않은 SwiftUI 도입 고민 (feat. WWDC22)](https://www.youtube.com/watch?v=lx4Qy9Mw1cU&list=PLfx4MMAj7YbGO8f6R6A8L_E09JamSy63D&index=3&ab_channel=letus%3AGo%21) (31:48)
 
 - [2020년 11월 20일, SwiftUI를 망설이고 있다면?](https://if.kakao.com/session/98) (12:46)
@@ -364,6 +361,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## 디자인 패턴, 아키텍쳐 패턴 & 코드 스타일
+- [2022년 11월 05일, MVI Architecture](https://www.youtube.com/watch?v=wolbYyAjQVs&list=PLfx4MMAj7YbFUnrH7M4Fc8IMAkP5NusNi&index=4) (28:15)
+
 - [2022년 7월 16일, 만들면서 느껴보는 POP](https://www.youtube.com/watch?v=q_mPAZB3RQY&list=PLfx4MMAj7YbGO8f6R6A8L_E09JamSy63D&index=6&ab_channel=letus%3AGo%21) (21:46)
 
 - [2022년 7월 16일, 주니어 입장에서 바라보는 디자인패턴 & 아키텍쳐](https://www.youtube.com/watch?v=-GzZ0Yj8h1g&list=PLfx4MMAj7YbGO8f6R6A8L_E09JamSy63D&index=5&ab_channel=letus%3AGo%21) (17:50)
@@ -450,6 +449,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## 기술토크 & 개발경험
+- [2022년 11월 05일, 공정 사회를 위한 엔지니어링](https://www.youtube.com/watch?v=C_UM6iq-ZzY&list=PLfx4MMAj7YbFUnrH7M4Fc8IMAkP5NusNi&index=5) (31:40)
+
 - [2022년 7월 16일, 단톡방의 스마트 질문러](https://www.youtube.com/watch?v=sepOymHTzvw&list=PLfx4MMAj7YbGO8f6R6A8L_E09JamSy63D&index=4&ab_channel=letus%3AGo%21) (15:22)
 
 - [2020년 11월 30일, 레츠스위프트 2020 테크토크 Day1](https://www.youtube.com/watch?v=MMyfZ3pX2TA) (2:14:33) : 스위프트, 오픈소스, CoreML
