@@ -361,6 +361,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## 디자인 패턴, 아키텍쳐 패턴 & 코드 스타일
+- **⭐** [2022년 11월 05일, 느슨한 결합을 느껴보자](https://www.youtube.com/watch?v=z62qp-owiSk&list=PLfx4MMAj7YbFUnrH7M4Fc8IMAkP5NusNi&index=6&ab_channel=letus%3AGo%21) (26:49)
+
 - [2022년 11월 05일, MVI Architecture](https://www.youtube.com/watch?v=wolbYyAjQVs&list=PLfx4MMAj7YbFUnrH7M4Fc8IMAkP5NusNi&index=4) (28:15)
 
 - [2022년 7월 16일, 만들면서 느껴보는 POP](https://www.youtube.com/watch?v=q_mPAZB3RQY&list=PLfx4MMAj7YbGO8f6R6A8L_E09JamSy63D&index=6&ab_channel=letus%3AGo%21) (21:46)
@@ -397,6 +399,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## TDD
+- [2022년 11월 05일, CI/CD 최종보스 UI테스트 자동화](https://www.youtube.com/watch?v=HN7JFDaM4wM&list=PLfx4MMAj7YbFUnrH7M4Fc8IMAkP5NusNi&index=8&ab_channel=letus%3AGo%21) (40:59)
+
 - [2018년 11월 6일, Let's TDD](https://www.youtube.com/watch?v=meTnd09Pf_M&feature=youtu.be) (1:17:40) : 워크숍 세션이라 발표자료와 셈플 코드도 참고해주세요.
 	- [발표자료](https://www.slideshare.net/devxoul/lets-tdd-122653088), &nbsp; [샘플코드](https://github.com/devxoul/LetsGitHubSearch)
 
@@ -449,7 +453,9 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## 기술토크 & 개발경험
-- [2022년 11월 05일, 공정 사회를 위한 엔지니어링](https://www.youtube.com/watch?v=C_UM6iq-ZzY&list=PLfx4MMAj7YbFUnrH7M4Fc8IMAkP5NusNi&index=5) (31:40)
+- **⭐** [2022년 11월 05일, 공정 사회를 위한 엔지니어링](https://www.youtube.com/watch?v=C_UM6iq-ZzY&list=PLfx4MMAj7YbFUnrH7M4Fc8IMAkP5NusNi&index=5) (31:40)
+
+- [2022년 11월 05일, 신입은 회사가 즐거워](https://www.youtube.com/watch?v=GC1adYUuTy8&list=PLfx4MMAj7YbFUnrH7M4Fc8IMAkP5NusNi&index=7&ab_channel=letus%3AGo%21) (16:40)
 
 - [2022년 7월 16일, 단톡방의 스마트 질문러](https://www.youtube.com/watch?v=sepOymHTzvw&list=PLfx4MMAj7YbGO8f6R6A8L_E09JamSy63D&index=4&ab_channel=letus%3AGo%21) (15:22)
 
