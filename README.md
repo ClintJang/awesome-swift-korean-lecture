@@ -243,6 +243,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
     - 스피커님 블러그 : https://learnswiftwithbob.com/
 
 ## iOS App 배포하기
+- [2022년 11월 30일, 인증서와 프로비저닝 프로파일](https://www.youtube.com/watch?v=Kbx_lBhhwDA&ab_channel=%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C) (20:26)
+
 - [2018년 3월 10일, 초보를 위한 iOS 앱 배포하기](https://www.youtube.com/watch?v=TPmHrv6eMZ8&feature=youtu.be) (34:17)
 
 - [2017년 12월 20일, 토스의 개발/배포 환경](https://www.youtube.com/watch?v=338FdLzGhhY&feature=youtu.be) (33:13)
@@ -453,6 +455,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## 기술토크 & 개발경험
+- [2022년 11월 30일, 비전공 대졸 경력0년차 초주니어의 iOS 개발자로 살아남기](https://www.youtube.com/watch?v=3k3LyFBKwyo&ab_channel=%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C) (22:01)
+
 - **⭐** [2022년 11월 05일, 공정 사회를 위한 엔지니어링](https://www.youtube.com/watch?v=C_UM6iq-ZzY&list=PLfx4MMAj7YbFUnrH7M4Fc8IMAkP5NusNi&index=5) (31:40)
 
 - [2022년 11월 05일, 신입은 회사가 즐거워](https://www.youtube.com/watch?v=GC1adYUuTy8&list=PLfx4MMAj7YbFUnrH7M4Fc8IMAkP5NusNi&index=7&ab_channel=letus%3AGo%21) (16:40)
@@ -807,10 +811,11 @@ RxSwift를 공부하시려 하신다면.. 한번 꼭 보시길 추천드립니�
 # Contributors
 > 항상 감사한 마음을 가지고 있습니다.
 
+- [M1zz](https://github.com/M1zz)
 - [betterhee](https://github.com/betterhee)
 - [wnstkdyu](https://github.com/wnstkdyu) 
 - [oaksong](https://github.com/oaksong)
-- [clintjang](https://github.com/clintjang)
+- [ClintJang](https://github.com/clintjang)
 
 
 <br /><br />즐거운 하루 되세요 🙇‍
