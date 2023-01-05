@@ -165,28 +165,6 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - 2017 : [http://letswift.kr/2017/](http://letswift.kr/2017/)
 - 2016 : [http://letswift.kr/2016/](http://letswift.kr/2016/)
 
-## meetup
-> 2018년는 Let's Swift와 함께 했습니다.
-
-- 2017년 12월 13일 : [https://swiftkorea.github.io/meetup/2#](https://swiftkorea.github.io/meetup/2#)
-- 2017년 4월 28일 : [https://swiftkorea.github.io/meetup/1#](https://swiftkorea.github.io/meetup/1#)
-
-## NAVER Tech Talk
-- [iOS 밋업 (2021년 3월)](https://d2.naver.com/news/2206864)
-- [iOS / Android 밋업 (2020년 4월, 7월)](https://d2.naver.com/news/2579889)
-- [iOS 밋업 (2019년 6월)](https://d2.naver.com/news/0427227)
-- [iOS 밋업 (2019년 2월, 4월)](https://d2.naver.com/news/7569447)
-- [iOS 밋업 (2018년 8월~10월)](https://d2.naver.com/news/7036256)
-
-## 토스 개발자 컨퍼런스
-- [SLASH 21](https://toss.im/slash-21) : 3일차에 iOS 세션이 있습니다.
-
-## Realm 아카데미 iOS 세션들
-<pre>
- Realm 아카데미는 항상 감사합니다.
-</pre>
-- [https://academy.realm.io/kr/section/apple/](https://academy.realm.io/kr/section/apple/) : Realm 아카데미 Apple(iOS) 탭, Apple 세션들이 다양하게 있습니다.
-
 ## adiOS
 > 가장 캐쥬얼한 iOS 컨퍼런스 adiOS 입니다
 - 2022
@@ -205,7 +183,33 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 		- 2022년 11월 12일 토요일, 10:00~18:00
 		- 포항공과대학교 체인지업그라운드 LF 컨퍼런스홀
 	- [1st 안녕하세요(7월 15일 온,오프라인)](https://www.eventbrite.com/e/378518558197)
-	
+
+## NAVER Tech Talk
+- [iOS 밋업 (2021년 3월)](https://d2.naver.com/news/2206864)
+- [iOS / Android 밋업 (2020년 4월, 7월)](https://d2.naver.com/news/2579889)
+- [iOS 밋업 (2019년 6월)](https://d2.naver.com/news/0427227)
+- [iOS 밋업 (2019년 2월, 4월)](https://d2.naver.com/news/7569447)
+- [iOS 밋업 (2018년 8월~10월)](https://d2.naver.com/news/7036256)
+
+## 토스 개발자 컨퍼런스
+- [SLASH 21](https://toss.im/slash-21) : 3일차에 iOS 세션이 있습니다.
+
+## NHN 개발자 컨퍼런스
+- [NHN FORWARD 22](https://forward.nhn.com/2022) : 17:00~17:40 트랙 5에 iOS 세션이 있습니다.
+
+## meetup
+> 2018년는 Let's Swift와 함께 했습니다.
+
+- 2017년 12월 13일 : [https://swiftkorea.github.io/meetup/2#](https://swiftkorea.github.io/meetup/2#)
+- 2017년 4월 28일 : [https://swiftkorea.github.io/meetup/1#](https://swiftkorea.github.io/meetup/1#)
+
+## Realm 아카데미 iOS 세션들
+<pre>
+ Realm 아카데미는 항상 감사합니다.
+</pre>
+- [https://academy.realm.io/kr/section/apple/](https://academy.realm.io/kr/section/apple/) : Realm 아카데미 Apple(iOS) 탭, Apple 세션들이 다양하게 있습니다.
+
+
 
 <br />
 
@@ -363,6 +367,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 
 ## 디자인 패턴, 아키텍쳐 패턴 & 코드 스타일
+- [2022년 11월 24일, ReactorKit을 이용한 MVI 적용 과정](https://forward.nhn.com/2022/sessions/41) (37:51)
+
 - **⭐** [2022년 11월 05일, 느슨한 결합을 느껴보자](https://www.youtube.com/watch?v=z62qp-owiSk&list=PLfx4MMAj7YbFUnrH7M4Fc8IMAkP5NusNi&index=6&ab_channel=letus%3AGo%21) (26:49)
 
 - [2022년 11월 05일, MVI Architecture](https://www.youtube.com/watch?v=wolbYyAjQVs&list=PLfx4MMAj7YbFUnrH7M4Fc8IMAkP5NusNi&index=4) (28:15)
