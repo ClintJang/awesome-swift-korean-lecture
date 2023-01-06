@@ -192,6 +192,7 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [iOS 밋업 (2018년 8월~10월)](https://d2.naver.com/news/7036256)
 
 ## 토스 개발자 컨퍼런스
+- [SLASH 22](https://toss.im/slash-22) : 1, 3일차에 iOS 세션이 있습니다.
 - [SLASH 21](https://toss.im/slash-21) : 3일차에 iOS 세션이 있습니다.
 
 ## NHN 개발자 컨퍼런스
@@ -248,6 +249,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 ## iOS App 배포하기
 - [2022년 11월 30일, 인증서와 프로비저닝 프로파일](https://www.youtube.com/watch?v=Kbx_lBhhwDA&ab_channel=%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C) (20:26)
+
+- [2022년 06월 10일, iOS앱을 매주 배포 한다고?](https://toss.im/slash-22/sessions/3-4) (17:08)
 
 - [2018년 3월 10일, 초보를 위한 iOS 앱 배포하기](https://www.youtube.com/watch?v=TPmHrv6eMZ8&feature=youtu.be) (34:17)
 
@@ -316,6 +319,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 - [2022년 11월 05일, SwiftUI를 도입하기 전 대비하는 자세](https://www.youtube.com/watch?v=Q9F_DgHzsB8&list=PLfx4MMAj7YbFUnrH7M4Fc8IMAkP5NusNi&index=3) (16:03)
 
 - [2022년 7월 16일, SSG의 뻔하지 않은 SwiftUI 도입 고민 (feat. WWDC22)](https://www.youtube.com/watch?v=lx4Qy9Mw1cU&list=PLfx4MMAj7YbGO8f6R6A8L_E09JamSy63D&index=3&ab_channel=letus%3AGo%21) (31:48)
+
+- [2022년  6월 08일, UIKit으로 만들어진 토스 디자인 시스템, SwiftUI에서 쓸 수 있을까?](https://toss.im/slash-22/sessions/1-1) (08:24)
 
 - [2020년 11월 20일, SwiftUI를 망설이고 있다면?](https://if.kakao.com/session/98) (12:46)
 
