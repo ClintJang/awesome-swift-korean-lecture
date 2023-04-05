@@ -50,6 +50,7 @@ Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 �
 	- [세션 투어](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EC%84%B8%EC%85%98-%ED%88%AC%EC%96%B4)
 	- [Realm](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#realm)
 	- [Tool?좋은 개발을 위한 도구의 활용](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#tool%EC%A2%8B%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%8F%84%EA%B5%AC%EC%9D%98-%ED%99%9C%EC%9A%A9)
+	- [Bluetooth & BLE](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#bluetooth--ble)
 	- [서버 사이드](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EC%84%9C%EB%B2%84-%EC%82%AC%EC%9D%B4%EB%93%9C)
 	- [딥러닝](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md#%EB%94%A5%EB%9F%AC%EB%8B%9D)
 
@@ -545,6 +546,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 
 - [2017년 12월 13일, Simulator Customizing & Testing](https://www.youtube.com/watch?v=4i2EBnmUMcs&feature=youtu.be) (18:17)
 
+## Bluetooth & BLE
+- [2023년 3월 25일, CoreBluetooth로 1:1 채팅앱 만들어보기](https://www.youtube.com/watch?v=p1KoJtqxXBE) (36:25)
 
 ## 서버 사이드
 - [2017년 12월 20일, Server-less vs. Server-side](https://www.youtube.com/watch?v=3eneYtXdmR4&feature=youtu.be) (25:07)
