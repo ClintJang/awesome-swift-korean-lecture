@@ -171,7 +171,8 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## adiOS
 > 가장 캐쥬얼한 iOS 컨퍼런스 adiOS 입니다
 - 2022
-	- adiOS ASAP (2022년 9월 3일) : 추후 업데이트 하겠습니다.
+	- [adiOS Something(2022년 12월 18일)](https://youtube.com/playlist?list=PLUsr11byBStFIg-hhapmB6nuj0dgJQjJ6)
+	- [adiOS ASAP(2022년 9월 3일)](https://www.youtube.com/playlist?list=PLUsr11byBStGovDXPQ4EcTi0Q4dst1Hei)
 	- [adiOS Intro(2022년 4월)](https://www.youtube.com/watch?v=M678vw6qPrc&list=PLUsr11byBStEAiW2zHCqpGXvT6U5iMjfH)
 	- [adiOS Blossom(2022년 3월)](https://www.youtube.com/watch?v=2drL8a2jhfc&list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7)
 - 2021
