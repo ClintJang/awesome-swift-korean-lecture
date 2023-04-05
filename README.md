@@ -124,11 +124,14 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 링크 안에 강의 동영상을 볼 수 있는 링크가 있습니다.
 
 ## Let us:Go! ([iOS Developer KR](https://github.com/iOSDevKor))
+- 2023
+  - 봄 세션 : https://let-us-go-2023-spring.vercel.app/
+  
 - 2022
   - 봄 세션 : COVID-19
   - 여름 세션 : https://let-us-go-2022-summer.vercel.app/
   - 가을 세션 : https://let-us-go-2022-fall.vercel.app/
-  		
+  
 - 2021 : COVID-19
 - 2020
   - 봄 세션 : COVID-19로 인한 취소
