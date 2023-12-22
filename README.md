@@ -127,6 +127,10 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
 ## Let us:Go! ([iOS Developer KR](https://github.com/iOSDevKor))
 - 2023
   - 봄 세션 : https://let-us-go-2023-spring.vercel.app/
+  - 여름 : 2023 let us: Go! Summer 찍먹톤!!!
+  - 가을 세션 :   https://letusgo2023fall.vercel.app/
+      - [가을 전체영상](https://www.youtube.com/playlist?list=PLfx4MMAj7YbHfYVcKUH0QMCiVV7da-R8k)
+  - 겨울 송년의 밤 :  https://letusgo2023-winter.vercel.app/
   
 - 2022
   - 봄 세션 : COVID-19
@@ -159,6 +163,13 @@ UI 구현 관련해서는 아래 세션 중에 오토 레이아웃 관련 세션
   - 가을 세션 : https://iosdevkor.github.io/let_us_go_2017_fall_review/
   - 겨울 : 훈훈한 모임이 있었죠.. (강남 모 닭집)
 
+## KWDC
+> Koreawide Developer Conference
+
+- 2023 : [KWDC2023](https://kwdc.dev/)
+  - 2023. 07. 18. 10:30 a.m.
+  - Coex Grandballroom, Seoul
+  - [전체영상](https://www.youtube.com/playlist?list=PLgMxIbiMmK_6hEwiRbTtVqmWCS8bIz5q2)
 
 ## Let's Swift
 - 2022 : [http://letswift.kr/2022/](http://letswift.kr/2022/)
